@@ -622,37 +622,93 @@
       "clinics": {
         "Allsports Podiatry Pimpama": {
           "services": [],
-          "scraped": false,
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/pimpama-allsports-podiatry/"
         },
         "Back In Motion Podiatry Bundall": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Surgical Podiatry",
+            "Supramalleolar Orthotics (SMOs)",
+            "Clinical Podiatry",
+            "Custom Foot Orthotics",
+            "Diabetes and Footcare",
+            "Custom Footwear",
+            "National Disability Insurance Scheme (NDIS)",
+            "Seniors Footcare",
+            "Shockwave Therapy",
+            "Ankle-Foot Orthoses"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/bundall-back-in-motion-podiatry/"
         },
         "Back In Motion Podiatry Burleigh Waters": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Surgical Podiatry",
+            "Supramalleolar Orthotics (SMOs)",
+            "Clinical Podiatry",
+            "Custom Foot Orthotics",
+            "Diabetes and Footcare",
+            "Custom Footwear",
+            "National Disability Insurance Scheme (NDIS)",
+            "Seniors Footcare",
+            "Shockwave Therapy",
+            "Ankle-Foot Orthoses"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/burleigh-waters-back-in-motion-podiatry/"
         },
         "My FootDr Hope Island": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Fungal Nail Infection Laser Treatment",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Shockwave Therapy",
+            "Footwear",
+            "Cryotherapy For Plantar Warts",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/hope-island-podiatry-centre/"
         },
         "Physiologic Podiatry Robina": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/robina-physiologic-podiatry-centre/"
         },
         "My FootDr Varsity Lakes (formerly Robina)": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Surgical Podiatry",
+            "Clinical Podiatry",
+            "Custom Foot Orthotics",
+            "Fungal Nail Infection Laser Treatment",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Seniors Footcare",
+            "Shockwave Therapy"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/robina-podiatry-centre/"
         },
         "Back In Motion Podiatry Mudgeeraba": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/mudgeeraba-back-in-motion-podiatry/"
         }
       }
@@ -660,63 +716,193 @@
     "New South Wales": {
       "clinics": {
         "My FootDr Bathurst": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/bathurst-podiatry-centre/"
         },
         "My FootDr Blacktown": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/blacktown-podiatry-centre/"
         },
         "My FootDr Burwood": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Shockwave Therapy",
+            "Footwear",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/burwood-podiatry-centre/"
         },
         "My FootDr Casula": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Fungal Nail Infection Laser Treatment",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Shockwave Therapy",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/casula-podiatry-centre/"
         },
         "My FootDr Cessnock": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/cessnock-back-in-motion-podiatry/"
         },
         "My FootDr Charlestown": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Bracenfix™ - Ingrown Toenail Treatment",
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "Shockwave Therapy",
+            "Footwear"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/charlestown/"
         },
         "My FootDr Dubbo": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Fungal Nail Infection Laser Treatment",
+            "Diabetes and Footcare",
+            "Custom Footwear",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Shockwave Therapy",
+            "Footwear",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/dubbo-podiatry-centre/"
         },
         "My FootDr Mittagong": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Shockwave Therapy",
+            "Cryotherapy For Plantar Warts",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/mittagong-podiatry-centre/"
         },
         "My FootDr Moorebank": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Shockwave Therapy",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/moorebank-podiatry-centre/"
         },
         "My FootDr Narellan": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Fungal Nail Infection Laser Treatment",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Shockwave Therapy",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/narellan-podiatry-centre/"
         },
         "My FootDr Orange": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Fungal Nail Infection Laser Treatment",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Footwear",
+            "Cryotherapy For Plantar Warts",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/orange-podiatry-centre/"
         },
         "My FootDr Tweed Heads": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Fungal Nail Infection Laser Treatment",
+            "Diabetes and Footcare",
+            "Custom Footwear",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Cosmetic Nail Restoration",
+            "Shockwave Therapy",
+            "Footwear",
+            "Paraffin Wax Bath Treatment",
+            "Resources",
+            "Ankle-Foot Orthoses"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/tweed-heads-podiatry-centre/"
         }
       }
@@ -724,33 +910,92 @@
     "North Queensland": {
       "clinics": {
         "My FootDr Cairns": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Fungal Nail Infection Laser Treatment",
+            "Diabetes and Footcare",
+            "Custom Footwear",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Shockwave Therapy",
+            "Footwear",
+            "Paraffin Wax Bath Treatment",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/cairns-podiatry-centre/"
         },
         "NQ Foot & Ankle Centre Cowboys Centre of Excellence": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Diabetes and Footcare",
+            "Shockwave Therapy"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/cowboys-centre-of-excellence-nq-foot-ankle-centre/"
         },
         "NQ Foot & Ankle Centre Kirwan": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Shockwave Therapy",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/my-footdr-nq-foot/"
         },
         "My FootDr Thuringowa": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Fungal Nail Infection Laser Treatment",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Cosmetic Nail Restoration",
+            "Shockwave Therapy",
+            "Footwear",
+            "Cryotherapy For Plantar Warts",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/thuringowa-podiatry-centre/"
         },
         "My FootDr Townsville": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Fungal Nail Infection Laser Treatment",
+            "Diabetes and Footcare",
+            "Custom Footwear",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Shockwave Therapy",
+            "Paraffin Wax Bath Treatment",
+            "Cryotherapy For Plantar Warts",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/townsville-podiatry-centre/"
         },
         "Foundation Podiatry": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "None"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/foundation-podiatry/"
         }
       }
@@ -758,8 +1003,20 @@
     "Northern Territory": {
       "clinics": {
         "My FootDr Palmerston": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Fungal Nail Infection Laser Treatment",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Footwear",
+            "Cryotherapy For Plantar Warts",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/palmerston-podiatry-centre/"
         }
       }
@@ -767,8 +1024,19 @@
     "South Australia": {
       "clinics": {
         "My FootDr Aldinga": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Fungal Nail Infection Laser Treatment",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Shockwave Therapy",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/aldinga-podiatry-centre/"
         },
         "My FootDr Blackwood": {
