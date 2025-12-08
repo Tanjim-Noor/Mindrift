@@ -10,23 +10,52 @@
     "Brisbane": {
       "clinics": {
         "Allsports Podiatry Albany Creek": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "Seniors Footcare",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/albany-creek-allsports-podiatry/"
         },
         "Allsports Podiatry Aspley": {
           "services": [],
-          "scraped": false,
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/aspley-allsports-podiatry/"
         },
         "Allsports Podiatry Calamvale": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Seniors Footcare",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/calamvale-podiatry-centre-allsports/"
         },
         "Allsports Podiatry Camp Hill": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Seniors Footcare",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/camp-hill-podiatry-centre-allsports/"
         },
         "Allsports Podiatry Forest Lake": {
@@ -40,8 +69,18 @@
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/hawthorne-podiatry-clinic-allsports-podiatry/"
         },
         "Allsports Podiatry Indooroopilly": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Seniors Footcare",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/indooroopilly-podiatry-centre-allsports/"
         },
         "Allsports Podiatry Kangaroo Point": {
@@ -50,8 +89,17 @@
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/kangaroo-point-allsports-podiatry-centre/"
         },
         "Allsports Podiatry Red Hill": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/red-hill-podiatry-centre-allsports/"
         },
         "Allsports Podiatry The Gap": {

@@ -1,0 +1,235 @@
+UNSCRAPED CLINICS IDENTIFICATION REPORT
+Total unscraped clinics: 98
+Generated: 1765208530.1180468
+
+====================================================================================================
+
+
+BRISBANE (25 clinics)
+----------------------------------------------------------------------------------------------------
+#001 | Allsports Podiatry Forest Lake                     | Brisbane                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/forest-lake-podiatry-centre-allsports/
+#002 | Allsports Podiatry Hawthorne                       | Brisbane                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/hawthorne-podiatry-clinic-allsports-podiatry/
+#003 | Allsports Podiatry Kangaroo Point                  | Brisbane                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/kangaroo-point-allsports-podiatry-centre/
+#004 | Allsports Podiatry The Gap                         | Brisbane                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/the-gap-podiatry-centre-allsports/
+#005 | Allsports Podiatry Toowong                         | Brisbane                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/toowong-podiatry-centre-allsports/
+#006 | Allsports Podiatry Wavell Heights                  | Brisbane                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/wavell-heights-podiatry-centre-allsports/
+#007 | Anytime Physio & Podiatry Newstead                 | Brisbane                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/newstead-podiatry-clinic-anytime-physio-podiatry/
+#008 | My FootDr Brisbane CBD                             | Brisbane                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/brisbane-cbd-podiatry-centre/
+#009 | My FootDr Brookside                                | Brisbane                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/mitchelton-podiatry-centre/
+#010 | My FootDr Brookwater                               | Brisbane                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/brookwater-podiatry-centre/
+#011 | My FootDr Camp Hill                                | Brisbane                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/camp-hill-podiatry-centre/
+#012 | My FootDr Cleveland                                | Brisbane                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/cleveland-podiatry-centre/
+#013 | My FootDr Fortitude Valley                         | Brisbane                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/fortitude-valley-podiatry-centre/
+#014 | My FootDr Gumdale                                  | Brisbane                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/gumdale-podiatry-centre/
+#015 | My FootDr Indooroopilly                            | Brisbane                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/indooroopilly-podiatry-centre/
+#016 | My FootDr Ipswich                                  | Brisbane                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/ipswich-podiatry-centre/
+#017 | My FootDr Jindalee                                 | Brisbane                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/jindalee-podiatry-centre-allsports/
+#018 | My FootDr Mt Gravatt                               | Brisbane                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/mountgravatt-podiatry-orthotics-customfootwear/
+#019 | My FootDr North Lakes                              | Brisbane                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/north-lakes-podiatry-centre/
+#020 | My FootDr Red Hill                                 | Brisbane                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/red-hill/
+#021 | My FootDr Redcliffe                                | Brisbane                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/redcliffe-podiatry-centre/
+#022 | My FootDr Shailer Park                             | Brisbane                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/shailer-park-podiatry-centre/
+#023 | My FootDr Stafford                                 | Brisbane                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/stafford-podiatry-centre/
+#024 | My FootDr Toowoomba                                | Brisbane                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/toowoomba-podiatry-centre/
+#025 | My FootDr Wellington Point                         | Brisbane                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/wellington-point-podiatry-centre-allsports/
+
+CENTRAL QUEENSLAND (8 clinics)
+----------------------------------------------------------------------------------------------------
+#026 | Advanced Foot Care Bargara                         | Central Queensland       
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/bargara-advanced-foot-care-podiatry-clinic/
+#027 | Advanced Foot Care Bundaberg                       | Central Queensland       
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/bundaberg-advanced-foot-care-podiatry-centre/
+#028 | Advanced Foot Care Hervey Bay                      | Central Queensland       
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/hervey-bay-advanced-foot-care-podiatry-centre/
+#029 | Advanced Foot Care Monto                           | Central Queensland       
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/monto-advanced-foot-care-podiatry-clinic/
+#030 | My FootDr Gladstone                                | Central Queensland       
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/gladstone-podiatry-centre/
+#031 | My FootDr Mackay                                   | Central Queensland       
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/mackay-podiatry-centre/
+#032 | My FootDr Rockhampton                              | Central Queensland       
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/rockhampton-podiatry-centre/
+#033 | My FootDr Yeppoon                                  | Central Queensland       
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/yeppoon-podiatry-centre/
+
+GOLD COAST (7 clinics)
+----------------------------------------------------------------------------------------------------
+#034 | Allsports Podiatry Pimpama                         | Gold Coast               
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/pimpama-allsports-podiatry/
+#035 | Back In Motion Podiatry Bundall                    | Gold Coast               
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/bundall-back-in-motion-podiatry/
+#036 | Back In Motion Podiatry Burleigh Waters            | Gold Coast               
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/burleigh-waters-back-in-motion-podiatry/
+#037 | My FootDr Hope Island                              | Gold Coast               
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/hope-island-podiatry-centre/
+#038 | Physiologic Podiatry Robina                        | Gold Coast               
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/robina-physiologic-podiatry-centre/
+#039 | My FootDr Varsity Lakes (formerly Robina)          | Gold Coast               
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/robina-podiatry-centre/
+#040 | Back In Motion Podiatry Mudgeeraba                 | Gold Coast               
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/mudgeeraba-back-in-motion-podiatry/
+
+NEW SOUTH WALES (12 clinics)
+----------------------------------------------------------------------------------------------------
+#041 | My FootDr Bathurst                                 | New South Wales          
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/bathurst-podiatry-centre/
+#042 | My FootDr Blacktown                                | New South Wales          
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/blacktown-podiatry-centre/
+#043 | My FootDr Burwood                                  | New South Wales          
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/burwood-podiatry-centre/
+#044 | My FootDr Casula                                   | New South Wales          
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/casula-podiatry-centre/
+#045 | My FootDr Cessnock                                 | New South Wales          
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/cessnock-back-in-motion-podiatry/
+#046 | My FootDr Charlestown                              | New South Wales          
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/charlestown/
+#047 | My FootDr Dubbo                                    | New South Wales          
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/dubbo-podiatry-centre/
+#048 | My FootDr Mittagong                                | New South Wales          
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/mittagong-podiatry-centre/
+#049 | My FootDr Moorebank                                | New South Wales          
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/moorebank-podiatry-centre/
+#050 | My FootDr Narellan                                 | New South Wales          
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/narellan-podiatry-centre/
+#051 | My FootDr Orange                                   | New South Wales          
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/orange-podiatry-centre/
+#052 | My FootDr Tweed Heads                              | New South Wales          
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/tweed-heads-podiatry-centre/
+
+NORTH QUEENSLAND (6 clinics)
+----------------------------------------------------------------------------------------------------
+#053 | My FootDr Cairns                                   | North Queensland         
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/cairns-podiatry-centre/
+#054 | NQ Foot & Ankle Centre Cowboys Centre of Excellence | North Queensland         
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/cowboys-centre-of-excellence-nq-foot-ankle-centre/
+#055 | NQ Foot & Ankle Centre Kirwan                      | North Queensland         
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/my-footdr-nq-foot/
+#056 | My FootDr Thuringowa                               | North Queensland         
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/thuringowa-podiatry-centre/
+#057 | My FootDr Townsville                               | North Queensland         
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/townsville-podiatry-centre/
+#058 | Foundation Podiatry                                | North Queensland         
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/foundation-podiatry/
+
+NORTHERN TERRITORY (1 clinics)
+----------------------------------------------------------------------------------------------------
+#059 | My FootDr Palmerston                               | Northern Territory       
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/palmerston-podiatry-centre/
+
+SOUTH AUSTRALIA (9 clinics)
+----------------------------------------------------------------------------------------------------
+#060 | My FootDr Aldinga                                  | South Australia          
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/aldinga-podiatry-centre/
+#061 | My FootDr Blackwood                                | South Australia          
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/blackwood-podiatry-centre/
+#062 | My FootDr Christies Beach                          | South Australia          
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/christies-beach-podiatry-centre/
+#063 | My FootDr Findon                                   | South Australia          
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/findon-podiatry-centre/
+#064 | My FootDr Glenelg                                  | South Australia          
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/glenelg-podiatry-centre/
+#065 | My FootDr Modbury                                  | South Australia          
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/modbury-podiatry-centre/
+#066 | My FootDr Mt Barker                                | South Australia          
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/mt-barker-podiatry-centre/
+#067 | My FootDr Norwood                                  | South Australia          
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/norwood-podiatry-centre/
+#068 | My FootDr Salisbury                                | South Australia          
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/salisbury-podiatry-centre/
+
+SUNSHINE COAST (8 clinics)
+----------------------------------------------------------------------------------------------------
+#069 | Allsports Podiatry Noosa                           | Sunshine Coast           
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/noosa/
+#070 | My FootDr Beerwah                                  | Sunshine Coast           
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/beerwah-podiatry-clinic/
+#071 | My FootDr Buderim                                  | Sunshine Coast           
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/buderim-podiatry-centre/
+#072 | My FootDr Caloundra                                | Sunshine Coast           
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/caloundra-podiatry-centre/
+#073 | My FootDr Kawana                                   | Sunshine Coast           
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/kawana-podiatry-centre/
+#074 | My FootDr Maroochydore                             | Sunshine Coast           
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/maroochydore/
+#075 | My FootDr Mooloolaba                               | Sunshine Coast           
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/mooloolaba-podiatry-centre/
+#076 | My FootDr Nambour                                  | Sunshine Coast           
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/nambour-podiatry-centre/
+
+TASMANIA (2 clinics)
+----------------------------------------------------------------------------------------------------
+#077 | My FootDr Devonport                                | Tasmania                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/devonport-podiatry-centre/
+#078 | Ispahan Podiatry                                   | Tasmania                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/south-hobart-ispahan-podiatry-centre/
+
+VICTORIA (15 clinics)
+----------------------------------------------------------------------------------------------------
+#079 | Back In Motion Podiatry Bacchus Marsh              | Victoria                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/back-in-motion-podiatry-bacchus-marsh/
+#080 | Back In Motion Podiatry Bayswater                  | Victoria                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/bayswater-back-in-motion-podiatry/
+#081 | Back In Motion Podiatry Melton                     | Victoria                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/back-in-motion-podiatry-melton/
+#082 | My FootDr Ballarat                                 | Victoria                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/ballarat-podiatry-centre/
+#083 | Border Podiatry Wodonga                            | Victoria                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/wodonga-podiatry-centre/
+#084 | My FootDr Boronia                                  | Victoria                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/boronia-podiatry-centre/
+#085 | My FootDr Cranbourne                               | Victoria                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/cranbourne-podiatry-centre/
+#086 | My FootDr Pakenham                                 | Victoria                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/pakenham-podiatry-centre/
+#087 | The Foot and Ankle Clinic Moe                      | Victoria                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/moe-the-foot-and-ankle-clinic-podiatry-clinic/
+#088 | The Foot and Ankle Clinic Podiatry Chadstone       | Victoria                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/chadstone-the-foot-and-ankle-clinic-podiatry-clinic/
+#089 | The Foot and Ankle Clinic Podiatry East Bentleigh  | Victoria                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/east-bentleigh-the-foot-and-ankle-clinic-podiatry-clinic/
+#090 | The Foot and Ankle Clinic Sale                     | Victoria                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/sale-the-foot-and-ankle-clinic-podiatry-clinic/
+#091 | The Foot and Ankle Clinic Traralgon                | Victoria                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/traralgon-the-foot-and-ankle-clinic-podiatry-clinic/
+#092 | My FootDr Wantirna                                 | Victoria                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/wantirna-podiatry-centre/
+#093 | My FootDr Warragul                                 | Victoria                 
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/warragul-podiatry-centre/
+
+WESTERN AUSTRALIA (5 clinics)
+----------------------------------------------------------------------------------------------------
+#094 | BIM Podiatry Balcatta                              | Western Australia        
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/bim-podiatry-balcatta/
+#095 | Back In Motion Podiatry Como                       | Western Australia        
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/como-back-in-motion-podiatry/
+#096 | My FootDr Currambine                               | Western Australia        
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/currambine-podiatry-centre/
+#097 | My FootDr Warwick                                  | Western Australia        
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/warwick-podiatry-centre/
+#098 | My FootDr Wembley Downs                            | Western Australia        
+      URL: https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/wembley-downs-podiatry-centre/
