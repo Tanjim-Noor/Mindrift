@@ -19,6 +19,7 @@ The distribution is modeled as a normal distribution with parameters estimated f
 published NHANES statistics and adjusted to match the 18.3% prevalence above 240 mg/dL.
 """
 
+import os
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -36,6 +37,9 @@ STEP = 5
 
 # Target cholesterol level for arrow annotation
 TARGET_LEVEL = 184
+
+# Get the directory where this script is located
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 def generate_cholesterol_distribution():
     """
@@ -65,7 +69,7 @@ def create_csv(cholesterol_levels, percentages):
         'cholesterol_level': cholesterol_levels,
         'population_perc': np.round(percentages, 4)
     })
-    csv_path = 'd:/Work/Mindrift/cholesterol_distribution.csv'
+    csv_path = os.path.join(SCRIPT_DIR, 'cholesterol_distribution.csv')
     df.to_csv(csv_path, index=False)
     print(f"CSV saved to: {csv_path}")
     return df
@@ -86,7 +90,7 @@ def create_plot(cholesterol_levels, percentages):
     ax.annotate(
         f'184 mg/dL\n({perc_at_184:.2f}%)',
         xy=(184, perc_at_184),
-        xytext=(184 + 50, perc_at_184 + 1.5),
+        xytext=(250, perc_at_184 - 1),
         fontsize=11,
         fontweight='bold',
         ha='center',
@@ -94,7 +98,7 @@ def create_plot(cholesterol_levels, percentages):
             arrowstyle='->',
             color='red',
             lw=2.5,
-            connectionstyle='arc3,rad=-0.2'
+            connectionstyle='arc3,rad=0.3'
         ),
         bbox=dict(boxstyle='round,pad=0.3', facecolor='yellow', edgecolor='red', alpha=0.9)
     )
@@ -146,7 +150,7 @@ def create_plot(cholesterol_levels, percentages):
     plt.tight_layout()
     
     # Save figure
-    plot_path = 'd:/Work/Mindrift/cholesterol_distribution.png'
+    plot_path = os.path.join(SCRIPT_DIR, 'cholesterol_distribution.png')
     plt.savefig(plot_path, dpi=150, bbox_inches='tight')
     print(f"Plot saved to: {plot_path}")
     
