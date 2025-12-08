@@ -1,0 +1,273 @@
+{
+  "region_comparison": {
+    "Brisbane": {
+      "status": "EXISTS",
+      "clinics_in_clinics_data": 31,
+      "clinics_in_clinic_services.json": 31,
+      "matching_clinics": 31,
+      "clinics_only_in_clinics_data": [],
+      "clinics_only_in_clinic_services.json": []
+    },
+    "Central Queensland": {
+      "status": "EXISTS",
+      "clinics_in_clinics_data": 8,
+      "clinics_in_clinic_services.json": 8,
+      "matching_clinics": 8,
+      "clinics_only_in_clinics_data": [],
+      "clinics_only_in_clinic_services.json": []
+    },
+    "Gold Coast": {
+      "status": "EXISTS",
+      "clinics_in_clinics_data": 7,
+      "clinics_in_clinic_services.json": 7,
+      "matching_clinics": 7,
+      "clinics_only_in_clinics_data": [],
+      "clinics_only_in_clinic_services.json": []
+    },
+    "New South Wales": {
+      "status": "EXISTS",
+      "clinics_in_clinics_data": 12,
+      "clinics_in_clinic_services.json": 12,
+      "matching_clinics": 12,
+      "clinics_only_in_clinics_data": [],
+      "clinics_only_in_clinic_services.json": []
+    },
+    "North Queensland": {
+      "status": "EXISTS",
+      "clinics_in_clinics_data": 6,
+      "clinics_in_clinic_services.json": 6,
+      "matching_clinics": 6,
+      "clinics_only_in_clinics_data": [],
+      "clinics_only_in_clinic_services.json": []
+    },
+    "Northern Territory": {
+      "status": "EXISTS",
+      "clinics_in_clinics_data": 1,
+      "clinics_in_clinic_services.json": 1,
+      "matching_clinics": 1,
+      "clinics_only_in_clinics_data": [],
+      "clinics_only_in_clinic_services.json": []
+    },
+    "South Australia": {
+      "status": "EXISTS",
+      "clinics_in_clinics_data": 9,
+      "clinics_in_clinic_services.json": 9,
+      "matching_clinics": 9,
+      "clinics_only_in_clinics_data": [],
+      "clinics_only_in_clinic_services.json": []
+    },
+    "Sunshine Coast": {
+      "status": "EXISTS",
+      "clinics_in_clinics_data": 8,
+      "clinics_in_clinic_services.json": 8,
+      "matching_clinics": 8,
+      "clinics_only_in_clinics_data": [],
+      "clinics_only_in_clinic_services.json": []
+    },
+    "Tasmania": {
+      "status": "EXISTS",
+      "clinics_in_clinics_data": 2,
+      "clinics_in_clinic_services.json": 2,
+      "matching_clinics": 2,
+      "clinics_only_in_clinics_data": [],
+      "clinics_only_in_clinic_services.json": []
+    },
+    "Victoria": {
+      "status": "EXISTS",
+      "clinics_in_clinics_data": 15,
+      "clinics_in_clinic_services.json": 15,
+      "matching_clinics": 15,
+      "clinics_only_in_clinics_data": [],
+      "clinics_only_in_clinic_services.json": []
+    },
+    "Western Australia": {
+      "status": "EXISTS",
+      "clinics_in_clinics_data": 5,
+      "clinics_in_clinic_services.json": 5,
+      "matching_clinics": 5,
+      "clinics_only_in_clinics_data": [],
+      "clinics_only_in_clinic_services.json": []
+    }
+  },
+  "clinic_comparison": {
+    "Brisbane": {
+      "matching": [
+        "Allsports Podiatry Albany Creek",
+        "Allsports Podiatry Aspley",
+        "Allsports Podiatry Calamvale",
+        "Allsports Podiatry Camp Hill",
+        "Allsports Podiatry Forest Lake",
+        "Allsports Podiatry Hawthorne",
+        "Allsports Podiatry Indooroopilly",
+        "Allsports Podiatry Kangaroo Point",
+        "Allsports Podiatry Red Hill",
+        "Allsports Podiatry The Gap",
+        "Allsports Podiatry Toowong",
+        "Allsports Podiatry Wavell Heights",
+        "Anytime Physio & Podiatry Newstead",
+        "My FootDr Brisbane CBD",
+        "My FootDr Brookside",
+        "My FootDr Brookwater",
+        "My FootDr Camp Hill",
+        "My FootDr Cleveland",
+        "My FootDr Fortitude Valley",
+        "My FootDr Gumdale",
+        "My FootDr Indooroopilly",
+        "My FootDr Ipswich",
+        "My FootDr Jindalee",
+        "My FootDr Mt Gravatt",
+        "My FootDr North Lakes",
+        "My FootDr Red Hill",
+        "My FootDr Redcliffe",
+        "My FootDr Shailer Park",
+        "My FootDr Stafford",
+        "My FootDr Toowoomba",
+        "My FootDr Wellington Point"
+      ],
+      "only_in_clinics_data": [],
+      "only_in_clinic_services": []
+    },
+    "Central Queensland": {
+      "matching": [
+        "Advanced Foot Care Bargara",
+        "Advanced Foot Care Bundaberg",
+        "Advanced Foot Care Hervey Bay",
+        "Advanced Foot Care Monto",
+        "My FootDr Gladstone",
+        "My FootDr Mackay",
+        "My FootDr Rockhampton",
+        "My FootDr Yeppoon"
+      ],
+      "only_in_clinics_data": [],
+      "only_in_clinic_services": []
+    },
+    "Gold Coast": {
+      "matching": [
+        "Allsports Podiatry Pimpama",
+        "Back In Motion Podiatry Bundall",
+        "Back In Motion Podiatry Burleigh Waters",
+        "Back In Motion Podiatry Mudgeeraba",
+        "My FootDr Hope Island",
+        "My FootDr Varsity Lakes (formerly Robina)",
+        "Physiologic Podiatry Robina"
+      ],
+      "only_in_clinics_data": [],
+      "only_in_clinic_services": []
+    },
+    "New South Wales": {
+      "matching": [
+        "My FootDr Bathurst",
+        "My FootDr Blacktown",
+        "My FootDr Burwood",
+        "My FootDr Casula",
+        "My FootDr Cessnock",
+        "My FootDr Charlestown",
+        "My FootDr Dubbo",
+        "My FootDr Mittagong",
+        "My FootDr Moorebank",
+        "My FootDr Narellan",
+        "My FootDr Orange",
+        "My FootDr Tweed Heads"
+      ],
+      "only_in_clinics_data": [],
+      "only_in_clinic_services": []
+    },
+    "North Queensland": {
+      "matching": [
+        "Foundation Podiatry",
+        "My FootDr Cairns",
+        "My FootDr Thuringowa",
+        "My FootDr Townsville",
+        "NQ Foot & Ankle Centre Cowboys Centre of Excellence",
+        "NQ Foot & Ankle Centre Kirwan"
+      ],
+      "only_in_clinics_data": [],
+      "only_in_clinic_services": []
+    },
+    "Northern Territory": {
+      "matching": [
+        "My FootDr Palmerston"
+      ],
+      "only_in_clinics_data": [],
+      "only_in_clinic_services": []
+    },
+    "South Australia": {
+      "matching": [
+        "My FootDr Aldinga",
+        "My FootDr Blackwood",
+        "My FootDr Christies Beach",
+        "My FootDr Findon",
+        "My FootDr Glenelg",
+        "My FootDr Modbury",
+        "My FootDr Mt Barker",
+        "My FootDr Norwood",
+        "My FootDr Salisbury"
+      ],
+      "only_in_clinics_data": [],
+      "only_in_clinic_services": []
+    },
+    "Sunshine Coast": {
+      "matching": [
+        "Allsports Podiatry Noosa",
+        "My FootDr Beerwah",
+        "My FootDr Buderim",
+        "My FootDr Caloundra",
+        "My FootDr Kawana",
+        "My FootDr Maroochydore",
+        "My FootDr Mooloolaba",
+        "My FootDr Nambour"
+      ],
+      "only_in_clinics_data": [],
+      "only_in_clinic_services": []
+    },
+    "Tasmania": {
+      "matching": [
+        "Ispahan Podiatry",
+        "My FootDr Devonport"
+      ],
+      "only_in_clinics_data": [],
+      "only_in_clinic_services": []
+    },
+    "Victoria": {
+      "matching": [
+        "Back In Motion Podiatry Bacchus Marsh",
+        "Back In Motion Podiatry Bayswater",
+        "Back In Motion Podiatry Melton",
+        "Border Podiatry Wodonga",
+        "My FootDr Ballarat",
+        "My FootDr Boronia",
+        "My FootDr Cranbourne",
+        "My FootDr Pakenham",
+        "My FootDr Wantirna",
+        "My FootDr Warragul",
+        "The Foot and Ankle Clinic Moe",
+        "The Foot and Ankle Clinic Podiatry Chadstone",
+        "The Foot and Ankle Clinic Podiatry East Bentleigh",
+        "The Foot and Ankle Clinic Sale",
+        "The Foot and Ankle Clinic Traralgon"
+      ],
+      "only_in_clinics_data": [],
+      "only_in_clinic_services": []
+    },
+    "Western Australia": {
+      "matching": [
+        "BIM Podiatry Balcatta",
+        "Back In Motion Podiatry Como",
+        "My FootDr Currambine",
+        "My FootDr Warwick",
+        "My FootDr Wembley Downs"
+      ],
+      "only_in_clinics_data": [],
+      "only_in_clinic_services": []
+    }
+  },
+  "summary": {
+    "total_clinics_in_clinics_data": 104,
+    "total_clinics_in_clinic_services.json": 104,
+    "total_matching_clinics": 104,
+    "total_new_clinics": 0,
+    "total_only_in_services": 0,
+    "regions_in_clinics_data": 11,
+    "regions_in_clinic_services.json": 11
+  }
+}

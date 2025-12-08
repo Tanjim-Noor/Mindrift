@@ -771,30 +771,71 @@ clinics_data = {
 
 # ==========================================
 # STAGE 3: Services data for clinics
-# Services scraped from individual clinic pages
+# Services scraped from individual clinic pages (December 2024)
+# ==========================================
+# SCRAPED CLINIC SERVICES DATA
+# ==========================================
+# This dictionary contains services scraped from individual clinic pages via Wayback Machine archive (2025-07-08)
+# 30 clinics were successfully scraped with actual services data
+# 74 clinics returned 404 (not archived) - these use brand-based default services
 # ==========================================
 
 # Scraped services data from individual clinic pages
+# Each clinic was individually scraped from the Wayback Machine archive
 SCRAPED_CLINIC_SERVICES = {
-    "My FootDr Camp Hill": "Clinical Podiatry, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare, Custom Footwear, NDIS, CAM Walker (Moon Boot), Shockwave Therapy, Cosmetic Nail Restoration, SWIFT Microwave Wart Therapy, Cryotherapy For Plantar Warts, Ankle-Foot Orthoses, Supramalleolar Orthotics (SMOs), Cobra9 Cycling Orthotics, Custom Cricket Shoes",
-    "My FootDr Brisbane CBD": "Clinical Podiatry, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare, Custom Footwear, NDIS, CAM Walker (Moon Boot), Cosmetic Nail Restoration, Cryotherapy For Plantar Warts",
-    "Allsports Podiatry Noosa": "General Podiatry Care, Ingrown Toenail Treatment, Custom Foot Orthotics, Video Gait Analysis, Diabetic Footcare, Seniors Footcare, Paediatric Assessments",
-    "My FootDr Cairns": "Clinical Podiatry, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare, Custom Footwear, NDIS, CAM Walker (Moon Boot), Shockwave Therapy, Paraffin Wax Bath Treatment",
-    "My FootDr Hope Island": "Clinical Podiatry, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare, NDIS, CAM Walker (Moon Boot), Shockwave Therapy, Cryotherapy For Plantar Warts",
-    "Back In Motion Podiatry Bundall": "Surgical Podiatry, Supramalleolar Orthotics (SMOs), Clinical Podiatry, Custom Foot Orthotics, Diabetes and Footcare, Custom Footwear, NDIS, Seniors Footcare, Shockwave Therapy, Ankle-Foot Orthoses",
-    "My FootDr Ballarat": "Clinical Podiatry, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare, NDIS, CAM Walker (Moon Boot), Shockwave Therapy",
-    "My FootDr Boronia": "Clinical Podiatry, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare, NDIS, CAM Walker (Moon Boot), Cosmetic Nail Restoration, Shockwave Therapy, Paraffin Wax Bath Treatment, Cryotherapy For Plantar Warts, Bracenfix™ Ingrown Toenail Treatment",
-    "My FootDr Devonport": "Clinical Podiatry, Custom Foot Orthotics, Video Gait Analysis, Diabetes and Footcare, Custom Footwear, NDIS, CAM Walker (Moon Boot), Cosmetic Nail Restoration, Shockwave Therapy, Cryotherapy For Plantar Warts",
-    "My FootDr Currambine": "Clinical Podiatry, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare, NDIS, CAM Walker (Moon Boot), Cryotherapy For Plantar Warts",
-    "My FootDr Cleveland": "Clinical Podiatry, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare, Custom Footwear, NDIS, CAM Walker (Moon Boot), Cosmetic Nail Restoration, Shockwave Therapy, Cryotherapy For Plantar Warts",
-    "My FootDr Shailer Park": "Clinical Podiatry, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare, NDIS, CAM Walker (Moon Boot), Cryotherapy For Plantar Warts",
-    "My FootDr North Lakes": "Clinical Podiatry, Custom Foot Orthotics, Video Gait Analysis, Diabetes and Footcare, NDIS, CAM Walker (Moon Boot)",
-    "My FootDr Mackay": "Clinical Podiatry, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare, Custom Footwear, NDIS, CAM Walker (Moon Boot), Shockwave Therapy, Paraffin Wax Bath Treatment, Cryotherapy For Plantar Warts",
-    "My FootDr Rockhampton": "Clinical Podiatry, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare, Custom Footwear, NDIS, CAM Walker (Moon Boot), Shockwave Therapy, Cryotherapy For Plantar Warts",
-    "My FootDr Townsville": "Clinical Podiatry, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare, Custom Footwear, NDIS, CAM Walker (Moon Boot), Shockwave Therapy, Paraffin Wax Bath Treatment, Cryotherapy For Plantar Warts",
-    "My FootDr Blacktown": "Clinical Podiatry, Custom Foot Orthotics, Video Gait Analysis, Diabetes and Footcare, NDIS, CAM Walker (Moon Boot)",
-    "My FootDr Burwood": "Clinical Podiatry, Custom Foot Orthotics, Video Gait Analysis, Diabetes and Footcare, NDIS, CAM Walker (Moon Boot), Shockwave Therapy",
-    "Allsports Podiatry Albany Creek": "Clinical Podiatry, Custom Foot Orthotics, Video Gait Analysis, Diabetes and Footcare, NDIS, Seniors Footcare, Sports Podiatry, Paediatric Assessments, Footwear Assessments, General Podiatry Care",
+    # ==========================================
+    # BRISBANE REGION - Successfully Scraped (23 clinics)
+    # ==========================================
+    "Allsports Podiatry Albany Creek": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Diabetes and Footcare, NDIS, CAM Walker, Resources, Sports Podiatry, Biomechanical Assessments, 3D Printed Orthotics, Custom Sports Orthotics, Paediatric Assessments, Nail Surgery and General Podiatry Care",
+    "Allsports Podiatry Aspley": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare",
+    "Allsports Podiatry Calamvale": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Diabetes and Footcare, NDIS, CAM Walker, Resources, Sports Podiatry, Biomechanical Assessments, 3D Printed Orthotics, Custom Sports Orthotics, Paediatric Assessments, Nail Surgery and General Podiatry Care",
+    "Allsports Podiatry Camp Hill": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Diabetes and Footcare, NDIS, CAM Walker, Resources, Sports Podiatry, Biomechanical Assessments, 3D Printed Orthotics, Custom Sports Orthotics, Paediatric Assessments, Nail Surgery and General Podiatry Care",
+    "Allsports Podiatry Forest Lake": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Diabetes and Footcare, NDIS, CAM Walker, Resources, Sports Podiatry, Biomechanical Assessments, 3D Printed Orthotics, Custom Sports Orthotics, Paediatric Assessments, Nail Surgery and General Podiatry Care",
+    "Allsports Podiatry Hawthorne": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Diabetes and Footcare, NDIS, CAM Walker, Resources, Sports Podiatry, Biomechanical Assessments, 3D Printed Orthotics, Custom Sports Orthotics, Paediatric Assessments, Nail Surgery and General Podiatry Care",
+    "Allsports Podiatry Indooroopilly": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Diabetes and Footcare, NDIS, CAM Walker, Resources, Sports Podiatry, Biomechanical Assessments, 3D Printed Orthotics, Custom Sports Orthotics, Paediatric Assessments, Nail Surgery and General Podiatry Care",
+    "Allsports Podiatry Kangaroo Point": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Diabetes and Footcare, NDIS, CAM Walker, Resources, Sports Podiatry, Biomechanical Assessments, 3D Printed Orthotics, Custom Sports Orthotics, Paediatric Assessments, Nail Surgery and General Podiatry Care",
+    "Allsports Podiatry Red Hill": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Diabetes and Footcare, NDIS, CAM Walker, Resources, Sports Podiatry, Biomechanical Assessments, 3D Printed Orthotics, Custom Sports Orthotics, Paediatric Assessments, Nail Surgery and General Podiatry Care",
+    "Allsports Podiatry The Gap": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Diabetes and Footcare, NDIS, CAM Walker, Resources, Sports Podiatry, Biomechanical Assessments, 3D Printed Orthotics, Custom Sports Orthotics, Paediatric Assessments, Nail Surgery and General Podiatry Care",
+    "Allsports Podiatry Toowong": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Diabetes and Footcare, NDIS, CAM Walker, Resources, Sports Podiatry, Biomechanical Assessments, 3D Printed Orthotics, Custom Sports Orthotics, Paediatric Assessments, Nail Surgery and General Podiatry Care",
+    "Allsports Podiatry Wavell Heights": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Diabetes and Footcare, NDIS, CAM Walker, Resources, Sports Podiatry, Biomechanical Assessments, 3D Printed Orthotics, Custom Sports Orthotics, Paediatric Assessments, Nail Surgery and General Podiatry Care",
+    "Anytime Physio & Podiatry Newstead": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Diabetes and Footcare",
+    "My FootDr Brisbane CBD": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare, Custom Footwear, NDIS, CAM Walker, Cosmetic Nail Restoration, Shockwave Therapy, Footwear, Cryotherapy For Plantar Warts, Dry Needling, Resources, Seniors Footcare, Paraffin Wax Bath Treatment",
+    "My FootDr Brookside": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare, NDIS, CAM Walker, Footwear, Resources",
+    "My FootDr Brookwater": "SMOs, Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare, Custom Footwear, NDIS, CAM Walker, Shockwave Therapy, Footwear, Resources, Seniors Footcare",
+    "My FootDr Camp Hill": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare, Custom Footwear, NDIS, CAM Walker, Cosmetic Nail Restoration, Shockwave Therapy, Footwear, Cryotherapy For Plantar Warts, Resources, Seniors Footcare, Paraffin Wax Bath Treatment",
+    "My FootDr Cleveland": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare, Custom Footwear, NDIS, CAM Walker, Cosmetic Nail Restoration, Shockwave Therapy, Footwear, Cryotherapy For Plantar Warts, Resources, Seniors Footcare, Paraffin Wax Bath Treatment",
+    "My FootDr Fortitude Valley": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare, Custom Footwear, NDIS, CAM Walker, Cosmetic Nail Restoration, Shockwave Therapy, Paraffin Wax Bath Treatment, Cryotherapy For Plantar Warts, Resources, Seniors Footcare, Footwear",
+    "My FootDr Gumdale": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Diabetes and Footcare, Custom Footwear, NDIS, CAM Walker, Cosmetic Nail Restoration, Shockwave Therapy, Paraffin Wax Bath Treatment, Cryotherapy For Plantar Warts, Resources, Seniors Footcare",
+    "My FootDr Hope Island": "SMOs, Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare, Custom Footwear, NDIS, CAM Walker, Cosmetic Nail Restoration, Shockwave Therapy, Footwear, Paraffin Wax Bath Treatment, Cryotherapy For Plantar Warts, Resources, Seniors Footcare",
+    "My FootDr Indooroopilly": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare, Custom Footwear, NDIS, CAM Walker, Cosmetic Nail Restoration, Shockwave Therapy, Footwear, Paraffin Wax Bath Treatment, Resources, Seniors Footcare",
+    "My FootDr Ipswich": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare, NDIS, CAM Walker, Resources, Seniors Footcare",
+    
+    # ==========================================
+    # CENTRAL QUEENSLAND REGION - Successfully Scraped (1 clinic)
+    # ==========================================
+    "Advanced Foot Care Bundaberg": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Diabetes and Footcare, Resources",
+    
+    # ==========================================
+    # GOLD COAST REGION - Successfully Scraped (1 clinic)
+    # ==========================================
+    "Back In Motion Podiatry Bundall": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Diabetes and Footcare, Dry Needling",
+    
+    # ==========================================
+    # NORTH QUEENSLAND REGION - Successfully Scraped (1 clinic)
+    # ==========================================
+    "My FootDr Cairns": "SMOs, Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare, Custom Footwear, NDIS, CAM Walker, Cosmetic Nail Restoration, Shockwave Therapy, Footwear, Paraffin Wax Bath Treatment, Cryotherapy For Plantar Warts, Dry Needling, Resources, Seniors Footcare",
+    
+    # ==========================================
+    # SOUTH AUSTRALIA REGION - Successfully Scraped (1 clinic)
+    # ==========================================
+    "My FootDr Blackwood": "SMOs, Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare, Custom Footwear, NDIS, CAM Walker, Cosmetic Nail Restoration, Shockwave Therapy, Footwear, Paraffin Wax Bath Treatment, Cryotherapy For Plantar Warts, Dry Needling, Resources, Seniors Footcare",
+    
+    # ==========================================
+    # VICTORIA REGION - Successfully Scraped (3 clinics)
+    # ==========================================
+    "Back In Motion Podiatry Bacchus Marsh": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Diabetes and Footcare, Resources",
+    "My FootDr Ballarat": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare, NDIS, CAM Walker, Resources",
+    "The Foot and Ankle Clinic Chadstone": "Clinical Podiatry, Health Funds, Custom Foot Orthotics, Video Gait Analysis, Fungal Nail Infection Laser Treatment, Diabetes and Footcare, CAM Walker, Shockwave Therapy, Dry Needling",
 }
 
 # Default services for MyFootDr branded clinics
