@@ -1123,8 +1123,10 @@
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/norwood-podiatry-centre/"
         },
         "My FootDr Salisbury": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "None"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/salisbury-podiatry-centre/"
         }
       }
@@ -1132,43 +1134,75 @@
     "Sunshine Coast": {
       "clinics": {
         "Allsports Podiatry Noosa": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "General podiatry care",
+            "Ingrown toenail treatment",
+            "Custom foot orthotics",
+            "Video gait analysis",
+            "Diabetic footcare",
+            "Seniors footcare",
+            "Paediatric assessments"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/noosa/"
         },
         "My FootDr Beerwah": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Surgical Podiatry",
+            "Supramalleolar Orthotics (SMOs)",
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "Seniors Footcare",
+            "Resources",
+            "Video Gait Analysis",
+            "Custom Footwear"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/beerwah-podiatry-clinic/"
         },
         "My FootDr Buderim": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "None"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/buderim-podiatry-centre/"
         },
         "My FootDr Caloundra": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "None"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/caloundra-podiatry-centre/"
         },
         "My FootDr Kawana": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "None"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/kawana-podiatry-centre/"
         },
         "My FootDr Maroochydore": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "None"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/maroochydore/"
         },
         "My FootDr Mooloolaba": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "None"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/mooloolaba-podiatry-centre/"
         },
         "My FootDr Nambour": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "None"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/nambour-podiatry-centre/"
         }
       }
@@ -1176,13 +1210,37 @@
     "Tasmania": {
       "clinics": {
         "My FootDr Devonport": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Diabetes and Footcare",
+            "Custom Footwear",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Cosmetic Nail Restoration",
+            "Shockwave Therapy",
+            "Cryotherapy For Plantar Warts",
+            "Resources",
+            "Footwear"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/devonport-podiatry-centre/"
         },
         "Ispahan Podiatry": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Cryotherapy For Plantar Warts",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/south-hobart-ispahan-podiatry-centre/"
         }
       }
@@ -1190,28 +1248,70 @@
     "Victoria": {
       "clinics": {
         "Back In Motion Podiatry Bacchus Marsh": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Bracenfix™ - Ingrown Toenail Treatment",
+            "SWIFT Microwave Wart Therapy"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/back-in-motion-podiatry-bacchus-marsh/"
         },
         "Back In Motion Podiatry Bayswater": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Bracenfix™ - Ingrown Toenail Treatment",
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "Seniors Footcare",
+            "Cosmetic Nail Restoration",
+            "Paraffin Wax Bath Treatment",
+            "Cryotherapy For Plantar Warts"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/bayswater-back-in-motion-podiatry/"
         },
         "Back In Motion Podiatry Melton": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Bracenfix™ - Ingrown Toenail Treatment",
+            "SWIFT Microwave Wart Therapy"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/back-in-motion-podiatry-melton/"
         },
         "My FootDr Ballarat": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Fungal Nail Infection Laser Treatment",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Shockwave Therapy",
+            "Resources",
+            "Footwear"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/ballarat-podiatry-centre/"
         },
         "Border Podiatry Wodonga": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Bracenfix™ - Ingrown Toenail Treatment",
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Shockwave Therapy",
+            "Footwear",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/wodonga-podiatry-centre/"
         },
         "My FootDr Boronia": {
