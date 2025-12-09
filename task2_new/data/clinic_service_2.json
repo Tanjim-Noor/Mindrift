@@ -2,8 +2,8 @@
   "scrape_metadata": {
     "scrape_date": "2024-12-08",
     "source_url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/",
-    "total_clinics": 104,
-    "clinics_with_links": 104,
+    "total_clinics": 97,
+    "clinics_with_links": 97,
     "notes": "All clinics from clinics_data dictionary with their links. Services empty and scraped=false as placeholder for future scraping"
   },
   "regions": {
@@ -703,11 +703,12 @@
           ],
           "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/robina-podiatry-centre/"
-
         },
         "Allsports Podiatry Parkwood": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "None"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250829222349/https://www.myfootdr.com.au/our-clinics/allsports-podiatry-parkwood/"
         }
       }
@@ -1087,28 +1088,77 @@
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/modbury-podiatry-centre/"
         },
         "My FootDr Hove": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Supramalleolar Orthotics (SMOs)",
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Diabetes and Footcare",
+            "Custom Footwear",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Resources",
+            "Ankle-Foot Orthoses"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250707233302/https://www.myfootdr.com.au/our-clinics/hove-podiatry-centre/"
         },
         "My FootDr Woodville": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250707233302/https://www.myfootdr.com.au/our-clinics/bim-podiatry-woodville/"
         },
         "Semaphore (formerly Queenstown)": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Diabetes and Footcare",
+            "Shockwave Therapy"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250707233302/https://www.myfootdr.com.au/our-clinics/semaphore-podiatry-clinic/"
         },
         "My FootDr Stirling": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Diabetes and Footcare",
+            "Custom Footwear",
+            "National Disability Insurance Scheme (NDIS)",
+            "Resources",
+            "Ankle-Foot Orthoses"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250707233302/https://www.myfootdr.com.au/our-clinics/stirling-podiatry-centre/"
         },
         "My FootDr Unley": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Fungal Nail Infection Laser Treatment",
+            "Diabetes and Footcare",
+            "Custom Footwear",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Cosmetic Nail Restoration",
+            "Shockwave Therapy",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250707233302/https://www.myfootdr.com.au/our-clinics/unley-podiatry-centre/"
         }
       }

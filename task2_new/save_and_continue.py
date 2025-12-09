@@ -15,6 +15,10 @@ clinic_name = sys.argv[2]
 services_str = sys.argv[3]
 services = [s.strip() for s in services_str.split('|')]
 
+# Handle an empty services argument -> store an empty list instead of ['']
+if len(services) == 1 and services[0] == "":
+    services = []
+
 # Save to JSON
 json_file = Path("data/clinic_service_2.json")
 with open(json_file, 'r', encoding='utf-8') as f:
