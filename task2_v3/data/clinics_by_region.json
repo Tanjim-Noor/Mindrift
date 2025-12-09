@@ -1,86 +1,191 @@
 {
   "scrape_metadata": {
-    "last_updated": "2025-12-09T00:00:00Z",
-    "total_regions_processed": 0,
-    "total_clinics_discovered": 0
+    "last_updated": "2025-12-09T01:06:30Z",
+    "total_regions_processed": 11,
+    "total_clinics_discovered": 94
   },
   "regions": {
     "brisbane": {
       "region_name": "Brisbane",
       "region_url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/regions/brisbane/",
-      "total_clinics": 0,
-      "scrape_status": "not-started",
-      "clinics": []
+      "total_clinics": 28,
+      "scrape_status": "completed",
+      "clinics": [
+        {"clinic_name": "Allsports Podiatry Albany Creek", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/albany-creek-allsports-podiatry/"},
+        {"clinic_name": "Allsports Podiatry Aspley", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/aspley-allsports-podiatry/"},
+        {"clinic_name": "Allsports Podiatry Calamvale", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/calamvale-podiatry-centre-allsports/"},
+        {"clinic_name": "Allsports Podiatry Camp Hill", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/camp-hill-podiatry-centre-allsports/"},
+        {"clinic_name": "Allsports Podiatry Forest Lake", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/forest-lake-podiatry-centre-allsports/"},
+        {"clinic_name": "Allsports Podiatry Hawthorne", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/hawthorne-podiatry-clinic-allsports-podiatry/"},
+        {"clinic_name": "Allsports Podiatry Indooroopilly", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/indooroopilly-podiatry-centre/"},
+        {"clinic_name": "Allsports Podiatry Kangaroo Point", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/kangaroo-point-allsports-podiatry-centre/"},
+        {"clinic_name": "Allsports Podiatry Red Hill", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/red-hill-podiatry-centre-allsports/"},
+        {"clinic_name": "Allsports Podiatry The Gap", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/the-gap-podiatry-centre-allsports/"},
+        {"clinic_name": "Allsports Podiatry Toowong", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/toowong-podiatry-centre-allsports/"},
+        {"clinic_name": "Allsports Podiatry Wavell Heights", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/wavell-heights-podiatry-centre-allsports/"},
+        {"clinic_name": "Anytime Physio & Podiatry Newstead", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/newstead-podiatry-clinic-anytime-physio-podiatry/"},
+        {"clinic_name": "Brisbane CBD", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/brisbane-cbd-podiatry-centre/"},
+        {"clinic_name": "Brookside (Mitchelton)", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/mitchelton-podiatry-centre/"},
+        {"clinic_name": "Brookwater", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/brookwater-podiatry-centre/"},
+        {"clinic_name": "Cleveland", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/cleveland-podiatry-centre/"},
+        {"clinic_name": "Fortitude Valley", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/fortitude-valley-podiatry-centre/"},
+        {"clinic_name": "Gumdale", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/gumdale-podiatry-centre/"},
+        {"clinic_name": "Ipswich", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/ipswich-podiatry-centre/"},
+        {"clinic_name": "Jindalee", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/jindalee-podiatry-centre-allsports/"},
+        {"clinic_name": "Mt Gravatt", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/mountgravatt-podiatry-orthotics-customfootwear/"},
+        {"clinic_name": "North Lakes", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/north-lakes-podiatry-centre/"},
+        {"clinic_name": "Redcliffe", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/redcliffe-podiatry-centre/"},
+        {"clinic_name": "Shailer Park", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/shailer-park-podiatry-centre/"},
+        {"clinic_name": "Stafford", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/stafford-podiatry-centre/"},
+        {"clinic_name": "Toowoomba", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/toowoomba-podiatry-centre/"},
+        {"clinic_name": "Wellington Point", "clinic_url": "https://web.archive.org/web/20250618202752/https://www.myfootdr.com.au/our-clinics/wellington-point-podiatry-centre-allsports/"}
+      ]
     },
     "central-queensland": {
       "region_name": "Central Queensland",
       "region_url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/regions/central-queensland/",
-      "total_clinics": 0,
-      "scrape_status": "not-started",
-      "clinics": []
+      "total_clinics": 8,
+      "scrape_status": "completed",
+      "clinics": [
+        {"clinic_name": "Advanced Foot Care Bargara", "clinic_url": "https://web.archive.org/web/20250707223226/https://www.myfootdr.com.au/our-clinics/bargara-advanced-foot-care-podiatry-clinic/"},
+        {"clinic_name": "Advanced Foot Care Bundaberg", "clinic_url": "https://web.archive.org/web/20250707223226/https://www.myfootdr.com.au/our-clinics/bundaberg-advanced-foot-care-podiatry-centre/"},
+        {"clinic_name": "Advanced Foot Care Hervey Bay", "clinic_url": "https://web.archive.org/web/20250707223226/https://www.myfootdr.com.au/our-clinics/hervey-bay-advanced-foot-care-podiatry-centre/"},
+        {"clinic_name": "Advanced Foot Care Monto", "clinic_url": "https://web.archive.org/web/20250707223226/https://www.myfootdr.com.au/our-clinics/monto-advanced-foot-care-podiatry-clinic/"},
+        {"clinic_name": "Gladstone", "clinic_url": "https://web.archive.org/web/20250707223226/https://www.myfootdr.com.au/our-clinics/gladstone-podiatry-centre/"},
+        {"clinic_name": "Mackay", "clinic_url": "https://web.archive.org/web/20250707223226/https://www.myfootdr.com.au/our-clinics/mackay-podiatry-centre/"},
+        {"clinic_name": "Rockhampton", "clinic_url": "https://web.archive.org/web/20250707223226/https://www.myfootdr.com.au/our-clinics/rockhampton-podiatry-centre/"},
+        {"clinic_name": "Yeppoon", "clinic_url": "https://web.archive.org/web/20250707223226/https://www.myfootdr.com.au/our-clinics/yeppoon-podiatry-centre/"}
+      ]
     },
     "gold-coast": {
       "region_name": "Gold Coast",
       "region_url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/regions/gold-coast/",
-      "total_clinics": 0,
-      "scrape_status": "not-started",
-      "clinics": []
+      "total_clinics": 7,
+      "scrape_status": "completed",
+      "clinics": [
+        {"clinic_name": "Allsports Podiatry Parkwood", "clinic_url": "https://web.archive.org/web/20250829222349/https://www.myfootdr.com.au/our-clinics/allsports-podiatry-parkwood/"},
+        {"clinic_name": "Allsports Podiatry Pimpama", "clinic_url": "https://web.archive.org/web/20250829222349/https://www.myfootdr.com.au/our-clinics/pimpama-allsports-podiatry/"},
+        {"clinic_name": "Back In Motion Podiatry Bundall", "clinic_url": "https://web.archive.org/web/20250829222349/https://www.myfootdr.com.au/our-clinics/bundall-back-in-motion-podiatry/"},
+        {"clinic_name": "Back In Motion Podiatry Burleigh Waters", "clinic_url": "https://web.archive.org/web/20250829222349/https://www.myfootdr.com.au/our-clinics/burleigh-waters-back-in-motion-podiatry/"},
+        {"clinic_name": "Hope Island", "clinic_url": "https://web.archive.org/web/20250829222349/https://www.myfootdr.com.au/our-clinics/hope-island-podiatry-centre/"},
+        {"clinic_name": "Physiologic Podiatry Robina", "clinic_url": "https://web.archive.org/web/20250829222349/https://www.myfootdr.com.au/our-clinics/robina-physiologic-podiatry-centre/"},
+        {"clinic_name": "Varsity Lakes", "clinic_url": "https://web.archive.org/web/20250829222349/https://www.myfootdr.com.au/our-clinics/robina-podiatry-centre/"}
+      ]
     },
     "new-south-wales": {
       "region_name": "New South Wales",
       "region_url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/regions/new-south-wales/",
-      "total_clinics": 0,
-      "scrape_status": "not-started",
-      "clinics": []
+      "total_clinics": 12,
+      "scrape_status": "completed",
+      "clinics": [
+        {"clinic_name": "Bathurst", "clinic_url": "https://web.archive.org/web/20250814052138/https://www.myfootdr.com.au/our-clinics/bathurst-podiatry-centre/"},
+        {"clinic_name": "Blacktown", "clinic_url": "https://web.archive.org/web/20250814052138/https://www.myfootdr.com.au/our-clinics/blacktown-podiatry-centre/"},
+        {"clinic_name": "Burwood", "clinic_url": "https://web.archive.org/web/20250814052138/https://www.myfootdr.com.au/our-clinics/burwood-podiatry-centre/"},
+        {"clinic_name": "Casula", "clinic_url": "https://web.archive.org/web/20250814052138/https://www.myfootdr.com.au/our-clinics/casula-podiatry-centre/"},
+        {"clinic_name": "Cessnock", "clinic_url": "https://web.archive.org/web/20250814052138/https://www.myfootdr.com.au/our-clinics/cessnock-back-in-motion-podiatry/"},
+        {"clinic_name": "Charlestown", "clinic_url": "https://web.archive.org/web/20250814052138/https://www.myfootdr.com.au/our-clinics/charlestown/"},
+        {"clinic_name": "Dubbo", "clinic_url": "https://web.archive.org/web/20250814052138/https://www.myfootdr.com.au/our-clinics/dubbo-podiatry-centre/"},
+        {"clinic_name": "Mittagong", "clinic_url": "https://web.archive.org/web/20250814052138/https://www.myfootdr.com.au/our-clinics/mittagong-podiatry-centre/"},
+        {"clinic_name": "Moorebank", "clinic_url": "https://web.archive.org/web/20250814052138/https://www.myfootdr.com.au/our-clinics/moorebank-podiatry-centre/"},
+        {"clinic_name": "Narellan", "clinic_url": "https://web.archive.org/web/20250814052138/https://www.myfootdr.com.au/our-clinics/narellan-podiatry-centre/"},
+        {"clinic_name": "Orange", "clinic_url": "https://web.archive.org/web/20250814052138/https://www.myfootdr.com.au/our-clinics/orange-podiatry-centre/"},
+        {"clinic_name": "Tweed Heads", "clinic_url": "https://web.archive.org/web/20250814052138/https://www.myfootdr.com.au/our-clinics/tweed-heads-podiatry-centre/"}
+      ]
     },
     "north-queensland": {
       "region_name": "North Queensland",
       "region_url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/regions/north-queensland/",
-      "total_clinics": 0,
-      "scrape_status": "not-started",
-      "clinics": []
+      "total_clinics": 5,
+      "scrape_status": "completed",
+      "clinics": [
+        {"clinic_name": "Cairns", "clinic_url": "https://web.archive.org/web/20250618214139/https://www.myfootdr.com.au/our-clinics/cairns-podiatry-centre/"},
+        {"clinic_name": "NQ Foot & Ankle Centre Cowboys Centre of Excellence", "clinic_url": "https://web.archive.org/web/20250618214139/https://www.myfootdr.com.au/our-clinics/cowboys-centre-of-excellence-nq-foot-ankle-centre/"},
+        {"clinic_name": "NQ Foot & Ankle Centre Kirwan", "clinic_url": "https://web.archive.org/web/20250618214139/https://www.myfootdr.com.au/our-clinics/my-footdr-nq-foot/"},
+        {"clinic_name": "Thuringowa", "clinic_url": "https://web.archive.org/web/20250618214139/https://www.myfootdr.com.au/our-clinics/thuringowa-podiatry-centre/"},
+        {"clinic_name": "Townsville", "clinic_url": "https://web.archive.org/web/20250618214139/https://www.myfootdr.com.au/our-clinics/townsville-podiatry-centre/"}
+      ]
     },
     "northern-territory": {
       "region_name": "Northern Territory",
       "region_url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/regions/northern-territory/",
-      "total_clinics": 0,
-      "scrape_status": "not-started",
-      "clinics": []
+      "total_clinics": 1,
+      "scrape_status": "completed",
+      "clinics": [
+        {"clinic_name": "Palmerston", "clinic_url": "https://web.archive.org/web/20250707222931/https://www.myfootdr.com.au/our-clinics/palmerston-podiatry-centre/"}
+      ]
     },
     "south-australia": {
       "region_name": "South Australia",
       "region_url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/regions/south-australia/",
-      "total_clinics": 0,
-      "scrape_status": "not-started",
-      "clinics": []
+      "total_clinics": 9,
+      "scrape_status": "completed",
+      "clinics": [
+        {"clinic_name": "Aldinga", "clinic_url": "https://web.archive.org/web/20250707233302/https://www.myfootdr.com.au/our-clinics/aldinga-podiatry-centre/"},
+        {"clinic_name": "Blackwood", "clinic_url": "https://web.archive.org/web/20250707233302/https://www.myfootdr.com.au/our-clinics/blackwood-podiatry-centre/"},
+        {"clinic_name": "Christies Beach", "clinic_url": "https://web.archive.org/web/20250707233302/https://www.myfootdr.com.au/our-clinics/christies-beach-podiatry-centre/"},
+        {"clinic_name": "Hove", "clinic_url": "https://web.archive.org/web/20250707233302/https://www.myfootdr.com.au/our-clinics/hove-podiatry-centre/"},
+        {"clinic_name": "Modbury", "clinic_url": "https://web.archive.org/web/20250707233302/https://www.myfootdr.com.au/our-clinics/modbury-podiatry-centre/"},
+        {"clinic_name": "My FootDr Woodville", "clinic_url": "https://web.archive.org/web/20250707233302/https://www.myfootdr.com.au/our-clinics/bim-podiatry-woodville/"},
+        {"clinic_name": "Semaphore", "clinic_url": "https://web.archive.org/web/20250707233302/https://www.myfootdr.com.au/our-clinics/semaphore-podiatry-clinic/"},
+        {"clinic_name": "Stirling", "clinic_url": "https://web.archive.org/web/20250707233302/https://www.myfootdr.com.au/our-clinics/stirling-podiatry-centre/"},
+        {"clinic_name": "Unley", "clinic_url": "https://web.archive.org/web/20250707233302/https://www.myfootdr.com.au/our-clinics/unley-podiatry-centre/"}
+      ]
     },
     "sunshine-coast": {
       "region_name": "Sunshine Coast",
       "region_url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/regions/sunshine-coast/",
-      "total_clinics": 0,
-      "scrape_status": "not-started",
-      "clinics": []
+      "total_clinics": 2,
+      "scrape_status": "completed",
+      "clinics": [
+        {"clinic_name": "Allsports Podiatry Noosa", "clinic_url": "https://web.archive.org/web/20250618212909/https://www.myfootdr.com.au/our-clinics/noosa/"},
+        {"clinic_name": "Beerwah", "clinic_url": "https://web.archive.org/web/20250618212909/https://www.myfootdr.com.au/our-clinics/beerwah-podiatry-clinic/"}
+      ]
     },
     "tasmania": {
       "region_name": "Tasmania",
       "region_url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/regions/tasmania/",
-      "total_clinics": 0,
-      "scrape_status": "not-started",
-      "clinics": []
+      "total_clinics": 2,
+      "scrape_status": "completed",
+      "clinics": [
+        {"clinic_name": "Devonport", "clinic_url": "https://web.archive.org/web/20250516141742/https://www.myfootdr.com.au/our-clinics/devonport-podiatry-centre/"},
+        {"clinic_name": "Ispahan", "clinic_url": "https://web.archive.org/web/20250516141742/https://www.myfootdr.com.au/our-clinics/south-hobart-ispahan-podiatry-centre/"}
+      ]
     },
     "victoria": {
       "region_name": "Victoria",
       "region_url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/regions/victoria/",
-      "total_clinics": 0,
-      "scrape_status": "not-started",
-      "clinics": []
+      "total_clinics": 15,
+      "scrape_status": "completed",
+      "clinics": [
+        {"clinic_name": "Back In Motion Podiatry Bacchus Marsh", "clinic_url": "https://web.archive.org/web/20250618234903/https://www.myfootdr.com.au/our-clinics/back-in-motion-podiatry-bacchus-marsh/"},
+        {"clinic_name": "Back In Motion Podiatry Bayswater", "clinic_url": "https://web.archive.org/web/20250618234903/https://www.myfootdr.com.au/our-clinics/bayswater-back-in-motion-podiatry/"},
+        {"clinic_name": "Back In Motion Podiatry Melton", "clinic_url": "https://web.archive.org/web/20250618234903/https://www.myfootdr.com.au/our-clinics/back-in-motion-podiatry-melton/"},
+        {"clinic_name": "Ballarat", "clinic_url": "https://web.archive.org/web/20250618234903/https://www.myfootdr.com.au/our-clinics/ballarat-podiatry-centre/"},
+        {"clinic_name": "Border Podiatry Wodonga", "clinic_url": "https://web.archive.org/web/20250618234903/https://www.myfootdr.com.au/our-clinics/wodonga-podiatry-centre/"},
+        {"clinic_name": "Boronia", "clinic_url": "https://web.archive.org/web/20250618234903/https://www.myfootdr.com.au/our-clinics/boronia-podiatry-centre/"},
+        {"clinic_name": "Cranbourne", "clinic_url": "https://web.archive.org/web/20250618234903/https://www.myfootdr.com.au/our-clinics/cranbourne-podiatry-centre/"},
+        {"clinic_name": "Pakenham", "clinic_url": "https://web.archive.org/web/20250618234903/https://www.myfootdr.com.au/our-clinics/pakenham-podiatry-centre/"},
+        {"clinic_name": "The Foot and Ankle Clinic Moe", "clinic_url": "https://web.archive.org/web/20250618234903/https://www.myfootdr.com.au/our-clinics/moe-the-foot-and-ankle-clinic-podiatry-clinic/"},
+        {"clinic_name": "The Foot and Ankle Clinic Podiatry Chadstone", "clinic_url": "https://web.archive.org/web/20250618234903/https://www.myfootdr.com.au/our-clinics/chadstone-the-foot-and-ankle-clinic-podiatry-clinic/"},
+        {"clinic_name": "The Foot and Ankle Clinic Podiatry East Bentleigh", "clinic_url": "https://web.archive.org/web/20250618234903/https://www.myfootdr.com.au/our-clinics/east-bentleigh-the-foot-and-ankle-clinic-podiatry-clinic/"},
+        {"clinic_name": "The Foot and Ankle Clinic Sale", "clinic_url": "https://web.archive.org/web/20250618234903/https://www.myfootdr.com.au/our-clinics/sale-the-foot-and-ankle-clinic-podiatry-clinic/"},
+        {"clinic_name": "The Foot and Ankle Clinic Traralgon", "clinic_url": "https://web.archive.org/web/20250618234903/https://www.myfootdr.com.au/our-clinics/traralgon-the-foot-and-ankle-clinic-podiatry-clinic/"},
+        {"clinic_name": "Wantirna", "clinic_url": "https://web.archive.org/web/20250618234903/https://www.myfootdr.com.au/our-clinics/wantirna-podiatry-centre/"},
+        {"clinic_name": "Warragul", "clinic_url": "https://web.archive.org/web/20250618234903/https://www.myfootdr.com.au/our-clinics/warragul-podiatry-centre/"}
+      ]
     },
     "western-australia": {
       "region_name": "Western Australia",
       "region_url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/regions/western-australia/",
-      "total_clinics": 0,
-      "scrape_status": "not-started",
-      "clinics": []
+      "total_clinics": 5,
+      "scrape_status": "completed",
+      "clinics": [
+        {"clinic_name": "BIM Podiatry Balcatta", "clinic_url": "https://web.archive.org/web/20250707232629/https://www.myfootdr.com.au/our-clinics/bim-podiatry-balcatta/"},
+        {"clinic_name": "Back In Motion Podiatry Como", "clinic_url": "https://web.archive.org/web/20250707232629/https://www.myfootdr.com.au/our-clinics/como-back-in-motion-podiatry/"},
+        {"clinic_name": "Currambine", "clinic_url": "https://web.archive.org/web/20250707232629/https://www.myfootdr.com.au/our-clinics/currambine-podiatry-centre/"},
+        {"clinic_name": "Warwick", "clinic_url": "https://web.archive.org/web/20250707232629/https://www.myfootdr.com.au/our-clinics/warwick-podiatry-centre/"},
+        {"clinic_name": "Wembley Downs", "clinic_url": "https://web.archive.org/web/20250707232629/https://www.myfootdr.com.au/our-clinics/wembley-downs-podiatry-centre/"}
+      ]
     }
   }
 }
