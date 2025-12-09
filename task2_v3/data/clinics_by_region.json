@@ -1,0 +1,86 @@
+{
+  "scrape_metadata": {
+    "last_updated": "2025-12-09T00:00:00Z",
+    "total_regions_processed": 0,
+    "total_clinics_discovered": 0
+  },
+  "regions": {
+    "brisbane": {
+      "region_name": "Brisbane",
+      "region_url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/regions/brisbane/",
+      "total_clinics": 0,
+      "scrape_status": "not-started",
+      "clinics": []
+    },
+    "central-queensland": {
+      "region_name": "Central Queensland",
+      "region_url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/regions/central-queensland/",
+      "total_clinics": 0,
+      "scrape_status": "not-started",
+      "clinics": []
+    },
+    "gold-coast": {
+      "region_name": "Gold Coast",
+      "region_url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/regions/gold-coast/",
+      "total_clinics": 0,
+      "scrape_status": "not-started",
+      "clinics": []
+    },
+    "new-south-wales": {
+      "region_name": "New South Wales",
+      "region_url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/regions/new-south-wales/",
+      "total_clinics": 0,
+      "scrape_status": "not-started",
+      "clinics": []
+    },
+    "north-queensland": {
+      "region_name": "North Queensland",
+      "region_url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/regions/north-queensland/",
+      "total_clinics": 0,
+      "scrape_status": "not-started",
+      "clinics": []
+    },
+    "northern-territory": {
+      "region_name": "Northern Territory",
+      "region_url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/regions/northern-territory/",
+      "total_clinics": 0,
+      "scrape_status": "not-started",
+      "clinics": []
+    },
+    "south-australia": {
+      "region_name": "South Australia",
+      "region_url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/regions/south-australia/",
+      "total_clinics": 0,
+      "scrape_status": "not-started",
+      "clinics": []
+    },
+    "sunshine-coast": {
+      "region_name": "Sunshine Coast",
+      "region_url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/regions/sunshine-coast/",
+      "total_clinics": 0,
+      "scrape_status": "not-started",
+      "clinics": []
+    },
+    "tasmania": {
+      "region_name": "Tasmania",
+      "region_url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/regions/tasmania/",
+      "total_clinics": 0,
+      "scrape_status": "not-started",
+      "clinics": []
+    },
+    "victoria": {
+      "region_name": "Victoria",
+      "region_url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/regions/victoria/",
+      "total_clinics": 0,
+      "scrape_status": "not-started",
+      "clinics": []
+    },
+    "western-australia": {
+      "region_name": "Western Australia",
+      "region_url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/regions/western-australia/",
+      "total_clinics": 0,
+      "scrape_status": "not-started",
+      "clinics": []
+    }
+  }
+}

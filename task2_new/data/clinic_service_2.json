@@ -990,14 +990,8 @@
           ],
           "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/townsville-podiatry-centre/"
-        },
-        "Foundation Podiatry": {
-          "services": [
-            "None"
-          ],
-          "scraped": true,
-          "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/foundation-podiatry/"
         }
+
       }
     },
     "Northern Territory": {
@@ -1074,20 +1068,6 @@
           "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/christies-beach-podiatry-centre/"
         },
-        "My FootDr Findon": {
-          "services": [
-            "None"
-          ],
-          "scraped": true,
-          "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/findon-podiatry-centre/"
-        },
-        "My FootDr Glenelg": {
-          "services": [
-            "None"
-          ],
-          "scraped": true,
-          "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/glenelg-podiatry-centre/"
-        },
         "My FootDr Modbury": {
           "services": [
             "Bracenfix™ - Ingrown Toenail Treatment",
@@ -1107,27 +1087,6 @@
           ],
           "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/modbury-podiatry-centre/"
-        },
-        "My FootDr Mt Barker": {
-          "services": [
-            "None"
-          ],
-          "scraped": true,
-          "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/mt-barker-podiatry-centre/"
-        },
-        "My FootDr Norwood": {
-          "services": [
-            "None"
-          ],
-          "scraped": true,
-          "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/norwood-podiatry-centre/"
-        },
-        "My FootDr Salisbury": {
-          "services": [
-            "None"
-          ],
-          "scraped": true,
-          "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/salisbury-podiatry-centre/"
         }
       }
     },
@@ -1162,48 +1121,6 @@
           ],
           "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/beerwah-podiatry-clinic/"
-        },
-        "My FootDr Buderim": {
-          "services": [
-            "None"
-          ],
-          "scraped": true,
-          "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/buderim-podiatry-centre/"
-        },
-        "My FootDr Caloundra": {
-          "services": [
-            "None"
-          ],
-          "scraped": true,
-          "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/caloundra-podiatry-centre/"
-        },
-        "My FootDr Kawana": {
-          "services": [
-            "None"
-          ],
-          "scraped": true,
-          "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/kawana-podiatry-centre/"
-        },
-        "My FootDr Maroochydore": {
-          "services": [
-            "None"
-          ],
-          "scraped": true,
-          "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/maroochydore/"
-        },
-        "My FootDr Mooloolaba": {
-          "services": [
-            "None"
-          ],
-          "scraped": true,
-          "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/mooloolaba-podiatry-centre/"
-        },
-        "My FootDr Nambour": {
-          "services": [
-            "None"
-          ],
-          "scraped": true,
-          "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/nambour-podiatry-centre/"
         }
       }
     },
@@ -1315,53 +1232,201 @@
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/wodonga-podiatry-centre/"
         },
         "My FootDr Boronia": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Bracenfix™ - Ingrown Toenail Treatment",
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Fungal Nail Infection Laser Treatment",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Cosmetic Nail Restoration",
+            "Shockwave Therapy",
+            "Paraffin Wax Bath Treatment",
+            "Cryotherapy For Plantar Warts",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/boronia-podiatry-centre/"
         },
         "My FootDr Cranbourne": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/cranbourne-podiatry-centre/"
         },
         "My FootDr Pakenham": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Bracenfix™ - Ingrown Toenail Treatment",
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Shockwave Therapy",
+            "Paraffin Wax Bath Treatment",
+            "Cryotherapy For Plantar Warts",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/pakenham-podiatry-centre/"
         },
         "The Foot and Ankle Clinic Moe": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Bracenfix™ - Ingrown Toenail Treatment",
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Fungal Nail Infection Laser Treatment",
+            "Diabetes and Footcare",
+            "Custom Footwear",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Cosmetic Nail Restoration",
+            "Shockwave Therapy",
+            "Footwear",
+            "Paraffin Wax Bath Treatment",
+            "Cryotherapy For Plantar Warts",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/moe-the-foot-and-ankle-clinic-podiatry-clinic/"
         },
         "The Foot and Ankle Clinic Podiatry Chadstone": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Bracenfix™ - Ingrown Toenail Treatment",
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Fungal Nail Infection Laser Treatment",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Cosmetic Nail Restoration",
+            "Shockwave Therapy",
+            "Paraffin Wax Bath Treatment",
+            "Cryotherapy For Plantar Warts",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/chadstone-the-foot-and-ankle-clinic-podiatry-clinic/"
         },
         "The Foot and Ankle Clinic Podiatry East Bentleigh": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Bracenfix™ - Ingrown Toenail Treatment",
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Fungal Nail Infection Laser Treatment",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Cosmetic Nail Restoration",
+            "Shockwave Therapy",
+            "Footwear",
+            "Paraffin Wax Bath Treatment",
+            "Cryotherapy For Plantar Warts",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/east-bentleigh-the-foot-and-ankle-clinic-podiatry-clinic/"
         },
         "The Foot and Ankle Clinic Sale": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Bracenfix™ - Ingrown Toenail Treatment",
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Fungal Nail Infection Laser Treatment",
+            "Diabetes and Footcare",
+            "Custom Footwear",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Cosmetic Nail Restoration",
+            "Shockwave Therapy",
+            "Footwear",
+            "Paraffin Wax Bath Treatment",
+            "Cryotherapy For Plantar Warts",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/sale-the-foot-and-ankle-clinic-podiatry-clinic/"
         },
         "The Foot and Ankle Clinic Traralgon": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Bracenfix™ - Ingrown Toenail Treatment",
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Fungal Nail Infection Laser Treatment",
+            "Diabetes and Footcare",
+            "Custom Footwear",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Cosmetic Nail Restoration",
+            "Shockwave Therapy",
+            "Footwear",
+            "Paraffin Wax Bath Treatment",
+            "Cryotherapy For Plantar Warts",
+            "SWIFT Microwave Wart Therapy",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/traralgon-the-foot-and-ankle-clinic-podiatry-clinic/"
         },
         "My FootDr Wantirna": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Bracenfix™ - Ingrown Toenail Treatment",
+            "Supramalleolar Orthotics (SMOs)",
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Diabetes and Footcare",
+            "Custom Footwear",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Cam Walker - (Moon Boot)",
+            "Cryotherapy For Plantar Warts",
+            "Resources",
+            "Ankle-Foot Orthoses",
+            "Richie Brace"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/wantirna-podiatry-centre/"
         },
         "My FootDr Warragul": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Bracenfix™ - Ingrown Toenail Treatment",
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Fungal Nail Infection Laser Treatment",
+            "Diabetes and Footcare",
+            "Custom Footwear",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Shockwave Therapy",
+            "Footwear",
+            "Paraffin Wax Bath Treatment",
+            "SWIFT Microwave Wart Therapy",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/warragul-podiatry-centre/"
         }
       }
@@ -1369,28 +1434,73 @@
     "Western Australia": {
       "clinics": {
         "BIM Podiatry Balcatta": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "None"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/bim-podiatry-balcatta/"
         },
         "Back In Motion Podiatry Como": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Shockwave Therapy"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/como-back-in-motion-podiatry/"
         },
         "My FootDr Currambine": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Fungal Nail Infection Laser Treatment",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Custom Footwear",
+            "Cryotherapy For Plantar Warts",
+            "Resources",
+            "Ankle-Foot Orthoses"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/currambine-podiatry-centre/"
         },
         "My FootDr Warwick": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Fungal Nail Infection Laser Treatment",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "Custom Footwear",
+            "CAM Walker (Moon Boot)",
+            "Footwear",
+            "Resources"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/warwick-podiatry-centre/"
         },
         "My FootDr Wembley Downs": {
-          "services": [],
-          "scraped": false,
+          "services": [
+            "Clinical Podiatry",
+            "Health Funds",
+            "Custom Foot Orthotics",
+            "Video Gait Analysis",
+            "Fungal Nail Infection Laser Treatment",
+            "Diabetes and Footcare",
+            "National Disability Insurance Scheme (NDIS)",
+            "CAM Walker (Moon Boot)",
+            "Cosmetic Nail Restoration",
+            "Shockwave Therapy",
+            "Paraffin Wax Bath Treatment",
+            "Cryotherapy For Plantar Warts",
+            "Resources",
+            "Footwear"
+          ],
+          "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/wembley-downs-podiatry-centre/"
         }
       }

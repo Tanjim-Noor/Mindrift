@@ -506,20 +506,7 @@ clinics_data = {
             "email": "christiesbeach@myfootdr.com.au",
             "url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/christies-beach-podiatry-centre/"
         },
-        {
-            "name": "My FootDr Findon",
-            "address": "255 Findon Road, Findon SA 5023",
-            "phone": "08 8121 5955",
-            "email": "findon@myfootdr.com.au",
-            "url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/findon-podiatry-centre/"
-        },
-        {
-            "name": "My FootDr Glenelg",
-            "address": "10 Gordon Street, Glenelg SA 5045",
-            "phone": "08 8295 4488",
-            "email": "glenelg@myfootdr.com.au",
-            "url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/glenelg-podiatry-centre/"
-        },
+        
         {
             "name": "My FootDr Modbury",
             "address": "Shop 73, Westfield Tea Tree Plaza, 976 North East Road, Modbury SA 5092",
@@ -534,20 +521,7 @@ clinics_data = {
             "email": "mtbarker@myfootdr.com.au",
             "url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/mt-barker-podiatry-centre/"
         },
-        {
-            "name": "My FootDr Norwood",
-            "address": "Shop 3, 97 The Parade, Norwood SA 5067",
-            "phone": "08 8331 0400",
-            "email": "norwood@myfootdr.com.au",
-            "url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/norwood-podiatry-centre/"
-        },
-        {
-            "name": "My FootDr Salisbury",
-            "address": "Shop 69A, 32 John Street, Salisbury SA 5108",
-            "phone": "08 8250 8855",
-            "email": "salisbury@myfootdr.com.au",
-            "url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/salisbury-podiatry-centre/"
-        },
+        
     ],
     "Sunshine Coast": [
         {
@@ -564,48 +538,7 @@ clinics_data = {
             "email": "beerwah@myfootdr.com.au",
             "url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/beerwah-podiatry-clinic/"
         },
-        {
-            "name": "My FootDr Buderim",
-            "address": "Shop 1, 72 Burnett Street, Buderim QLD 4556",
-            "phone": "07 5445 7888",
-            "email": "buderim@myfootdr.com.au",
-            "url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/buderim-podiatry-centre/"
-        },
-        {
-            "name": "My FootDr Caloundra",
-            "address": "Shop 2A, Stockland Shopping Centre, 80 Bowman Road, Caloundra QLD 4551",
-            "phone": "07 5438 7200",
-            "email": "caloundra@myfootdr.com.au",
-            "url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/caloundra-podiatry-centre/"
-        },
-        {
-            "name": "My FootDr Kawana",
-            "address": "Shop 156, Kawana Shoppingworld, Nicklin Way, Buddina QLD 4575",
-            "phone": "07 5444 4330",
-            "email": "kawana@myfootdr.com.au",
-            "url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/kawana-podiatry-centre/"
-        },
-        {
-            "name": "My FootDr Maroochydore",
-            "address": "Sunshine Plaza, Horton Parade, Maroochydore QLD 4558",
-            "phone": "07 5443 9400",
-            "email": "maroochydore@myfootdr.com.au",
-            "url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/maroochydore/"
-        },
-        {
-            "name": "My FootDr Mooloolaba",
-            "address": "Shop 1B, 22 Brisbane Road, Mooloolaba QLD 4557",
-            "phone": "07 5478 2822",
-            "email": "mooloolaba@myfootdr.com.au",
-            "url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/mooloolaba-podiatry-centre/"
-        },
-        {
-            "name": "My FootDr Nambour",
-            "address": "Shop 18, Nambour Mill Village, 28 Mill Street, Nambour QLD 4560",
-            "phone": "07 5441 4822",
-            "email": "nambour@myfootdr.com.au",
-            "url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/nambour-podiatry-centre/"
-        },
+        
     ],
     "Tasmania": [
         {
