@@ -1,0 +1,22 @@
+{
+  "scrape_metadata": {
+    "scrape_date": "2025-12-09T08:51:33.565796",
+    "source_url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/",
+    "total_regions": 11,
+    "total_clinics": 97
+  },
+  "regions_summary": {
+    "Brisbane": 31,
+    "Central Queensland": 8,
+    "Gold Coast": 7,
+    "New South Wales": 12,
+    "North Queensland": 5,
+    "Northern Territory": 1,
+    "South Australia": 9,
+    "Sunshine Coast": 2,
+    "Tasmania": 2,
+    "Victoria": 15,
+    "Western Australia": 5
+  },
+  "csv_file": "myfootdr_clinics.csv"
+}
