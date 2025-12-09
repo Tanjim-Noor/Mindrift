@@ -63,7 +63,7 @@ def main():
         print(f"4. Update JSON with save_clinic_to_json('{region}', '{clinic_name}', services_list)")
         print(f"5. Run: python next_clinic.py (for next clinic)\n")
     else:
-        print("✓✓✓ ALL 104 CLINICS COMPLETED! ✓✓✓\n")
+        print(f"✓✓✓ ALL {total} CLINICS COMPLETED! ✓✓✓\n")
 
 if __name__ == "__main__":
     main()

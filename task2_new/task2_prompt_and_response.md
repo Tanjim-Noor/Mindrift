@@ -64,7 +64,7 @@ I've successfully scraped the MyFootDr clinics website from the web archive usin
 | Tasmania | 2 |
 | Victoria | 15 |
 | Western Australia | 5 |
-| **Total** | **104** |
+| **Total** | **97** |
 
 ### Tools Used
 
@@ -74,7 +74,7 @@ I've successfully scraped the MyFootDr clinics website from the web archive usin
 
 ### Output Files
 
-1. **`myfootdr_clinics.csv`**: The main output file containing all 104 clinics with the required columns:
+1. **`myfootdr_clinics.csv`**: The main output file containing all 97 clinics with the required columns:
    - Name of Clinic
    - Address
    - Email
@@ -97,7 +97,7 @@ I've successfully scraped the MyFootDr clinics website from the web archive usin
     "scrape_date": "2025-12-08",
     "source_url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/",
     "total_regions": 11,
-    "total_clinics": 104
+    "total_clinics": 97
   },
   "clinics_with_scraped_services": 20,
   "clinics_with_brand_default_services": 84,

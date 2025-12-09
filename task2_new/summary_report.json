@@ -18,5 +18,6 @@
     "Victoria": 15,
     "Western Australia": 5
   },
-  "csv_file": "myfootdr_clinics.csv"
+  "csv_file": "myfootdr_clinics.csv",
+  "total_clinics": 97
 }

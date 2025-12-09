@@ -1,64 +1,64 @@
 {
-  "timestamp": "2025-12-08T20:48:26.762685",
-  "total_clinics": 104,
-  "total_scraped": 0,
-  "total_pending": 104,
-  "completion_percentage": 0.0,
+  "timestamp": "2025-12-09T02:16:22.301366",
+  "total_clinics": 97,
+  "total_scraped": 97,
+  "total_pending": 0,
+  "completion_percentage": 100.0,
   "regions_status": {
     "Brisbane": {
       "total": 31,
-      "scraped": 0,
-      "pending": 31
+      "scraped": 31,
+      "pending": 0
     },
     "Central Queensland": {
       "total": 8,
-      "scraped": 0,
-      "pending": 8
+      "scraped": 8,
+      "pending": 0
     },
     "Gold Coast": {
       "total": 7,
-      "scraped": 0,
-      "pending": 7
+      "scraped": 7,
+      "pending": 0
     },
     "New South Wales": {
       "total": 12,
-      "scraped": 0,
-      "pending": 12
+      "scraped": 12,
+      "pending": 0
     },
     "North Queensland": {
-      "total": 6,
-      "scraped": 0,
-      "pending": 6
+      "total": 5,
+      "scraped": 5,
+      "pending": 0
     },
     "Northern Territory": {
       "total": 1,
-      "scraped": 0,
-      "pending": 1
+      "scraped": 1,
+      "pending": 0
     },
     "South Australia": {
       "total": 9,
-      "scraped": 0,
-      "pending": 9
+      "scraped": 9,
+      "pending": 0
     },
     "Sunshine Coast": {
-      "total": 8,
-      "scraped": 0,
-      "pending": 8
+      "total": 2,
+      "scraped": 2,
+      "pending": 0
     },
     "Tasmania": {
       "total": 2,
-      "scraped": 0,
-      "pending": 2
+      "scraped": 2,
+      "pending": 0
     },
     "Victoria": {
       "total": 15,
-      "scraped": 0,
-      "pending": 15
+      "scraped": 15,
+      "pending": 0
     },
     "Western Australia": {
       "total": 5,
-      "scraped": 0,
-      "pending": 5
+      "scraped": 5,
+      "pending": 0
     }
   },
   "unique_services_count": 0,

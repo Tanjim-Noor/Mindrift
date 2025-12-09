@@ -71,5 +71,6 @@
       "total_clinics": 5,
       "scrape_status": "completed"
     }
-  }
+  },
+  "total_clinics_discovered": 97
 }

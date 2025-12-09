@@ -37,7 +37,7 @@ python next_clinic.py
 **Output format:**
 ```
 NEXT CLINIC TO SCRAPE
-Progress: XX/104 (XX%) | Remaining: XX
+Progress: XX/97 (XX%) | Remaining: XX
 
 CLINIC #XX:
 Region: [Region Name]
@@ -139,7 +139,7 @@ python save_and_continue.py "Northern Territory" "My FootDr Palmerston" "Clinica
 ---
 
 ### Step 5: Repeat for Next Clinic
-Go back to Step 1. The workflow continues until all 104 clinics are complete.
+Go back to Step 1. The workflow continues until all 97 clinics are complete.
 
 **Progress Check (Optional):**
 At any time, verify progress with:

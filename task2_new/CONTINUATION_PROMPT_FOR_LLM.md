@@ -6,7 +6,7 @@
 
 **JSON File Location:** `d:\Work\Mindrift\task2_new\data\clinic_service_2.json`
 
-**Total Clinics:** 104 across 11 Australian regions
+**Total Clinics:** 97 across 11 Australian regions
 
 **Currently Scraped:** 6 clinics (5.8% complete)
 - ✅ Allsports Podiatry Albany Creek (8 services)
@@ -40,7 +40,7 @@
    ```bash
    python show_progress.py
    ```
-   Shows: Quick summary (6/104 done), next 5 clinics to scrape with URLs
+   Shows: Quick summary (6/97 done), next 5 clinics to scrape with URLs
 
 4. **`next_clinic.py`** - Get the NEXT SINGLE clinic to scrape (PRIMARY TOOL FOR LLM)
    ```bash
@@ -208,7 +208,7 @@ def save_clinic_to_json(region: str, clinic_name: str, services: List[str]) -> N
 5. **Print progress:**
    ```
    ✓ Clinic Name: X services saved
-   Progress: Y/104 clinics done
+   Progress: Y/97 clinics done
    ```
 
 6. **Loop to next clinic** - Repeat for all remaining 98 clinics
@@ -330,7 +330,7 @@ Some clinics have unique services NOT found in all clinics:
 4. [ ] Extract services using the regex function (extract_services_from_markdown)
 5. [ ] Call `save_clinic_to_json(region, clinic_name, services_list)`
 6. [ ] Verify save by checking JSON file (services should be populated and scraped=true)
-7. [ ] Print: `✓ Clinic Name: X services saved (Y/104 total)`
+7. [ ] Print: `✓ Clinic Name: X services saved (Y/97 total)`
 8. [ ] Loop back to step 1 for next clinic
 
 **VERIFICATION:**
@@ -339,8 +339,8 @@ Some clinics have unique services NOT found in all clinics:
 - [ ] If clinic doesn't appear in "CLINICS ALREADY SCRAPED" section, debug the save function
 
 **COMPLETION:**
-- [ ] When all 104 clinics show `scraped: true` in JSON
-- [ ] Run `python status_report.py` - should show 104/104 (100%)
+- [ ] When all 97 clinics show `scraped: true` in JSON
+- [ ] Run `python status_report.py` - should show 97/97 (100%)
 - [ ] Task is complete!
 
 ---
@@ -371,10 +371,10 @@ python status_report.py
 ## STOPPING POINT
 
 When all clinics have `"scraped": true` in the JSON, the task is complete. This will result in:
-- 104 clinics with their actual unique services extracted
+- 97 clinics with their actual unique services extracted
 - No generic fallback data
 - Accurate representation of each clinic's offerings
 
-Total expected time: ~104 sequential API calls to mcp_apify_rag-web-browser
+Total expected time: ~97 sequential API calls to mcp_apify_rag-web-browser
 
 Good luck! The foundation is solid - just keep processing clinics one-by-one and the JSON will be complete.

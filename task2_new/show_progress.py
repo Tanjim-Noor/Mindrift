@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Fully automated sequential scraper for all 104 clinics.
+Fully automated sequential scraper for all 97 clinics.
 Calls Apify and updates JSON after each clinic - no manual intervention.
 """
 
