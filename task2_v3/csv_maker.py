@@ -337,7 +337,13 @@ clinics_data = {
             "email": "varsitylakes@myfootdr.com.au",
             "url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/robina-podiatry-centre/"
         },
-        
+        {
+            "name": "Allsports Podiatry Parkwood",
+            "address": "Shop 13/122 Napper Rd, Parkwood QLD 4214",
+            "phone": "07 5561 1810",
+            "email": "parkwood@allsportspodiatry.com.au",
+            "url": "https://web.archive.org/web/20250829222349/https://www.myfootdr.com.au/our-clinics/allsports-podiatry-parkwood/"
+        },
     ],
     "New South Wales": [
         {
@@ -461,13 +467,7 @@ clinics_data = {
             "email": "townsville@myfootdr.com.au",
             "url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/townsville-podiatry-centre/"
         },
-        {
-            "name": "Foundation Podiatry",
-            "address": "140 Ross River Road, Mundingburra QLD 4812",
-            "phone": "07 4775 1760",
-            "email": "foundation@myfootdr.com.au",
-            "url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/foundation-podiatry/"
-        },
+        # Foundation Podiatry removed (not present in ground truth clinic_service_2.json)
     ],
     "Northern Territory": [
         {
@@ -508,12 +508,41 @@ clinics_data = {
             "email": "modbury@myfootdr.com.au",
             "url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/modbury-podiatry-centre/"
         },
+        # My FootDr Mt Barker removed (not present in ground truth clinic_service_2.json)
         {
-            "name": "My FootDr Mt Barker",
-            "address": "4 Morphett Street, Mount Barker SA 5251",
-            "phone": "08 8391 1100",
-            "email": "mtbarker@myfootdr.com.au",
-            "url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/mt-barker-podiatry-centre/"
+            "name": "My FootDr Hove",
+            "address": "372 Brighton Rd, Hove SA 5048",
+            "phone": "08 8358 2211",
+            "email": "hove@myfootdr.com.au",
+            "url": "https://web.archive.org/web/20250707233302/https://www.myfootdr.com.au/our-clinics/hove-podiatry-centre/"
+        },
+        {
+            "name": "My FootDr Woodville",
+            "address": "Shop 1, 924 Port Road, Woodville West SA 5011",
+            "phone": "(08) 8243 1095",
+            "email": "woodville@myfootdr.com.au",
+            "url": "https://web.archive.org/web/20250707233302/https://www.myfootdr.com.au/our-clinics/bim-podiatry-woodville/"
+        },
+        {
+            "name": "My FootDr Stirling",
+            "address": "Shop 10 Stirling Tiers, 55 Mt Barker Road, Stirling SA 5152",
+            "phone": "08 8339 7551",
+            "email": "stirling@myfootdr.com.au",
+            "url": "https://web.archive.org/web/20250707233302/https://www.myfootdr.com.au/our-clinics/stirling-podiatry-centre/"
+        },
+        {
+            "name": "My FootDr Unley",
+            "address": "98 Unley Rd, Unley SA 5061",
+            "phone": "08 8357 0747",
+            "email": "unley@myfootdr.com.au",
+            "url": "https://web.archive.org/web/20250707233302/https://www.myfootdr.com.au/our-clinics/unley-podiatry-centre/"
+        },
+        {
+            "name": "Semaphore (formerly Queenstown)",
+            "address": "160 Semaphore Road, Semaphore SA 5019",
+            "phone": "08 8234 8666",
+            "email": "semaphore@myfootdr.com.au",
+            "url": "https://web.archive.org/web/20250707233302/https://www.myfootdr.com.au/our-clinics/semaphore-podiatry-clinic/"
         },
         
     ],
@@ -809,8 +838,7 @@ def get_services_for_clinic(clinic, region):
         return DEFAULT_ALLSPORTS_SERVICES
     elif "Ispahan" in clinic_name:
         return DEFAULT_MYFOOTDR_SERVICES
-    elif "Foundation Podiatry" in clinic_name:
-        return DEFAULT_NQFOOT_SERVICES
+    # `Foundation Podiatry` removed from clinics list - no special case required
     elif "Border Podiatry" in clinic_name:
         return DEFAULT_MYFOOTDR_SERVICES
     else:
