@@ -337,13 +337,7 @@ clinics_data = {
             "email": "varsitylakes@myfootdr.com.au",
             "url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/robina-podiatry-centre/"
         },
-        {
-            "name": "Back In Motion Podiatry Mudgeeraba",
-            "address": "Unit 1, 63 Railway Street, Mudgeeraba QLD 4213",
-            "phone": "07 5619 2180",
-            "email": "mudgeeraba@backinmotion.com.au",
-            "url": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/mudgeeraba-back-in-motion-podiatry/"
-        },
+        
     ],
     "New South Wales": [
         {

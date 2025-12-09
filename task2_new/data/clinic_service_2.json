@@ -703,13 +703,12 @@
           ],
           "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/robina-podiatry-centre/"
+        }
         },
-        "Back In Motion Podiatry Mudgeeraba": {
-          "services": [
-            "Clinical Podiatry"
-          ],
-          "scraped": true,
-          "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/mudgeeraba-back-in-motion-podiatry/"
+        "Allsports Podiatry Parkwood": {
+          "services": [],
+          "scraped": false,
+          "link": "https://web.archive.org/web/20250829222349/https://www.myfootdr.com.au/our-clinics/allsports-podiatry-parkwood/"
         }
       }
     },
@@ -991,7 +990,6 @@
           "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/townsville-podiatry-centre/"
         }
-
       }
     },
     "Northern Territory": {
@@ -1087,6 +1085,31 @@
           ],
           "scraped": true,
           "link": "https://web.archive.org/web/20250708180027/https://www.myfootdr.com.au/our-clinics/modbury-podiatry-centre/"
+        },
+        "My FootDr Hove": {
+          "services": [],
+          "scraped": false,
+          "link": "https://web.archive.org/web/20250707233302/https://www.myfootdr.com.au/our-clinics/hove-podiatry-centre/"
+        },
+        "My FootDr Woodville": {
+          "services": [],
+          "scraped": false,
+          "link": "https://web.archive.org/web/20250707233302/https://www.myfootdr.com.au/our-clinics/bim-podiatry-woodville/"
+        },
+        "Semaphore (formerly Queenstown)": {
+          "services": [],
+          "scraped": false,
+          "link": "https://web.archive.org/web/20250707233302/https://www.myfootdr.com.au/our-clinics/semaphore-podiatry-clinic/"
+        },
+        "My FootDr Stirling": {
+          "services": [],
+          "scraped": false,
+          "link": "https://web.archive.org/web/20250707233302/https://www.myfootdr.com.au/our-clinics/stirling-podiatry-centre/"
+        },
+        "My FootDr Unley": {
+          "services": [],
+          "scraped": false,
+          "link": "https://web.archive.org/web/20250707233302/https://www.myfootdr.com.au/our-clinics/unley-podiatry-centre/"
         }
       }
     },
