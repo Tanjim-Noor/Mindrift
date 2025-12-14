@@ -1,0 +1,544 @@
+mcp_detail_url,github_url,name,description,language,category,tags,overview,readme,github_stars
+https://mcp.so/server/image-tools-mcp/kshern,https://github.com/kshern/image-tools-mcp,Image Tools Mcp,"A Model Context Protocol (MCP) service for retrieving image dimensions and compressing images, supporting both URL and local file sources.",English,,images compress; figma; tinyPNG,no content,"# Image Tools MCP
+
+[![smithery badge](https://smithery.ai/badge/@kshern/image-tools-mcp)](https://smithery.ai/server/@kshern/image-tools-mcp)
+
+A Model Context Protocol (MCP) service for retrieving image dimensions and compressing images, supporting both URL and local file sources.
+
+_[中文文档](./README_zh.md)_
+
+## Features
+
+- Retrieve image dimensions from URLs
+- Get image dimensions from local files
+- Compress images from URLs using TinyPNG API
+- Compress local images using TinyPNG API
+- Convert images to different formats (webp, jpeg/jpg, png)
+- Returns width, height, type, MIME type, and compression information
+
+### Example Results
+
+![Example Result 1](./public/image_gemini_1.jpg)
+![Example Result 2](./public/image_gemini_2.jpg)
+
+![Example Result 1](./public/image_1.png)
+![Example Result 2](./public/image_2.png)
+
+download from figma url and compress
+![Example Result 3](./public/image_figma_url.png)
+
+## Usage
+
+### Using as an MCP Service
+
+This service provides five tool functions:
+
+1. `get_image_size` - Get dimensions of remote images
+2. `get_local_image_size` - Get dimensions of local images
+3. `compress_image_from_url` - Compress remote images using TinyPNG API
+4. `compress_local_image` - Compress local images using TinyPNG API
+5. `figma` - Fetch image links from Figma API and compress them using TinyPNG API
+
+### Client Integration
+
+To use this MCP service, you need to connect to it from an MCP client. Here are examples of how to integrate with different clients:
+
+#### Usage
+
+```json
+{
+  ""mcpServers"": {
+    ""image-tools"": {
+      ""command"": ""npx"",
+      ""args"": [""image-tools-mcp""],
+      ""env"": {
+        ""TINIFY_API_KEY"": ""<YOUR_TINIFY_API_KEY>"",
+        ""FIGMA_API_TOKEN"": ""<YOUR_FIGMA_API_TOKEN>""
+      }
+    }
+  }
+}
+```
+
+#### Using with MCP Client Library
+
+````typescript
+import { McpClient } from ""@modelcontextprotocol/client"";
+
+// Initialize the client
+const client = new McpClient({
+  transport: ""stdio"" // or other transport options
+});
+
+// Connect to the server
+await client.connect();
+
+// Get image dimensions from URL
+const urlResult = await client.callTool(""get_image_size"", {
+  options: {
+    imageUrl: ""https://example.com/image.jpg""
+  }
+});
+console.log(JSON.parse(urlResult.content[0].text));
+// Output: { width: 800, height: 600, type: ""jpg"", mime: ""image/jpeg"" }
+
+// Get image dimensions from local file
+const localResult = await client.callTool(""get_local_image_size"", {
+  options: {
+    imagePath: ""D:/path/to/image.png""
+  }
+});
+console.log(JSON.parse(localResult.content[0].text));
+// Output: { width: 1024, height: 768, type: ""png"", mime: ""image/png"", path: ""D:/path/to/image.png"" }
+
+// Compress image from URL
+const compressUrlResult = await client.callTool(""compress_image_from_url"", {
+  options: {
+    imageUrl: ""https://example.com/image.jpg"",
+    outputFormat: ""webp"" // Optional: convert to webp, jpeg/jpg, or png
+  }
+});
+console.log(JSON.parse(compressUrlResult.content[0].text));
+// Output: { originalSize: 102400, compressedSize: 51200, compressionRatio: ""50.00%"", tempFilePath: ""/tmp/compressed_1615456789.webp"", format: ""webp"" }
+
+// Compress local image
+const compressLocalResult = await client.callTool(""compress_local_image"", {
+  options: {
+    imagePath: ""D:/path/to/image.png"",
+    outputPath: ""D:/path/to/compressed.webp"", // Optional
+    outputFormat: ""image/webp"" // Optional: convert to image/webp, image/jpeg, or image/png
+  }
+});
+console.log(JSON.parse(compressLocalResult.content[0].text));
+// Output: { originalSize: 102400, compressedSize: 51200, compressionRatio: ""50.00%"", outputPath: ""D:/path/to/compressed.webp"", format: ""webp"" }
+
+// Fetch image links from Figma API
+
+const figmaResult = await client.callTool(""figma"", {
+  options: {
+    figmaUrl: ""https://www.figma.com/file/XXXXXXX""
+  }
+});
+console.log(JSON.parse(figmaResult.content[0].text));
+// Output: { imageLinks: [""https://example.com/image1.jpg"", ""https://example.com/image2.jpg""] }
+
+### Tool Schemas
+
+#### get_image_size
+
+```typescript
+{
+  options: {
+    imageUrl: string // URL of the image to retrieve dimensions for
+  }
+}
+````
+
+#### get_local_image_size
+
+```typescript
+{
+  options: {
+    imagePath: string; // Absolute path to the local image file
+  }
+}
+```
+
+#### compress_image_from_url
+
+```typescript
+{
+  options: {
+    imageUrl: string // URL of the image to compress
+    outputFormat?: ""image/webp"" | ""image/jpeg"" | ""image/jpg"" | ""image/png"" // Optional output format
+  }
+}
+```
+
+#### compress_local_image
+
+```typescript
+{
+  options: {
+    imagePath: string // Absolute path to the local image file
+    outputPath?: string // Optional absolute path for the compressed output image
+    outputFormat?: ""image/webp"" | ""image/jpeg"" | ""image/jpg"" | ""image/png"" // Optional output format
+  }
+}
+```
+
+#### figma
+
+```typescript
+{
+  options: {
+    figmaUrl: string; // URL of the Figma file to fetch image links from
+  }
+}
+```
+
+## Changelog
+
+- **2025-05-12:** Updated Figma API to support additional parameters, including 2x image scaling.
+
+## Technical Implementation
+
+This project is built on the following libraries:
+
+- [probe-image-size](https://github.com/nodeca/probe-image-size) - For image dimension detection
+- [tinify](https://github.com/tinify/tinify-nodejs) - For image compression via the TinyPNG API
+- [figma-api](https://github.com/figma/api) - For fetching image links from Figma API
+
+## Environment Variables
+
+- `TINIFY_API_KEY` - Required for image compression functionality. Get your API key from [TinyPNG](https://tinypng.com/developers)
+  - When not provided, the compression tools (`compress_image_from_url` and `compress_local_image`) will not be registered
+- `FIGMA_API_TOKEN` - Required for fetching image links from Figma API. Get your API token from [Figma](https://www.figma.com/developers)
+  - When not provided, the Figma tool (`figma`) will not be registered
+
+Note: The basic image dimension tools (`get_image_size` and `get_local_image_size`) are always available regardless of API keys.
+
+## License
+
+MIT
+",6
+https://mcp.so/server/-Creating-a-MCP-Server-for-Claude-AI-Assistant-to-interact-with-GitHub-and-demonstrate-its-Use-/Preeti75,https://github.com/Preeti75/-Creating-a-MCP-Server-for-Claude-AI-Assistant-to-interact-with-GitHub-and-demonstrate-its-Use-,""" Creating-a-MCP-Server-for-Claude-AI-Assistant-to-interact-with-GitHub-and-demonstrate-its-Use """,""" Creating a MCP Server for Claude AI Assistant to interact with GitHub and demonstrate its Use """,English,research-and-data,mathgpt; math-solver; math-assistant,"What is the MCP Server for Claude AI? The MCP Server for Claude AI is a tool that allows the Claude AI Assistant to interact with GitHub, enabling users to manage their repositories and enhance their development workflow. How to use the MCP Server for Claude AI? To use the MCP Server, set up the server by following the installation steps, configure it with your GitHub account, and then use Claude AI to query and manage your GitHub repositories. Key features of the MCP Server for Claude AI? Direct interaction with GitHub repositories through Claude AI. Ability to read/write files and generate insights from your code. Enhanced development workflow with AI assistance. Use cases of the MCP Server for Claude AI? Managing GitHub repositories directly through AI commands. Generating insights and explanations for projects. Creating and managing new repositories with AI assistance. FAQ from the MCP Server for Claude AI? Can the MCP Server work with other APIs? Yes, it can be configured to work with any application that has an API, such as Spotify or Twitter. What are the prerequisites for setting up the MCP Server? You need Node.js, npm, Claude Desktop, and a GitHub account with appropriate permissions. Is there any cost associated with using the MCP Server? The MCP Server is free to use, but you may need to check the API usage policies of the services you integrate.","# "" Creating-a-MCP-Server-for-Claude-AI-Assistant-to-interact-with-GitHub-and-demonstrate-its-Use ""
+
+
+## Requirements:
+  Choose any application with an API (Spotify, GitHub, Twitter or any of your favorite one etc.).I have chosen GitHub.
+  Create an MCP server and demonstrate it's use with Claude AI Assistant.
+
+## Overview:
+  The Model Context Protocol (MCP) server, a powerful tool introduced by Anthropic, bridges the gap between your AI assistant and your GitHub repository. By setting up an MCP server, you can directly query your code, read/write files, generate insights, and step-up your development workflow.
+
+## Prerequisites:
+  Before you begin, ensure you have the following installed on your system:
+ 1. Node.js and npm (Node Package Manager)
+ 2. The latest version of Claude Desktop
+ 3. A GitHub account with appropriate permissions
+
+## Steps Taken:
+Step 1: Generate a GitHub Personal Access Token ,
+
+Step 2: Install the GitHub MCP Server in Claude AI Assistant,
+
+Step 3: Configure the MCP Server,
+
+Step 4: Update the Claude Desktop Coniguration by editing the config.json file,
+
+Step 5: Restart Claude Desktop,
+
+Step 6: Verify the GitHub Integration by checking how Claude AI is able to access my GitHub Repositories and work on them like displaying all my Repos,Explaining the Project , Displaying Project Structure,
+        Creating a New Repository and working on it and much more work can be done.
+        
+## Technologies Used:
+1.Claude AI Assistant : 3.7 Sonnet
+
+2.Node js : 22.14.0
+
+3.npm : 10.9.2
+
+4.Visual Studio Code
+
+5.Model Context Protocol (MCP) Server
+
+6.GitHub Server
+
+## Attachments:
+Attaching the Screenshots folder of the Assignment done .
+![Claude_Accessing_Preeti_GitHub_Repositories](https://github.com/user-attachments/assets/bc0924bd-0e31-4252-a5bf-2fda56e278a0)
+![Claude_Creating_A_New_Repository_in_my_GitHub_Account](https://github.com/user-attachments/assets/7237deb9-3aca-4ad6-b53d-e7e6bdb8c822)
+
+
+
+
+## Contact / Made By:
+Preeti Shrivastava
+
+GitHub Username : Preeti75
+
+GitHub Account:github.com/Preeti75
+",0
+https://mcp.so/server/-toast-mcp-server/naru-sensei,https://github.com/naru-sensei/-toast-mcp-server,Windows 10 および macOS 通知機能付き MCP サーバー,A Model Context Protocol (MCP) server with Windows 10 desktop notifications support. It processes notification requests from MCP clients like VSCode Cline and displays customizable desktop notifications using win10toast.,English,developer-tools,mcp-server; notification; desktop-notifications,"What is the MCP Server? The MCP Server is a Model Context Protocol (MCP) server designed to display desktop notifications on Windows 10 and macOS. It processes notification requests from MCP clients like VSCode Cline and utilizes win10toast for Windows and osascript for macOS to show customizable notifications. How to use the MCP Server? To use the MCP Server, run the server with the command python mcp_server.py --port 8000 --host 0.0.0.0 , and then trigger notifications from an MCP client such as VSCode Cline. Key features of the MCP Server? Supports Model Context Protocol for communication with clients. Displays customizable desktop notifications on Windows and macOS. Handles both synchronous and asynchronous requests. Provides a simple API for triggering notifications. Use cases of the MCP Server? Sending notifications from development tools like VSCode. Displaying alerts or messages from various applications. Customizing notification parameters for different use cases. FAQ from the MCP Server? Can the MCP Server run on both Windows and macOS? Yes! The MCP Server is designed to work on both operating systems. How do I customize notifications? You can customize the title, message, display time, and more through the server's API. Is there a limit to the number of clients that can connect? No, the server can handle multiple simultaneous client connections.","# Windows 10 および macOS 通知機能付き MCP サーバー
+
+## プロジェクト概要
+このプロジェクトは、デスクトップ通知を表示できる Model Context Protocol (MCP) サーバーを作成することを目的としています。Windows 10 では win10toast ライブラリを使用し、macOS では osascript を使用して通知を表示します。このサーバーは MCP クライアント（VSCode Cline など）からのリクエストを受け取り、それに基づいてデスクトップ通知を表示します。
+
+## 要件
+
+### 機能要件
+
+1. **MCP プロトコルサポート**
+   - MCP クライアントとの通信を確立するための Model Context Protocol の実装
+   - 最新の MCP 仕様のサポート（VSCode Cline との完全な互換性を提供）
+   - 同期および非同期リクエストの処理
+
+2. **通知システム**
+   - Windows 10 では win10toast ライブラリを使用してデスクトップ通知を表示
+   - macOS では osascript を使用して通知センターに通知を表示
+   - カスタマイズ可能な通知パラメータのサポート：
+     - タイトル
+     - メッセージ内容
+     - 表示時間
+     - アイコン（Windows のみ、オプション）
+     - サブタイトル（macOS のみ、オプション）
+     - 通知音（macOS のみ、オプション）
+     - 通知タイプ（情報、警告、エラー、成功）
+
+3. **クライアント接続**
+   - 設定可能なネットワークインターフェースでのリスニング（localhost の 127.0.0.1 だけでなく、すべてのインターフェースに対応する 0.0.0.0 でも）
+   - 設定可能なポート（デフォルト: 8000）
+   - 複数の同時クライアント接続の処理
+   - 接続問題に対する適切なエラー処理
+
+4. **コマンド処理**
+   - MCP クライアントからの通知コマンドの処理
+   - 通知をトリガーするためのシンプルな API のサポート
+   - コマンド検証と適切なエラーレスポンスの提供
+
+### 技術要件
+
+1. **サーバー実装**
+   - 実装には Python 3.8 以上を使用
+   - asyncio または同様のライブラリを使用した非同期サーバーとして実装
+   - MCP サーバー実装のベストプラクティスに従う
+
+2. **依存関係**
+   - Windows 10 デスクトップ通知用の win10toast
+   - macOS 通知用の osascript（システムに標準搭載）
+   - MCP プロトコル実装に必要なライブラリ
+   - 外部依存関係を最小限に抑える
+
+3. **設定**
+   - コマンドライン引数による設定のサポート
+   - 環境変数による設定のサポート
+   - すべての設定に対する合理的なデフォルト値の提供
+
+4. **ログ記録とエラー処理**
+   - 包括的なログシステムの実装
+   - すべてのクライアント接続、コマンド、エラーのログ記録
+   - 意味のあるエラーメッセージを含む適切な例外処理
+
+### テスト要件
+
+1. **テストスクリプト**
+   - サーバーの機能を実証するテストスクリプトの含有
+   - 様々な通知タイプの例示
+
+2. **クライアント互換性**
+   - VSCode Cline との互換性の確保
+   - クライアント固有の設定要件のドキュメント化
+
+## 成果物
+
+1. MCP サーバーの Python 実装
+2. 機能を実証するテストスクリプト
+3. すべての依存関係をリストした requirements.txt
+4. 使用方法と設定に関するドキュメント
+5. 一般的な問題のトラブルシューティングガイド
+
+## 実装上の注意
+
+- サーバーが localhost だけでなく、すべてのインターフェース（0.0.0.0）にバインドするようにする
+- 同時リクエストを処理するための適切なスレッディングまたは非同期パターンを使用する
+- 適切なセキュリティ対策（入力検証など）を含める
+- 接続問題のデバッグのための詳細なログオプションを提供する
+- サーバーの適切なシャットダウンを実装する
+
+## 使用例
+
+完成したサーバーは次のように実行できるようにする：
+
+```bash
+python mcp_server.py --port 8000 --host 0.0.0.0
+```
+
+そして、VSCode Cline または他の MCP クライアントから MCP プロトコルを介して通知をトリガーできるようにする。
+",3
+https://mcp.so/server/.net-types-explorer-mcp-server/V0v1kkk,,404,,,,,,,
+https://mcp.so/server/05-make-your-mcp-server/ollama-tlms-golang,https://github.com/ollama-tlms-golang/05-make-your-mcp-server,Creating an MCP Server in Go and Serving it with Docker,,,developer-tools,mcp; docker; go; server,"What is the MCP Server? The MCP Server is a tool created in Go that allows users to fetch webpage content using the Model Context Protocol (MCP) and the curl utility. How to use the MCP Server? To use the MCP Server, you need to build it using Docker and then run it with a configuration file for mcphost. You can request webpage content by providing a URL. Key features of the MCP Server? Fetches webpage content using curl Simple implementation in Go Dockerized for easy deployment Use cases of the MCP Server? Retrieving content from web pages for analysis. Integrating with LLMs to enhance their capabilities. Serving as a backend tool for applications needing web data. FAQ from the MCP Server? What is required to run the MCP Server? You need Docker installed and a basic understanding of Go. Can I customize the tools provided by the MCP Server? Yes! You can add more tools by modifying the server code. Is the MCP Server open-source? Yes! The MCP Server is available on GitHub.","# Creating an MCP Server in Go and Serving it with Docker
+
+## Introduction
+
+Today we'll look at how to create an MCP server in Go and serve it with Docker.
+
+Prerequisites: having read [Understanding the Model Context Protocol (MCP)](https://k33g.hashnode.dev/understanding-the-model-context-protocol-mcp)
+
+To write an MCP server, there are several official SDKs:
+
+- [TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)
+- [Python SDK](https://github.com/modelcontextprotocol/python-sdk)
+- [Kotlin SDK](https://github.com/modelcontextprotocol/kotlin-sdk)
+
+In recent years, I've developed an appetite for Go, so I looked around to see if there was a Go implementation. On this page [https://github.com/punkpeye/awesome-mcp-servers?tab=readme-ov-file#frameworks](https://github.com/punkpeye/awesome-mcp-servers?tab=readme-ov-file#frameworks), I found several, notably [https://github.com/mark3labs/mcp-go](https://github.com/mark3labs/mcp-go), by the creator of `mcphost` (which I discuss and use in the [previous blog post](https://k33g.hashnode.dev/understanding-the-model-context-protocol-mcp)).
+
+The advantage of the `mcp-go` project is that it's simple and also provides tools to develop an MCP client, which will be very useful for a future blog post.
+
+## Creating an MCP Server
+
+I won't detail or implement all the possibilities of an MCP server here. I'll just implement the essentials:
+
+- Provide a list of tools for the LLM
+- Execute these tools when the LLM invokes them
+
+When I use an LLM, there's one thing I'd like to be able to do: give it a website link so it can find information there, make a summary for me, etc.
+
+So I created an MCP server that calls the `curl` utility with a URL parameter and returns its content. But let's look at the source code:
+
+**`go.mod`**:
+```go
+module mcp-curl
+
+go 1.23.4
+
+require github.com/mark3labs/mcp-go v0.8.2
+require github.com/google/uuid v1.6.0
+```
+
+**`main.go`**:
+```go
+package main
+
+import (
+	""context""
+	""fmt""
+	""os/exec""
+
+	""github.com/mark3labs/mcp-go/mcp""
+	""github.com/mark3labs/mcp-go/server""
+)
+
+func main() {
+	// Create MCP server
+	s := server.NewMCPServer(
+		""mcp-curl"",
+		""1.0.0"",
+	)
+
+	// Add a tool
+	tool := mcp.NewTool(""use_curl"",
+		mcp.WithDescription(""fetch this webpage""),
+		mcp.WithString(""url"",
+			mcp.Required(),
+			mcp.Description(""url of the webpage to fetch""),
+		),
+	)
+
+	// Add a tool handler
+	s.AddTool(tool, curlHandler)
+
+	fmt.Println(""🚀 Server started"")
+	// Start the stdio server
+	if err := server.ServeStdio(s); err != nil {
+		fmt.Printf(""😡 Server error: %v\n"", err)
+	}
+	fmt.Println(""👋 Server stopped"")
+}
+
+func curlHandler(ctx context.Context, request mcp.CallToolRequest) (*mcp.CallToolResult, error) {
+
+	url, ok := request.Params.Arguments[""url""].(string)
+	if !ok {
+		return mcp.NewToolResultError(""url must be a string""), nil
+	}
+	cmd := exec.Command(""curl"", ""-s"", url)
+	output, err := cmd.Output()
+	if err != nil {
+		return mcp.NewToolResultError(err.Error()), nil
+	}
+	content := string(output)
+
+	return mcp.NewToolResultText(content), nil
+}
+```
+
+### Explanations
+
+It's really very simple. My server will provide only one tool. The code implements a server that exposes a web ""fetching"" tool based on `curl` using the Model Control Protocol.
+
+- First, I create an MCP server named `mcp-curl` version `1.0.0` that works with standard input/output (stdio)
+- Then I define a tool named `use_curl` that takes a required `url` parameter
+- Finally, I add the `handler` for this tool that executes the `curl` command with the `-s` option to retrieve the webpage content
+- Of course, I handle errors and return the webpage content as text
+
+## Packaging the MCP Server with Docker
+
+To make my life easier, I'll use a `Dockerfile` to build a Docker image containing my MCP server. This way, I can more easily deploy it on different platforms or make it available to anyone who wants to use it.
+
+**`Dockerfile`**:
+```Dockerfile
+FROM golang:1.23.4-alpine AS builder
+WORKDIR /app
+COPY go.mod .
+COPY main.go .
+
+RUN <<EOF
+go mod tidy 
+go build
+EOF
+
+FROM curlimages/curl:8.6.0
+WORKDIR /app
+COPY --from=builder /app/mcp-curl .
+ENTRYPOINT [""./mcp-curl""]
+```
+
+My `Dockerfile` has two parts:
+
+- The first part builds my MCP server in Go
+- The second part uses the `curlimages/curl:8.6.0` image that contains `curl` and copies my `mcp-curl` server into the image (so `mcp-curl` is the executable that calls `curl`)
+
+To build the Docker image, I run the following command:
+
+```bash
+docker build -t mcp-curl .
+```
+
+And now let's see how to use our new MCP server with `mcphost`:
+
+## Using the MCP Server with `mcphost`
+
+First, we need to create a configuration file `mcp.json` for `mcphost`:
+
+```json
+{
+  ""mcpServers"": {
+    ""mcp-curl-with-docker"" :{
+      ""command"": ""docker"",
+      ""args"": [
+        ""run"",
+        ""--rm"",
+        ""-i"",
+        ""mcp-curl""
+      ]
+    }
+  }
+}
+```
+
+Then we can use `mcphost` to use our MCP server and an LLM with Ollama, like this:
+
+```bash
+mcphost --config ./mcp.json --model ollama:qwen2.5-coder:14b
+```
+
+The MCP server is recognized by `mcphost`:
+![mcp](imgs/01-mcp.png)
+
+You can request the list of available tools with the `/tools` command:
+![mcp](imgs/02-mcp.png)
+
+Now you can request the content of a webpage and analyze its content (in my example I retrieve Go code from GitHub):
+![mcp](imgs/03-mcp.png)
+
+Wait a little bit:
+![mcp](imgs/04-mcp.png)
+
+And here's the webpage content:
+![mcp](imgs/05-mcp.png)
+
+## Conclusion
+
+You can see that with just a few lines, it becomes really easy to give ""superpowers"" to your LLMs. In a future blog post, I'll show you how to create a generative AI application with Ollama and an MCP client in Go to interact with our MCP server.
+",8

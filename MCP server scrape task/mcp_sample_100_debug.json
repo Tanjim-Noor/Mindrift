@@ -1,0 +1,714 @@
+[
+  {
+    "index": 1,
+    "url": "https://mcp.so/server/image-tools-mcp/kshern",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\001_mcp.so_server_image-tools-mcp_kshern.html",
+    "debug": []
+  },
+  {
+    "index": 2,
+    "url": "https://mcp.so/server/-Creating-a-MCP-Server-for-Claude-AI-Assistant-to-interact-with-GitHub-and-demonstrate-its-Use-/Preeti75",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\002_mcp.so_server_-Creating-a-MCP-Server-for-Claude-AI-Assistant-to-interact-with-GitHub-and-demonstrate-its-Use-_Preeti75.html",
+    "debug": []
+  },
+  {
+    "index": 3,
+    "url": "https://mcp.so/server/-toast-mcp-server/naru-sensei",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\003_mcp.so_server_-toast-mcp-server_naru-sensei.html",
+    "debug": []
+  },
+  {
+    "index": 4,
+    "url": "https://mcp.so/server/.net-types-explorer-mcp-server/V0v1kkk",
+    "status_code": 404,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\004_mcp.so_server_.net-types-explorer-mcp-server_V0v1kkk.html",
+    "debug": []
+  },
+  {
+    "index": 5,
+    "url": "https://mcp.so/server/05-make-your-mcp-server/ollama-tlms-golang",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\005_mcp.so_server_05-make-your-mcp-server_ollama-tlms-golang.html",
+    "debug": []
+  },
+  {
+    "index": 6,
+    "url": "https://mcp.so/server/07-make-your-mcp-server-/ollama-tlms-golang",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\006_mcp.so_server_07-make-your-mcp-server-_ollama-tlms-golang.html",
+    "debug": []
+  },
+  {
+    "index": 7,
+    "url": "https://mcp.so/server/0xtotaylor_mcp-server-skyfire/MCP-Mirror",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\007_mcp.so_server_0xtotaylor_mcp-server-skyfire_MCP-Mirror.html",
+    "debug": []
+  },
+  {
+    "index": 8,
+    "url": "https://mcp.so/server/100-tool-mcp-server-json-example/angrysky56",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\008_mcp.so_server_100-tool-mcp-server-json-example_angrysky56.html",
+    "debug": []
+  },
+  {
+    "index": 9,
+    "url": "https://mcp.so/server/100-training-of-mcp-servers/Ossamoon",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\009_mcp.so_server_100-training-of-mcp-servers_Ossamoon.html",
+    "debug": []
+  },
+  {
+    "index": 10,
+    "url": "https://mcp.so/server/123123231/LiMing1459276281",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\010_mcp.so_server_123123231_LiMing1459276281.html",
+    "debug": []
+  },
+  {
+    "index": 11,
+    "url": "https://mcp.so/server/1Panel-mcp/ruibaby",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\011_mcp.so_server_1Panel-mcp_ruibaby.html",
+    "debug": []
+  },
+  {
+    "index": 12,
+    "url": "https://mcp.so/server/1Panel/1Panel-dev",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\012_mcp.so_server_1Panel_1Panel-dev.html",
+    "debug": []
+  },
+  {
+    "index": 13,
+    "url": "https://mcp.so/server/1broseidon_mcp-jira-server/MCP-Mirror",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\013_mcp.so_server_1broseidon_mcp-jira-server_MCP-Mirror.html",
+    "debug": []
+  },
+  {
+    "index": 14,
+    "url": "https://mcp.so/server/1nce-mcp-server/1NCE-GmbH",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\014_mcp.so_server_1nce-mcp-server_1NCE-GmbH.html",
+    "debug": []
+  },
+  {
+    "index": 15,
+    "url": "https://mcp.so/server/1panel-mcp/ruibaby",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\015_mcp.so_server_1panel-mcp_ruibaby.html",
+    "debug": []
+  },
+  {
+    "index": 16,
+    "url": "https://mcp.so/server/1scan/huahuayu",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\016_mcp.so_server_1scan_huahuayu.html",
+    "debug": []
+  },
+  {
+    "index": 17,
+    "url": "https://mcp.so/server/23andme-raw-data-lookup-mcp/obuchowski",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\017_mcp.so_server_23andme-raw-data-lookup-mcp_obuchowski.html",
+    "debug": []
+  },
+  {
+    "index": 18,
+    "url": "https://mcp.so/server/2560_mcp/t1ina2003",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\018_mcp.so_server_2560_mcp_t1ina2003.html",
+    "debug": []
+  },
+  {
+    "index": 19,
+    "url": "https://mcp.so/server/302_basic_mcp/302ai",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\019_mcp.so_server_302_basic_mcp_302ai.html",
+    "debug": []
+  },
+  {
+    "index": 20,
+    "url": "https://mcp.so/server/302_browser_use_mcp/302ai",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\020_mcp.so_server_302_browser_use_mcp_302ai.html",
+    "debug": []
+  },
+  {
+    "index": 21,
+    "url": "https://mcp.so/server/302_custom_mcp/302ai",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\021_mcp.so_server_302_custom_mcp_302ai.html",
+    "debug": []
+  },
+  {
+    "index": 22,
+    "url": "https://mcp.so/server/302_sandbox_mcp/302ai",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\022_mcp.so_server_302_sandbox_mcp_302ai.html",
+    "debug": []
+  },
+  {
+    "index": 23,
+    "url": "https://mcp.so/server/3d-printer-mcp-by-octoeverywhere/OctoEverywhere",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\023_mcp.so_server_3d-printer-mcp-by-octoeverywhere_OctoEverywhere.html",
+    "debug": []
+  },
+  {
+    "index": 24,
+    "url": "https://mcp.so/server/4everland-hosting-mcp/4everland",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\024_mcp.so_server_4everland-hosting-mcp_4everland.html",
+    "debug": []
+  },
+  {
+    "index": 25,
+    "url": "https://mcp.so/server/4oimage-mcp/Antipas",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\025_mcp.so_server_4oimage-mcp_Antipas.html",
+    "debug": []
+  },
+  {
+    "index": 26,
+    "url": "https://mcp.so/server/66julienmartin_MCP-server-Deepseek_R1/MCP-Mirror",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\026_mcp.so_server_66julienmartin_MCP-server-Deepseek_R1_MCP-Mirror.html",
+    "debug": []
+  },
+  {
+    "index": 27,
+    "url": "https://mcp.so/server/8sleep-mcp/elizabethtrykin",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\027_mcp.so_server_8sleep-mcp_elizabethtrykin.html",
+    "debug": []
+  },
+  {
+    "index": 28,
+    "url": "https://mcp.so/server/9506hqwy_redmine_mcp_server/MCP-Mirror",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\028_mcp.so_server_9506hqwy_redmine_mcp_server_MCP-Mirror.html",
+    "debug": []
+  },
+  {
+    "index": 29,
+    "url": "https://mcp.so/server/9olidity_MCP-Server-Pentest/MCP-Mirror",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\029_mcp.so_server_9olidity_MCP-Server-Pentest_MCP-Mirror.html",
+    "debug": []
+  },
+  {
+    "index": 30,
+    "url": "https://mcp.so/server/@ragrabbit/mcp/packages",
+    "status_code": 404,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\030_mcp.so_server_ragrabbit_mcp_packages.html",
+    "debug": []
+  },
+  {
+    "index": 31,
+    "url": "https://mcp.so/server/A2AMCP/webdevtodayjason",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\031_mcp.so_server_A2AMCP_webdevtodayjason.html",
+    "debug": []
+  },
+  {
+    "index": 32,
+    "url": "https://mcp.so/server/ABComponentServer/python",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\032_mcp.so_server_ABComponentServer_python.html",
+    "debug": []
+  },
+  {
+    "index": 33,
+    "url": "https://mcp.so/server/ACC_MCP_V0.2/itaico82",
+    "status_code": 404,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\033_mcp.so_server_ACC_MCP_V0.2_itaico82.html",
+    "debug": []
+  },
+  {
+    "index": 34,
+    "url": "https://mcp.so/server/ACP-MCP-Server/GongRzhe",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\034_mcp.so_server_ACP-MCP-Server_GongRzhe.html",
+    "debug": []
+  },
+  {
+    "index": 35,
+    "url": "https://mcp.so/server/AER-MCP/SepineTam",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\035_mcp.so_server_AER-MCP_SepineTam.html",
+    "debug": []
+  },
+  {
+    "index": 36,
+    "url": "https://mcp.so/server/AI-FE_dify-mcp-server/MCP-Mirror",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\036_mcp.so_server_AI-FE_dify-mcp-server_MCP-Mirror.html",
+    "debug": []
+  },
+  {
+    "index": 37,
+    "url": "https://mcp.so/server/AI-Gateway/Azure-Samples",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\037_mcp.so_server_AI-Gateway_Azure-Samples.html",
+    "debug": []
+  },
+  {
+    "index": 38,
+    "url": "https://mcp.so/server/AI-Infra-Guard/Tencent",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\038_mcp.so_server_AI-Infra-Guard_Tencent.html",
+    "debug": []
+  },
+  {
+    "index": 39,
+    "url": "https://mcp.so/server/AI-SolidWorks/sina-salim",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\039_mcp.so_server_AI-SolidWorks_sina-salim.html",
+    "debug": []
+  },
+  {
+    "index": 40,
+    "url": "https://mcp.so/server/AIDevTools/eliezedeck",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\040_mcp.so_server_AIDevTools_eliezedeck.html",
+    "debug": []
+  },
+  {
+    "index": 41,
+    "url": "https://mcp.so/server/AIFoundry-MCPConnector-FabricGraphQL/LazaUK",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\041_mcp.so_server_AIFoundry-MCPConnector-FabricGraphQL_LazaUK.html",
+    "debug": []
+  },
+  {
+    "index": 42,
+    "url": "https://mcp.so/server/AIOS-source-code-for-MVP/AndyLeong33dev",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\042_mcp.so_server_AIOS-source-code-for-MVP_AndyLeong33dev.html",
+    "debug": []
+  },
+  {
+    "index": 43,
+    "url": "https://mcp.so/server/AI_Tutor/auston314",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\043_mcp.so_server_AI_Tutor_auston314.html",
+    "debug": []
+  },
+  {
+    "index": 44,
+    "url": "https://mcp.so/server/AI对口型-飞影数字人/FlyworksAI",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\044_mcp.so_server_AI_-_FlyworksAI.html",
+    "debug": []
+  },
+  {
+    "index": 45,
+    "url": "https://mcp.so/server/AML-watcher-MCP-Server/Tech-AML",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\045_mcp.so_server_AML-watcher-MCP-Server_Tech-AML.html",
+    "debug": []
+  },
+  {
+    "index": 46,
+    "url": "https://mcp.so/server/AWS-GeoPlaces-MCP-Server/dxsim",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\046_mcp.so_server_AWS-GeoPlaces-MCP-Server_dxsim.html",
+    "debug": []
+  },
+  {
+    "index": 47,
+    "url": "https://mcp.so/server/AWS-kb-MCP/Mohammed2803",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\047_mcp.so_server_AWS-kb-MCP_Mohammed2803.html",
+    "debug": []
+  },
+  {
+    "index": 48,
+    "url": "https://mcp.so/server/AWorld/inclusionAI",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\048_mcp.so_server_AWorld_inclusionAI.html",
+    "debug": []
+  },
+  {
+    "index": 49,
+    "url": "https://mcp.so/server/AcademicHub-educhain/mannubaveja007",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\049_mcp.so_server_AcademicHub-educhain_mannubaveja007.html",
+    "debug": []
+  },
+  {
+    "index": 50,
+    "url": "https://mcp.so/server/Ad-Veritas_mcp-server-trueRAG/MCP-Mirror",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\050_mcp.so_server_Ad-Veritas_mcp-server-trueRAG_MCP-Mirror.html",
+    "debug": []
+  },
+  {
+    "index": 51,
+    "url": "https://mcp.so/server/AdamPippert_multi-service-mcp-server/MCP-Mirror",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\051_mcp.so_server_AdamPippert_multi-service-mcp-server_MCP-Mirror.html",
+    "debug": []
+  },
+  {
+    "index": 52,
+    "url": "https://mcp.so/server/Adaptive-Graph-of-Thoughts-MCP-server/SaptaDey",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\052_mcp.so_server_Adaptive-Graph-of-Thoughts-MCP-server_SaptaDey.html",
+    "debug": []
+  },
+  {
+    "index": 53,
+    "url": "https://mcp.so/server/Ads-manager-mcp-server/amekala",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\053_mcp.so_server_Ads-manager-mcp-server_amekala.html",
+    "debug": []
+  },
+  {
+    "index": 54,
+    "url": "https://mcp.so/server/AdvisorMcp/Lautarotetamusa",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\054_mcp.so_server_AdvisorMcp_Lautarotetamusa.html",
+    "debug": []
+  },
+  {
+    "index": 55,
+    "url": "https://mcp.so/server/Agent-MCP-Math-Email/movva09",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\055_mcp.so_server_Agent-MCP-Math-Email_movva09.html",
+    "debug": []
+  },
+  {
+    "index": 56,
+    "url": "https://mcp.so/server/Agent-MCP/Zeppelinpp",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\056_mcp.so_server_Agent-MCP_Zeppelinpp.html",
+    "debug": [
+      "Zeppelinpp/Agent-MCP status 404",
+      "Zeppelinpp/Agent-MCP status 404"
+    ]
+  },
+  {
+    "index": 57,
+    "url": "https://mcp.so/server/AgentChat/Shy2593666979",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\057_mcp.so_server_AgentChat_Shy2593666979.html",
+    "debug": []
+  },
+  {
+    "index": 58,
+    "url": "https://mcp.so/server/AgentForgeMCP/DataBassGit",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\058_mcp.so_server_AgentForgeMCP_DataBassGit.html",
+    "debug": []
+  },
+  {
+    "index": 59,
+    "url": "https://mcp.so/server/AgentNull/jaschadub",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\059_mcp.so_server_AgentNull_jaschadub.html",
+    "debug": []
+  },
+  {
+    "index": 60,
+    "url": "https://mcp.so/server/AgentWong_iac-memory-mcp-server-project/MCP-Mirror",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\060_mcp.so_server_AgentWong_iac-memory-mcp-server-project_MCP-Mirror.html",
+    "debug": []
+  },
+  {
+    "index": 61,
+    "url": "https://mcp.so/server/AgentWong_optimized-memory-mcp-server/MCP-Mirror",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\061_mcp.so_server_AgentWong_optimized-memory-mcp-server_MCP-Mirror.html",
+    "debug": []
+  },
+  {
+    "index": 62,
+    "url": "https://mcp.so/server/AgentWong_optimized-memory-mcp-serverv2/MCP-Mirror",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\062_mcp.so_server_AgentWong_optimized-memory-mcp-serverv2_MCP-Mirror.html",
+    "debug": []
+  },
+  {
+    "index": 63,
+    "url": "https://mcp.so/server/AgentX/lokesMCI",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\063_mcp.so_server_AgentX_lokesMCI.html",
+    "debug": []
+  },
+  {
+    "index": 64,
+    "url": "https://mcp.so/server/Agentic-AI-Projects/gautamgc17",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\064_mcp.so_server_Agentic-AI-Projects_gautamgc17.html",
+    "debug": []
+  },
+  {
+    "index": 65,
+    "url": "https://mcp.so/server/AgenticProductSearching/Gen-AI-Developer",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\065_mcp.so_server_AgenticProductSearching_Gen-AI-Developer.html",
+    "debug": [
+      "Gen-AI-Developer/AgenticProductSearching status 404",
+      "Gen-AI-Developer/AgenticProductSearching status 404"
+    ]
+  },
+  {
+    "index": 66,
+    "url": "https://mcp.so/server/Agentic_search/Code-Trees",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\066_mcp.so_server_Agentic_search_Code-Trees.html",
+    "debug": []
+  },
+  {
+    "index": 67,
+    "url": "https://mcp.so/server/AiSpire/CompewterTutor",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\067_mcp.so_server_AiSpire_CompewterTutor.html",
+    "debug": []
+  },
+  {
+    "index": 68,
+    "url": "https://mcp.so/server/AidenYangX_mapbox-mcp-server/MCP-Mirror",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\068_mcp.so_server_AidenYangX_mapbox-mcp-server_MCP-Mirror.html",
+    "debug": []
+  },
+  {
+    "index": 69,
+    "url": "https://mcp.so/server/Air-Pollution/Ashwani00001",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\069_mcp.so_server_Air-Pollution_Ashwani00001.html",
+    "debug": []
+  },
+  {
+    "index": 70,
+    "url": "https://mcp.so/server/Albiemark_dbx-mcp-server/MCP-Mirror",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\070_mcp.so_server_Albiemark_dbx-mcp-server_MCP-Mirror.html",
+    "debug": []
+  },
+  {
+    "index": 71,
+    "url": "https://mcp.so/server/Alesion30_my-mcp-server/MCP-Mirror",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\071_mcp.so_server_Alesion30_my-mcp-server_MCP-Mirror.html",
+    "debug": []
+  },
+  {
+    "index": 72,
+    "url": "https://mcp.so/server/AllAboutAI-YT_mcp-servers/MCP-Mirror",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\072_mcp.so_server_AllAboutAI-YT_mcp-servers_MCP-Mirror.html",
+    "debug": []
+  },
+  {
+    "index": 73,
+    "url": "https://mcp.so/server/AlphavantageMCPServer/DonMorr",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\073_mcp.so_server_AlphavantageMCPServer_DonMorr.html",
+    "debug": []
+  },
+  {
+    "index": 74,
+    "url": "https://mcp.so/server/Andrew-Beniash_mcp-command-server/MCP-Mirror",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\074_mcp.so_server_Andrew-Beniash_mcp-command-server_MCP-Mirror.html",
+    "debug": []
+  },
+  {
+    "index": 75,
+    "url": "https://mcp.so/server/AndrewDonelson_go-mcp-server-service/MCP-Mirror",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\075_mcp.so_server_AndrewDonelson_go-mcp-server-service_MCP-Mirror.html",
+    "debug": []
+  },
+  {
+    "index": 76,
+    "url": "https://mcp.so/server/Aniket310101_MCP-Server-Couchbase/MCP-Mirror",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\076_mcp.so_server_Aniket310101_MCP-Server-Couchbase_MCP-Mirror.html",
+    "debug": []
+  },
+  {
+    "index": 77,
+    "url": "https://mcp.so/server/Anki-MCP-Server/ethangillani",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\077_mcp.so_server_Anki-MCP-Server_ethangillani.html",
+    "debug": []
+  },
+  {
+    "index": 78,
+    "url": "https://mcp.so/server/Anthropic-MCP-Server/CoderSoumya007",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\078_mcp.so_server_Anthropic-MCP-Server_CoderSoumya007.html",
+    "debug": []
+  },
+  {
+    "index": 79,
+    "url": "https://mcp.so/server/AnuragRai017_python-docs-server-MCP-Server/MCP-Mirror",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\079_mcp.so_server_AnuragRai017_python-docs-server-MCP-Server_MCP-Mirror.html",
+    "debug": []
+  },
+  {
+    "index": 80,
+    "url": "https://mcp.so/server/Apple-Shortcuts-MCP/as2811-project",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\080_mcp.so_server_Apple-Shortcuts-MCP_as2811-project.html",
+    "debug": []
+  },
+  {
+    "index": 81,
+    "url": "https://mcp.so/server/Appwrite/appwrite",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\081_mcp.so_server_Appwrite_appwrite.html",
+    "debug": []
+  },
+  {
+    "index": 82,
+    "url": "https://mcp.so/server/Archive-Agent/shredEngineer",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\082_mcp.so_server_Archive-Agent_shredEngineer.html",
+    "debug": []
+  },
+  {
+    "index": 83,
+    "url": "https://mcp.so/server/Arrodes-2.0/aldindugolli",
+    "status_code": 404,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\083_mcp.so_server_Arrodes-2.0_aldindugolli.html",
+    "debug": []
+  },
+  {
+    "index": 84,
+    "url": "https://mcp.so/server/Arxivloader-MCP-Server-and-Client/alihassanml",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\084_mcp.so_server_Arxivloader-MCP-Server-and-Client_alihassanml.html",
+    "debug": []
+  },
+  {
+    "index": 85,
+    "url": "https://mcp.so/server/AshDevFr_discourse-mcp-server/MCP-Mirror",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\085_mcp.so_server_AshDevFr_discourse-mcp-server_MCP-Mirror.html",
+    "debug": []
+  },
+  {
+    "index": 86,
+    "url": "https://mcp.so/server/AssetPriceMCP/mk965",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\086_mcp.so_server_AssetPriceMCP_mk965.html",
+    "debug": []
+  },
+  {
+    "index": 87,
+    "url": "https://mcp.so/server/Atla/atla-ai",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\087_mcp.so_server_Atla_atla-ai.html",
+    "debug": []
+  },
+  {
+    "index": 88,
+    "url": "https://mcp.so/server/Atomzzm_mcp-mysql-server/MCP-Mirror",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\088_mcp.so_server_Atomzzm_mcp-mysql-server_MCP-Mirror.html",
+    "debug": []
+  },
+  {
+    "index": 89,
+    "url": "https://mcp.so/server/Audio-MCP-Server/GongRzhe",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\089_mcp.so_server_Audio-MCP-Server_GongRzhe.html",
+    "debug": []
+  },
+  {
+    "index": 90,
+    "url": "https://mcp.so/server/Augmented-Nature-OpenTargets-MCP-Server/Augmented-Nature",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\090_mcp.so_server_Augmented-Nature-OpenTargets-MCP-Server_Augmented-Nature.html",
+    "debug": []
+  },
+  {
+    "index": 91,
+    "url": "https://mcp.so/server/Augmented-Nature-UniProt-MCP-Server/Augmented-Nature",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\091_mcp.so_server_Augmented-Nature-UniProt-MCP-Server_Augmented-Nature.html",
+    "debug": []
+  },
+  {
+    "index": 92,
+    "url": "https://mcp.so/server/Augmented-Nature-UniProt-MCP-Server/Thiagomenezes12",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\092_mcp.so_server_Augmented-Nature-UniProt-MCP-Server_Thiagomenezes12.html",
+    "debug": [
+      "Thiagomenezes12/Augmented-Nature-UniProt-MCP-Server status 404",
+      "Thiagomenezes12/Augmented-Nature-UniProt-MCP-Server status 404"
+    ]
+  },
+  {
+    "index": 93,
+    "url": "https://mcp.so/server/AustinKelsay_nostr-mcp-server/MCP-Mirror",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\093_mcp.so_server_AustinKelsay_nostr-mcp-server_MCP-Mirror.html",
+    "debug": []
+  },
+  {
+    "index": 94,
+    "url": "https://mcp.so/server/Auth0MCPServer/auth0",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\094_mcp.so_server_Auth0MCPServer_auth0.html",
+    "debug": []
+  },
+  {
+    "index": 95,
+    "url": "https://mcp.so/server/AutoMaid/Buidl-Land",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\095_mcp.so_server_AutoMaid_Buidl-Land.html",
+    "debug": []
+  },
+  {
+    "index": 96,
+    "url": "https://mcp.so/server/Automata-Labs-team_MCP-Server-Playwright/MCP-Mirror",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\096_mcp.so_server_Automata-Labs-team_MCP-Server-Playwright_MCP-Mirror.html",
+    "debug": []
+  },
+  {
+    "index": 97,
+    "url": "https://mcp.so/server/Automated-Webflow/ItsMeHarambe",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\097_mcp.so_server_Automated-Webflow_ItsMeHarambe.html",
+    "debug": [
+      "ItsMeHarambe/Automated-Webflow status 404",
+      "ItsMeHarambe/Automated-Webflow status 404"
+    ]
+  },
+  {
+    "index": 98,
+    "url": "https://mcp.so/server/AvailMCP/dhananjaypai08",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\098_mcp.so_server_AvailMCP_dhananjaypai08.html",
+    "debug": []
+  },
+  {
+    "index": 99,
+    "url": "https://mcp.so/server/AverbePorto-MCP/GHSix",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\099_mcp.so_server_AverbePorto-MCP_GHSix.html",
+    "debug": []
+  },
+  {
+    "index": 100,
+    "url": "https://mcp.so/server/Awesome-Claude-MCP-Servers-List/boyso",
+    "status_code": 200,
+    "html_file": "D:\\Work\\Mindrift\\MCP server scrapte task\\html_samples\\100_mcp.so_server_Awesome-Claude-MCP-Servers-List_boyso.html",
+    "debug": []
+  }
+]
