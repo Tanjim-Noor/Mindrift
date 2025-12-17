@@ -15,6 +15,28 @@ import individual_url_scraper as pipeline
 MCP_SERVER_PREFIX = "https://mcp.so/server/"
 
 
+def _raise_csv_field_limit() -> None:
+    """Increase CSV field size limit to handle large README fields.
+
+    Python's csv module defaults to 131072 bytes, which is too small for some
+    GitHub README content. We bump it to a high value safely.
+    """
+    target = 50 * 1024 * 1024  # 50MB
+    try:
+        csv.field_size_limit(target)
+        return
+    except OverflowError:
+        pass
+    # Fallback for platforms/builds that can't accept very large ints.
+    limit = sys.maxsize
+    while limit > 1024 * 1024:
+        try:
+            csv.field_size_limit(limit)
+            return
+        except OverflowError:
+            limit = limit // 10
+
+
 def _now() -> float:
     return time.time()
 
@@ -52,6 +74,8 @@ def load_done_urls_from_csv(csv_path: str) -> Set[str]:
     done: Set[str] = set()
     if not os.path.exists(csv_path):
         return done
+
+    _raise_csv_field_limit()
 
     with open(csv_path, newline="", encoding="utf-8", errors="ignore") as f:
         reader = csv.DictReader(f)

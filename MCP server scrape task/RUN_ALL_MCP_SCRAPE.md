@@ -152,5 +152,10 @@ Recommended approach:
 - Resume behavior is CSV-based (by design):
   - We do **not** resume via cached HTML, so there is no “HTML mapping” dependency.
 
+- If you see `_csv.Error: field larger than field limit (131072)` while resuming:
+  - This happens when the `readme` column contains large README content.
+  - The runner now increases the CSV field-size limit automatically.
+  - Re-run the same command without `--fresh` (so it resumes from the existing CSV).
+
 - Some MCP URLs may return 404:
   - The script still writes a row (so the URL is considered done on resume), and the HTTP status/error is stored in `mcp_all_debug.jsonl`.
