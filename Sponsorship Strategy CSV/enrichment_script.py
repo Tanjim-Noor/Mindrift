@@ -118,8 +118,8 @@ def run_apify_search(queries):
     run_input = {
         "queries": "\n".join(queries),
         "maxPagesPerQuery": 1,
-        "resultsPerPage": 3, # Get top 3 to ensure we find LinkedIn/Website
-        "countryCode": "gb", # Assuming UK based on input sample, but can be broader
+        "resultsPerPage": 5, # Increased to 5 to find better results
+        "countryCode": "gb", 
         "languageCode": "en",
     }
     
@@ -130,6 +130,71 @@ def run_apify_search(queries):
     # Fetch results
     dataset_items = client.dataset(run["defaultDatasetId"]).list_items().items
     return dataset_items
+
+def determine_business_category(company, snippet):
+    """
+    Determines business category based on company name and search snippet.
+    """
+    text = (company + " " + snippet).lower()
+    
+    categories = {
+        "Ticketing / Live Entertainment": ["ticket", "event", "live", "festival", "concert", "booking", "venue", "entertainment"],
+        "Insurance": ["insurance", "risk", "underwriting", "broker", "claims"],
+        "Marketing / Advertising": ["marketing", "agency", "brand", "creative", "digital", "advertising", "pr ", "public relations"],
+        "Food & Beverage": ["food", "drink", "culinary", "beverage", "restaurant", "catering", "brewery", "distillery"],
+        "Technology": ["software", "platform", "app", "tech", "digital", "data", "saas", "cloud", "it services"],
+        "Media / Publishing": ["media", "news", "publishing", "broadcast", "radio", "tv", "magazine"],
+        "Finance": ["bank", "invest", "capital", "finance", "wealth", "fund", "asset"],
+        "Legal": ["law", "legal", "solicitor", "attorney"],
+        "Consulting": ["consulting", "consultancy", "advisory", "strategy"],
+        "Retail": ["retail", "shop", "store", "fashion", "apparel"],
+        "Education": ["university", "college", "school", "education", "training"],
+        "Healthcare": ["health", "medical", "pharma", "care"],
+        "Real Estate": ["real estate", "property", "development", "construction"],
+        "Non-Profit": ["charity", "foundation", "non-profit", "ngo", "association"]
+    }
+    
+    for category, keywords in categories.items():
+        if any(kw in text for kw in keywords):
+            return category
+            
+    return "Business Services" # Default fallback
+
+def determine_scale(company, snippet, country):
+    """
+    Determines scale (Global/Local) based on snippet and country.
+    """
+    text = snippet.lower()
+    if any(kw in text for kw in ["global", "worldwide", "international", "multinational", "across the globe", "world's leading"]):
+        return "Global"
+    
+    # Known global entities (simple list)
+    known_global = ["ticketmaster", "coca-cola", "pepsi", "google", "amazon", "microsoft", "apple", "spotify", "live nation", "aeg"]
+    if any(kg in company.lower() for kg in known_global):
+        return "Global"
+
+    if country == "UK":
+        return "Local" # Default for UK if no global indicators
+    
+    return "Global" # Default for non-UK (often implies international context in this dataset)
+
+def get_clean_website(url):
+    """
+    Cleans a URL to be just the homepage if it looks like a deep link to a person.
+    """
+    if not url:
+        return "none"
+    
+    try:
+        from urllib.parse import urlparse
+        parsed = urlparse(url)
+        # If path contains 'person', 'profile', 'people', it's likely not the main company site we want
+        if any(x in parsed.path.lower() for x in ['/person', '/profile', '/people', '/in/']):
+            return f"{parsed.scheme}://{parsed.netloc}"
+    except:
+        pass
+    
+    return url
 
 def process_search_results(search_results, original_data_batch):
     """
@@ -159,14 +224,16 @@ def process_search_results(search_results, original_data_batch):
         # Extraction logic
         linkedin_url = "none"
         website = "none"
-        hq_location = "none" # Hard to get reliably from snippets, might need to infer or leave generic
+        hq_location = "none" 
         business_category = "Business Services" # Default
+        combined_snippet = ""
         
         # Try to find LinkedIn and Website from results
         for res in results:
             url = res.get("url", "")
             title = res.get("title", "")
             snippet = res.get("description", "")
+            combined_snippet += " " + snippet
             
             if "linkedin.com/in/" in url and linkedin_url == "none":
                 linkedin_url = url
@@ -174,9 +241,7 @@ def process_search_results(search_results, original_data_batch):
             if "linkedin.com" not in url and website == "none" and "facebook" not in url and "instagram" not in url:
                 website = url
 
-            # Simple heuristic for HQ/Category from snippet if available
-            # This is limited without visiting the page, but we use what we have.
-            if "based in" in snippet.lower():
+            if "based in" in snippet.lower() and hq_location == "none":
                 try:
                     hq_location = snippet.lower().split("based in")[1].split(".")[0].strip().title()
                 except:
@@ -185,7 +250,6 @@ def process_search_results(search_results, original_data_batch):
         # Refine Company Name if "Unknown"
         final_company = extracted_company
         if final_company == "Unknown Company" and website != "none":
-             # Try to guess from domain
              try:
                  from urllib.parse import urlparse
                  domain = urlparse(website).netloc
@@ -193,8 +257,14 @@ def process_search_results(search_results, original_data_batch):
              except:
                  pass
 
-        # Determine Scale (Mock logic based on country/presence, hard to know for sure without deep dive)
-        scale = "Global" if row.get("Country") != "UK" else "Local" # Simple heuristic from input
+        # Clean Website
+        website = get_clean_website(website)
+
+        # Determine Business Category
+        business_category = determine_business_category(final_company, combined_snippet)
+
+        # Determine Scale
+        scale = determine_scale(final_company, combined_snippet, row.get("Country"))
         if "Global" in raw_role or "International" in raw_role:
             scale = "Global"
 

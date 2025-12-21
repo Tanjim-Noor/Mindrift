@@ -40,7 +40,11 @@ def main():
     print(f"Saved CSV to {OUTPUT_CSV}")
     
     # Save to Markdown
+    # Rename columns to include backticks for Markdown output as requested
+    md_columns = [f"`{col}`" for col in df.columns]
+    df.columns = md_columns
     markdown_table = df.to_markdown(index=False)
+    
     with open(OUTPUT_MD, 'w', encoding='utf-8') as f:
         f.write(markdown_table)
     print(f"Saved Markdown to {OUTPUT_MD}")
