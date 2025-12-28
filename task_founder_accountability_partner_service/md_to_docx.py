@@ -5,11 +5,11 @@ from docx.shared import Pt, Inches, RGBColor
 from docx.enum.text import WD_PARAGRAPH_ALIGNMENT
 
 files_map = {
-    "executive_summary.md": "Executive Summary.docx",
-    "full_report.md": "Full Report.docx",
-    "buyer_personas_and_decision_journey.md": "Buyer Personas & Decision Journey.docx",
-    "buyer_psychology_deep_dive.md": "Buyer Psychology Deep-Dive.docx",
-    "pricing_psychology.md": "Pricing Psychology & Willingness-to-Pay Guidance.docx"
+    "executive_summary.md": "Executive Summary v11.docx",
+    "full_report.md": "Full Report v11.docx",
+    "buyer_personas_and_decision_journey.md": "Buyer Personas & Decision Journey v11.docx",
+    "buyer_psychology_deep_dive.md": "Buyer Psychology Deep-Dive v11.docx",
+    "pricing_psychology.md": "Pricing Psychology & Willingness-to-Pay Guidance v11.docx"
 }
 
 def add_formatted_text(paragraph, text):

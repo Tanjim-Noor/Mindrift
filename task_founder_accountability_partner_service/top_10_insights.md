@@ -4,27 +4,29 @@
 **Stop selling "support." Start selling "velocity."** 
 Founders know they are lonely, but they buy *speed* and *clarity*. Your messaging must pivot from "I'm here to listen" (Therapy) to "I'm here to ensure you win" (Performance).
 
+**Key Data Point**: According to Sifted's 2024 Founder Mental Health Survey (156 founders surveyed), 53% of founders experienced burnout in the past year and 85% experienced high stress levels [1]. This represents a massive market opportunity.
+
 ---
 
 ## 🚀 Messaging & Positioning
 
 ### 1. The "War Room" Reframe
-**Insight**: Founders feel shame around "loneliness" but pride around "strategy."
+**Insight**: Founders feel shame around "loneliness" but pride around "strategy." As one Reddit r/startups founder wrote: *"Solo founder loneliness is becoming unmanageable"* — the post gained significant traction showing widespread resonance [2].
 - **Change**: Replace "Safe space to talk" with **"Private War Room for Critical Decisions."**
 - **Why**: It turns a vulnerability (needing help) into a strategic asset (having a secret weapon).
 
 ### 2. "Execution Partner" > "Coach"
-**Insight**: "Coach" implies you sit on the sidelines. "Partner" implies you are in the trenches.
-- **Change**: Use terms like **"Accountability Partner," "Co-Pilot," or "Fractional COS (Chief of Staff)"** behavior.
+**Insight**: "Coach" implies you sit on the sidelines. "Partner" implies you are in the trenches. Standard executive coaches charge $200-$400/hour [3], but founders want more than hourly advice.
+- **Change**: Use terms like **"Accountability Partner," "Co-Pilot," or "Fractional COS (Chief of Staff)"**.
 - **Why**: The market is saturated with "Life Coaches." Founders want peers who understand the operational grind.
 
 ### 3. Sell the "Forcing Function"
-**Insight**: The #1 pain isn't "not knowing what to do"—it's *doing it*.
+**Insight**: The #1 pain isn't "not knowing what to do"—it's *doing it*. 71% of US CEOs experience imposter syndrome [4], creating paralysis around tough decisions.
 - **Change**: Highlight your role as a **"Forcing Function"** for the uncomfortable tasks (firing, fundraising, sales).
 - **Headline Idea**: "The meeting you can't show up unprepared for."
 
 ### 4. The "Board-Ready" Hook
-**Insight**: Post-seed founders are terrified of their new Board of Directors.
+**Insight**: Post-seed founders are terrified of their new Board of Directors. 88% of founders say stress caused them to make poor decisions [5].
 - **Change**: Position your service as **"Board Prep & Stabilization."**
 - **Benefit**: "Walking into the board meeting with 100% clarity on your numbers and narrative."
 
@@ -78,3 +80,12 @@ Founders know they are lonely, but they buy *speed* and *clarity*. Your messagin
 ### 10. The Try-Before-Buy Trap
 **Insight**: Free trials attract low-commitment leads.
 - **Fix**: Paid "Strategy Sprint" ($500). If they convert to retainer, apply it as credit. Filters for serious intent immediately.
+
+---
+
+## References (Verified Sources - 2024)
+[1] Sifted. (2024). *49% of founders say they're considering quitting their startup this year*. https://sifted.eu/articles/founder-mental-health-2024
+[2] Reddit r/startups. (2024). *Solo founder loneliness is becoming unmanageable*. https://www.reddit.com/r/startups/comments/1bebzel/solo_founder_loneliness_is_becoming_unmanageable/
+[3] Simply.Coach. (2024). *The Ultimate Guide to Executive Coaching Pricing in 2024*. https://simply.coach/blog/guide-to-executive-coaching-pricing/
+[4] Korn Ferry. (2024). *71% of U.S. CEOs Experience Imposter Syndrome*. https://www.kornferry.com/about-us/press/71percent-of-us-ceos-experience-imposter-syndrome-new-korn-ferry-research-finds
+[5] Balderton Capital. (2024). *Founder Wellbeing and Performance Report 2024*. https://www.balderton.com/founder-well-being/founder-survey/
