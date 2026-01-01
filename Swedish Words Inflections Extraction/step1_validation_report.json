@@ -1,0 +1,88 @@
+{
+  "status": "SUCCESS",
+  "metadata": {
+    "is_valid": true,
+    "info": "Ultra-Kompakt Master v1",
+    "field_mapping": [
+      "0:ord",
+      "1:glosa",
+      "2:varianter[id, exempel[m,f,ri], relaterade[m,f,ri]]"
+    ],
+    "errors": []
+  },
+  "analysis": {
+    "total_json_elements": 13873,
+    "total_entries_excluding_metadata": 13872,
+    "word_entries_count": 13872,
+    "empty_entries_count": 0,
+    "invalid_entries_count": 0,
+    "entries_with_glosa": 4547,
+    "entries_with_varianter": 13872,
+    "field_count_distribution": {
+      "3": 13872
+    }
+  },
+  "sample_entries": [
+    {
+      "index": 1,
+      "ord": "(siffra)",
+      "has_glosa": true,
+      "has_varianter": true
+    },
+    {
+      "index": 2,
+      "ord": "(årtal)",
+      "has_glosa": true,
+      "has_varianter": true
+    },
+    {
+      "index": 3,
+      "ord": "0 - 0",
+      "has_glosa": false,
+      "has_varianter": true
+    },
+    {
+      "index": 4,
+      "ord": "1 - 1",
+      "has_glosa": false,
+      "has_varianter": true
+    },
+    {
+      "index": 5,
+      "ord": "1 öppning",
+      "has_glosa": false,
+      "has_varianter": true
+    },
+    {
+      "index": 6,
+      "ord": "1 över 1",
+      "has_glosa": false,
+      "has_varianter": true
+    },
+    {
+      "index": 7,
+      "ord": "1-2-3 regeln",
+      "has_glosa": false,
+      "has_varianter": true
+    },
+    {
+      "index": 8,
+      "ord": "10 - 12 regeln",
+      "has_glosa": false,
+      "has_varianter": true
+    },
+    {
+      "index": 9,
+      "ord": "10 metersstraff",
+      "has_glosa": false,
+      "has_varianter": true
+    },
+    {
+      "index": 10,
+      "ord": "10 öre",
+      "has_glosa": false,
+      "has_varianter": true
+    }
+  ],
+  "anomalies": []
+}
