@@ -1,91 +1,22 @@
 {
   "total_entries": 13872,
-  "processing_time_seconds": 0.24382495880126953,
+  "processing_time_seconds": 0.23000311851501465,
   "inflection_counts": {
-    "nouns_with_forms": 6303,
-    "verbs_with_forms": 946,
-    "adjectives_with_forms": 772,
-    "other_with_info": 561,
-    "total_with_data": 8582
+    "nouns_with_forms": 5924,
+    "verbs_with_forms": 1122,
+    "adjectives_with_forms": 907,
+    "other_with_info": 0,
+    "total_with_data": 7953
   },
   "form_count_distribution": {
-    "4": 5448,
-    "0": 5290,
-    "3": 686,
-    "1": 730,
-    "5": 946,
-    "2": 772
+    "0": 5919,
+    "4": 5137,
+    "3": 813,
+    "1": 162,
+    "5": 1122,
+    "2": 719
   },
   "sample_outputs": [
-    {
-      "ord": "(siffra)",
-      "substantiv": {
-        "singular": "(siffra)",
-        "plural": "(siffr)or",
-        "bestämd_singular": "(siffra)n",
-        "bestämd_plural": "(siffr)orna"
-      },
-      "verb": null,
-      "adjektiv": null,
-      "övrigt": null,
-      "_metadata": {
-        "original_class": "substantiv",
-        "pos_tag": "nn",
-        "paradigm": "nn_1u_tavla",
-        "confidence": 0.765,
-        "api_success": true,
-        "forms_extracted": 4,
-        "notes": [
-          "Extracted 4 noun forms"
-        ]
-      }
-    },
-    {
-      "ord": "(årtal)",
-      "substantiv": {
-        "singular": "(årtal)",
-        "plural": "(årtal)",
-        "bestämd_singular": "(årtal)et",
-        "bestämd_plural": "(årtal)en"
-      },
-      "verb": null,
-      "adjektiv": null,
-      "övrigt": null,
-      "_metadata": {
-        "original_class": "substantiv",
-        "pos_tag": "nn",
-        "paradigm": "nn_6n_departement",
-        "confidence": 0.765,
-        "api_success": true,
-        "forms_extracted": 4,
-        "notes": [
-          "Extracted 4 noun forms"
-        ]
-      }
-    },
-    {
-      "ord": "A",
-      "substantiv": {
-        "singular": "A",
-        "plural": "A-n",
-        "bestämd_singular": "A:t",
-        "bestämd_plural": "A:na"
-      },
-      "verb": null,
-      "adjektiv": null,
-      "övrigt": null,
-      "_metadata": {
-        "original_class": "substantiv",
-        "pos_tag": "nn",
-        "paradigm": "nn_vn_alfa_abc",
-        "confidence": 0.95,
-        "api_success": true,
-        "forms_extracted": 4,
-        "notes": [
-          "Extracted 4 noun forms"
-        ]
-      }
-    },
     {
       "ord": "A-lag",
       "substantiv": {
@@ -363,24 +294,23 @@
     },
     {
       "ord": "abstrakt",
-      "substantiv": {
-        "singular": "abstrakt",
-        "plural": "abstrakter",
-        "bestämd_singular": "abstraktet",
-        "bestämd_plural": "abstrakterna"
-      },
+      "substantiv": null,
       "verb": null,
-      "adjektiv": null,
+      "adjektiv": {
+        "positiv": "abstrakt",
+        "komparativ": "abstraktare",
+        "superlativ": "abstraktast"
+      },
       "övrigt": null,
       "_metadata": {
-        "original_class": "substantiv",
-        "pos_tag": "nn",
-        "paradigm": "nn_3n_gift",
+        "original_class": "adjektiv",
+        "pos_tag": "av",
+        "paradigm": "av_1_akut",
         "confidence": 0.9,
         "api_success": true,
-        "forms_extracted": 4,
+        "forms_extracted": 3,
         "notes": [
-          "Extracted 4 noun forms"
+          "Extracted 3 adjective forms"
         ]
       }
     },
@@ -412,7 +342,7 @@
       "substantiv": {
         "singular": "accept",
         "plural": "accept",
-        "bestämd_singular": "acceptet",
+        "bestämd_singular": "accepten",
         "bestämd_plural": "accepten"
       },
       "verb": null,
@@ -660,22 +590,6 @@
         "notes": [
           "Extracted 4 noun forms"
         ]
-      }
-    },
-    {
-      "ord": "ADHD",
-      "substantiv": null,
-      "verb": null,
-      "adjektiv": null,
-      "övrigt": "pma - limited inflections",
-      "_metadata": {
-        "original_class": "övrigt",
-        "pos_tag": "pma",
-        "paradigm": "pma_ntm_cp",
-        "confidence": 0.765,
-        "api_success": true,
-        "forms_extracted": 1,
-        "notes": []
       }
     },
     {
@@ -1052,7 +966,7 @@
       "substantiv": {
         "singular": "afasi",
         "plural": "afasier",
-        "bestämd_singular": "afasien",
+        "bestämd_singular": "afasin",
         "bestämd_plural": "afasierna"
       },
       "verb": null,
@@ -1154,6 +1068,98 @@
         "original_class": "substantiv",
         "pos_tag": "nn",
         "paradigm": "nn_5n_dike",
+        "confidence": 0.9,
+        "api_success": true,
+        "forms_extracted": 4,
+        "notes": [
+          "Extracted 4 noun forms"
+        ]
+      }
+    },
+    {
+      "ord": "affärsman",
+      "substantiv": {
+        "singular": "affärsman",
+        "plural": "affärsmän",
+        "bestämd_singular": "affärsmannen",
+        "bestämd_plural": "affärsmännen"
+      },
+      "verb": null,
+      "adjektiv": null,
+      "övrigt": null,
+      "_metadata": {
+        "original_class": "substantiv",
+        "pos_tag": "nn",
+        "paradigm": "nn_6u_vaktman",
+        "confidence": 0.85,
+        "api_success": true,
+        "forms_extracted": 4,
+        "notes": [
+          "Extracted 4 noun forms"
+        ]
+      }
+    },
+    {
+      "ord": "affärsresa",
+      "substantiv": {
+        "singular": "affärsresa",
+        "plural": "affärsresor",
+        "bestämd_singular": "affärsresan",
+        "bestämd_plural": "affärsresorna"
+      },
+      "verb": null,
+      "adjektiv": null,
+      "övrigt": null,
+      "_metadata": {
+        "original_class": "substantiv",
+        "pos_tag": "nn",
+        "paradigm": "nn_1u_olja",
+        "confidence": 0.9,
+        "api_success": true,
+        "forms_extracted": 4,
+        "notes": [
+          "Extracted 4 noun forms"
+        ]
+      }
+    },
+    {
+      "ord": "afrikan",
+      "substantiv": {
+        "singular": "afrikan",
+        "plural": "afrikaner",
+        "bestämd_singular": "afrikanen",
+        "bestämd_plural": "afrikanerna"
+      },
+      "verb": null,
+      "adjektiv": null,
+      "övrigt": null,
+      "_metadata": {
+        "original_class": "substantiv",
+        "pos_tag": "nn",
+        "paradigm": "nn_3u_karbid",
+        "confidence": 0.9,
+        "api_success": true,
+        "forms_extracted": 4,
+        "notes": [
+          "Extracted 4 noun forms"
+        ]
+      }
+    },
+    {
+      "ord": "aftonsång",
+      "substantiv": {
+        "singular": "aftonsång",
+        "plural": "aftonsånger",
+        "bestämd_singular": "aftonsången",
+        "bestämd_plural": "aftonsångerna"
+      },
+      "verb": null,
+      "adjektiv": null,
+      "övrigt": null,
+      "_metadata": {
+        "original_class": "substantiv",
+        "pos_tag": "nn",
+        "paradigm": "nn_3u_salong",
         "confidence": 0.9,
         "api_success": true,
         "forms_extracted": 4,

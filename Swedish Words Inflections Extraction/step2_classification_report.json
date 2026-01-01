@@ -1,25 +1,25 @@
 {
   "total_entries": 13872,
-  "processing_time_seconds": 0.09656262397766113,
+  "processing_time_seconds": 0.13127899169921875,
   "class_distribution": {
-    "substantiv": 7819,
-    "unknown": 3697,
-    "adjektiv": 830,
-    "verb": 963,
+    "unknown": 3725,
+    "substantiv": 7439,
+    "adjektiv": 1006,
+    "verb": 1139,
     "övrigt": 563
   },
   "source_distribution": {
-    "saldo": 7089,
-    "none": 3697,
-    "gloss": 913,
-    "both": 2173
+    "none": 3725,
+    "both": 1958,
+    "saldo": 7277,
+    "gloss": 912
   },
   "pos_distribution": {
-    "nn": 6424,
-    "av": 830,
-    "nna": 39,
+    "nn": 6052,
+    "av": 1006,
+    "nna": 31,
     "pm": 1356,
-    "vb": 963,
+    "vb": 1139,
     "pma": 11,
     "in": 17,
     "inm": 16,
@@ -40,43 +40,39 @@
     "ppm": 4
   },
   "confidence_distribution": {
-    "medium (50-79%)": 2018,
-    "low (<50%)": 3697,
-    "high (≥80%)": 8157
+    "low (<50%)": 3725,
+    "high (≥80%)": 7934,
+    "medium (50-79%)": 2213
   },
-  "compound_count": 2867,
-  "paradigm_count": 9262,
+  "compound_count": 2817,
+  "paradigm_count": 9235,
   "sample_classifications": [
     {
       "index": 1,
       "ord": "(siffra)",
       "glosa": "siffra@num",
-      "word_class": "substantiv",
-      "pos_tag": "nn",
-      "confidence": 0.765,
-      "source": "saldo",
-      "paradigm": "nn_1u_tavla",
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
       "is_compound": false,
       "notes": [
-        "Matched pattern: @num",
-        "SALDO: nn (nn_1u_tavla)",
-        "Gloss (övrigt) and SALDO (substantiv) disagree, using SALDO"
+        "Non-lexical entry detected: '(siffra)'"
       ]
     },
     {
       "index": 2,
       "ord": "(årtal)",
       "glosa": "siffra@tal",
-      "word_class": "substantiv",
-      "pos_tag": "nn",
-      "confidence": 0.765,
-      "source": "saldo",
-      "paradigm": "nn_6n_departement",
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
       "is_compound": false,
       "notes": [
-        "Matched pattern: @tal",
-        "SALDO: nn (nn_6n_departement)",
-        "Gloss (övrigt) and SALDO (substantiv) disagree, using SALDO"
+        "Non-lexical entry detected: '(årtal)'"
       ]
     },
     {
@@ -88,11 +84,9 @@
       "confidence": 0.0,
       "source": "none",
       "paradigm": null,
-      "is_compound": true,
+      "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '0 - 0'"
       ]
     },
     {
@@ -104,11 +98,9 @@
       "confidence": 0.0,
       "source": "none",
       "paradigm": null,
-      "is_compound": true,
+      "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '1 - 1'"
       ]
     },
     {
@@ -120,11 +112,9 @@
       "confidence": 0.0,
       "source": "none",
       "paradigm": null,
-      "is_compound": true,
+      "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '1 öppning'"
       ]
     },
     {
@@ -136,11 +126,9 @@
       "confidence": 0.0,
       "source": "none",
       "paradigm": null,
-      "is_compound": true,
+      "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '1 över 1'"
       ]
     },
     {
@@ -152,11 +140,9 @@
       "confidence": 0.0,
       "source": "none",
       "paradigm": null,
-      "is_compound": true,
+      "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '1-2-3 regeln'"
       ]
     },
     {
@@ -168,11 +154,9 @@
       "confidence": 0.0,
       "source": "none",
       "paradigm": null,
-      "is_compound": true,
+      "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '10 - 12 regeln'"
       ]
     },
     {
@@ -184,11 +168,9 @@
       "confidence": 0.0,
       "source": "none",
       "paradigm": null,
-      "is_compound": true,
+      "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '10 metersstraff'"
       ]
     },
     {
@@ -200,11 +182,9 @@
       "confidence": 0.0,
       "source": "none",
       "paradigm": null,
-      "is_compound": true,
+      "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '10 öre'"
       ]
     },
     {
@@ -216,11 +196,9 @@
       "confidence": 0.0,
       "source": "none",
       "paradigm": null,
-      "is_compound": true,
+      "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '11 - regeln'"
       ]
     },
     {
@@ -234,9 +212,7 @@
       "paradigm": null,
       "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '11-mannalag'"
       ]
     },
     {
@@ -248,11 +224,9 @@
       "confidence": 0.0,
       "source": "none",
       "paradigm": null,
-      "is_compound": true,
+      "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '18 hål'"
       ]
     },
     {
@@ -264,11 +238,9 @@
       "confidence": 0.0,
       "source": "none",
       "paradigm": null,
-      "is_compound": true,
+      "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '2 + 10'"
       ]
     },
     {
@@ -280,11 +252,9 @@
       "confidence": 0.0,
       "source": "none",
       "paradigm": null,
-      "is_compound": true,
+      "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '2 - 2'"
       ]
     },
     {
@@ -296,11 +266,9 @@
       "confidence": 0.0,
       "source": "none",
       "paradigm": null,
-      "is_compound": true,
+      "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '2 minuters utvisning'"
       ]
     },
     {
@@ -312,11 +280,9 @@
       "confidence": 0.0,
       "source": "none",
       "paradigm": null,
-      "is_compound": true,
+      "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '2 serier'"
       ]
     },
     {
@@ -328,11 +294,9 @@
       "confidence": 0.0,
       "source": "none",
       "paradigm": null,
-      "is_compound": true,
+      "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '2 x 20'"
       ]
     },
     {
@@ -344,11 +308,9 @@
       "confidence": 0.0,
       "source": "none",
       "paradigm": null,
-      "is_compound": true,
+      "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '2 öppning'"
       ]
     },
     {
@@ -360,11 +322,9 @@
       "confidence": 0.0,
       "source": "none",
       "paradigm": null,
-      "is_compound": true,
+      "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '2 över 1'"
       ]
     },
     {
@@ -378,9 +338,7 @@
       "paradigm": null,
       "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '2-kombinationer'"
       ]
     },
     {
@@ -394,9 +352,7 @@
       "paradigm": null,
       "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '2-mannalag'"
       ]
     },
     {
@@ -410,9 +366,7 @@
       "paradigm": null,
       "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '24/7'"
       ]
     },
     {
@@ -424,11 +378,9 @@
       "confidence": 0.0,
       "source": "none",
       "paradigm": null,
-      "is_compound": true,
+      "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '25 öre'"
       ]
     },
     {
@@ -440,11 +392,9 @@
       "confidence": 0.0,
       "source": "none",
       "paradigm": null,
-      "is_compound": true,
+      "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '3 - 3'"
       ]
     },
     {
@@ -456,11 +406,9 @@
       "confidence": 0.0,
       "source": "none",
       "paradigm": null,
-      "is_compound": true,
+      "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '3 serier'"
       ]
     },
     {
@@ -472,11 +420,9 @@
       "confidence": 0.0,
       "source": "none",
       "paradigm": null,
-      "is_compound": true,
+      "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '3 set'"
       ]
     },
     {
@@ -488,11 +434,9 @@
       "confidence": 0.0,
       "source": "none",
       "paradigm": null,
-      "is_compound": true,
+      "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '3 x 20'"
       ]
     },
     {
@@ -504,11 +448,9 @@
       "confidence": 0.0,
       "source": "none",
       "paradigm": null,
-      "is_compound": true,
+      "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '3 x 3'"
       ]
     },
     {
@@ -520,11 +462,9 @@
       "confidence": 0.0,
       "source": "none",
       "paradigm": null,
-      "is_compound": true,
+      "is_compound": false,
       "notes": [
-        "No gloss available",
-        "Not found in SALDO",
-        "Could not classify from any source"
+        "Non-lexical entry detected: '3 x 40'"
       ]
     }
   ]

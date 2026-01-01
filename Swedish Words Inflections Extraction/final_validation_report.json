@@ -6,57 +6,31 @@
     "validation_rate": "100.0%"
   },
   "category_distribution": {
-    "substantiv": 6907,
-    "no_category": 4612,
-    "adjektiv": 829,
-    "verb": 963,
-    "övrigt": 561
+    "no_category": 5200,
+    "substantiv": 6528,
+    "adjektiv": 1005,
+    "verb": 1139
   },
   "coverage_statistics": {
-    "entries_with_inflections": 8699,
-    "nouns_with_full_coverage": 5448,
-    "verbs_with_full_coverage": 946,
-    "adjectives_with_full_coverage": 686
+    "entries_with_inflections": 8672,
+    "nouns_with_full_coverage": 5137,
+    "verbs_with_full_coverage": 1122,
+    "adjectives_with_full_coverage": 813
   },
   "noun_field_distribution": {
-    "4": 5448,
-    "1": 83,
+    "4": 5137,
+    "1": 68,
     "0": 604,
-    "2": 772
+    "2": 719
   },
   "verb_field_distribution": {
-    "5": 946,
+    "5": 1122,
     "0": 17
   },
   "adjektiv_field_distribution": {
-    "3": 686,
-    "1": 86,
-    "0": 57
+    "3": 813,
+    "1": 94,
+    "0": 98
   },
-  "sample_valid_entries": [
-    {
-      "ord": "(siffra)",
-      "substantiv": {
-        "singular": "(siffra)",
-        "plural": "(siffr)or",
-        "bestämd_singular": "(siffra)n",
-        "bestämd_plural": "(siffr)orna"
-      },
-      "verb": null,
-      "adjektiv": null,
-      "övrigt": null
-    },
-    {
-      "ord": "(årtal)",
-      "substantiv": {
-        "singular": "(årtal)",
-        "plural": "(årtal)",
-        "bestämd_singular": "(årtal)et",
-        "bestämd_plural": "(årtal)en"
-      },
-      "verb": null,
-      "adjektiv": null,
-      "övrigt": null
-    }
-  ]
+  "sample_valid_entries": []
 }

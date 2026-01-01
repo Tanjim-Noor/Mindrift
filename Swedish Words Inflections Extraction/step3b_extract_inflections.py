@@ -46,7 +46,10 @@ class AdjectiveInflection:
 
 
 def extract_noun_forms(forms: List[Dict]) -> NounInflection:
-    """Extract noun forms from SALDO /gen/ response (list format)."""
+    """
+    Extract noun forms from SALDO /gen/ response (list format).
+    FIX 3: Use first match only to prefer modern/primary forms.
+    """
     inflection = NounInflection()
     
     if not forms or not isinstance(forms, list):
@@ -65,14 +68,15 @@ def extract_noun_forms(forms: List[Dict]) -> NounInflection:
         if form.endswith('-'):
             continue
         
-        # Parse morphological descriptor
-        if 'sg indef nom' == msd.strip():
+        # Parse morphological descriptor - FIX 3: Only set if not already set (first match wins)
+        msd_stripped = msd.strip()
+        if msd_stripped == 'sg indef nom' and not inflection.singular:
             inflection.singular = form
-        elif 'sg def nom' == msd.strip():
+        elif msd_stripped == 'sg def nom' and not inflection.bestämd_singular:
             inflection.bestämd_singular = form
-        elif 'pl indef nom' == msd.strip():
+        elif msd_stripped == 'pl indef nom' and not inflection.plural:
             inflection.plural = form
-        elif 'pl def nom' == msd.strip():
+        elif msd_stripped == 'pl def nom' and not inflection.bestämd_plural:
             inflection.bestämd_plural = form
     
     return inflection
@@ -232,21 +236,10 @@ def process_entry(entry: Dict, cache: Dict) -> Dict:
         result['_metadata']['notes'].append(f"Extracted {forms_count} adjective forms")
     
     elif word_class == 'övrigt':
-        pos_desc = {
-            'ab': 'adverb - no inflections',
-            'abm': 'adverb (multi-word) - no inflections',
-            'pp': 'preposition - no inflections',
-            'kn': 'conjunction - no inflections',
-            'sn': 'subordinating conjunction - no inflections',
-            'in': 'interjection - no inflections',
-            'pn': 'pronoun',
-            'nl': 'numeral',
-            'pm': 'proper noun',
-            'pmm': 'proper noun (multi-word)',
-            'vbm': 'verb (multi-word)',
-        }
-        result['övrigt'] = pos_desc.get(pos_tag, f'{pos_tag or "unknown"} - limited inflections')
-        result['_metadata']['forms_extracted'] = 1
+        # FIX 4: övrigt should be null (no free-text strings)
+        # Per specification, övrigt should be null or object with grammar, not descriptive strings
+        result['övrigt'] = None
+        result['_metadata']['notes'].append(f"Word class övrigt ({pos_tag}) - no inflections needed")
     
     return result
 

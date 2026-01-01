@@ -1,0 +1,2466 @@
+[
+  {
+    "ord": "abstrakt",
+    "old_paradigm": "nn_3n_gift",
+    "new_paradigm": "av_1_akut",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "aga",
+    "old_paradigm": "nn_0u_radar",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "akut",
+    "old_paradigm": "nn_3u_film",
+    "new_paradigm": "av_1_akut",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "allomorf",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_0_medelstor",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "alternativ",
+    "old_paradigm": "nn_6n_system",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "amma",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_beundra",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "ansträngande",
+    "old_paradigm": "nn_5n_saldo",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "antik",
+    "old_paradigm": "nn_0u_månsing",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "apa",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "arbetssökande",
+    "old_paradigm": "nn_vu_jourhavande",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "arm",
+    "old_paradigm": "nn_2u_sten",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "aska",
+    "old_paradigm": "nn_0u_svenska",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "avresa",
+    "old_paradigm": "nn_1u_olja",
+    "new_paradigm": "vb_2a_ansöka",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "avsky",
+    "old_paradigm": "nn_0u_radar",
+    "new_paradigm": "vb_3a_sy",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "backa",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "bang",
+    "old_paradigm": "nn_2u_stol",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "bar",
+    "old_paradigm": "nn_3u_tid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "be",
+    "old_paradigm": "nna_0n_hk",
+    "new_paradigm": "vb_4a_be",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "beige",
+    "old_paradigm": "nn_0u_hin",
+    "new_paradigm": "av_1_orange",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "bekant",
+    "old_paradigm": "nn_ou_bekant",
+    "new_paradigm": "av_1_akut",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "beroende",
+    "old_paradigm": "nn_0n_syre",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "besk",
+    "old_paradigm": "nn_2u_sten",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "beta",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "betjänt",
+    "old_paradigm": "nn_3u_tid",
+    "new_paradigm": "av_1_akut",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "bi",
+    "old_paradigm": "nn_5n_bo",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "biff",
+    "old_paradigm": "nn_2u_sten",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "bila",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "binda",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_4a_dricka",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "biträdande",
+    "old_paradigm": "nn_5n_saldo",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "blomma",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1m_svira",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "blond",
+    "old_paradigm": "nn_3u_tid",
+    "new_paradigm": "av_1_rund",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "bläddra",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_vissla",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "blåsa",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_2m_mysa",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "bo",
+    "old_paradigm": "nn_5n_bo",
+    "new_paradigm": "vb_3a_sy",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "botten",
+    "old_paradigm": "nn_2u_botten",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "brant",
+    "old_paradigm": "nn_3u_tid",
+    "new_paradigm": "av_1_akut",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "brygga",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_2m_väga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "bräda",
+    "old_paradigm": "nn_vu_kollega",
+    "new_paradigm": "vb_1a_beundra",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "brännskada",
+    "old_paradigm": "nn_1u_olja",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "brådska",
+    "old_paradigm": "nn_0u_radar",
+    "new_paradigm": "vb_1m_existera",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "bråka",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1m_svira",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "Buffa",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "burka",
+    "old_paradigm": "nn_1u_kamera",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "buss",
+    "old_paradigm": "nn_2u_sten",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "båda",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1m_existera",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "central",
+    "old_paradigm": "nn_3u_film",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "Dadda",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "dansk",
+    "old_paradigm": "nn_2u_sten",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "defensiv",
+    "old_paradigm": "nn_0u_månsing",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "delta",
+    "old_paradigm": "nn_5n_saldo",
+    "new_paradigm": "vb_4a_ta",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "detektiv",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "djup",
+    "old_paradigm": "nn_6n_bord",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "docka",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_beundra",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "dokumentär",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "dominant",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_akut",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "dricka",
+    "old_paradigm": "nn_0n_syre",
+    "new_paradigm": "vb_4a_dricka",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "driva",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_4a_rida",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "dubbel",
+    "old_paradigm": "nn_2u_nyckel",
+    "new_paradigm": "av_1_enkel",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "duva",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1m_existera",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "död",
+    "old_paradigm": "nn_2u_mening",
+    "new_paradigm": "av_1_bred",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "döende",
+    "old_paradigm": "nn_5n_saldo",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "ekvivalent",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_akut",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "extern",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "extrem",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "fasta",
+    "old_paradigm": "nn_1u_olja",
+    "new_paradigm": "vb_1m_existera",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "fel",
+    "old_paradigm": "nn_6n_blad",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "fetma",
+    "old_paradigm": "nn_0u_radar",
+    "new_paradigm": "vb_1m_existera",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "fika",
+    "old_paradigm": "nn_0v_manna",
+    "new_paradigm": "vb_1m_existera",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "final",
+    "old_paradigm": "nn_3u_tid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "finlandssvensk",
+    "old_paradigm": "nn_2u_sten",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "fix",
+    "old_paradigm": "nn_2u_sten",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "flagga",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "flott",
+    "old_paradigm": "nn_0n_dalt",
+    "new_paradigm": "av_1_akut",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "fly",
+    "old_paradigm": "nn_5n_bo",
+    "new_paradigm": "vb_3a_sy",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "fläta",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "fossil",
+    "old_paradigm": "nn_vv_test",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "frossa",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1m_svira",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "främmande",
+    "old_paradigm": "nn_5n_saldo",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "fråga",
+    "old_paradigm": "nn_1u_olja",
+    "new_paradigm": "vb_1a_hitta",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "ful",
+    "old_paradigm": "nn_2u_sten",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "färja",
+    "old_paradigm": "nn_1u_olja",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "föda",
+    "old_paradigm": "nn_0u_radar",
+    "new_paradigm": "vb_2a_leda",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "föregående",
+    "old_paradigm": "nn_0n_syre",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "förutseende",
+    "old_paradigm": "nn_0n_syre",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "ge",
+    "old_paradigm": "nna_0n_hk",
+    "new_paradigm": "vb_4a_ge",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "gen",
+    "old_paradigm": "nn_3u_film",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "genomgående",
+    "old_paradigm": "nn_5n_saldo",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "gift",
+    "old_paradigm": "nn_3n_gift",
+    "new_paradigm": "av_1_akut",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "gin",
+    "old_paradigm": "nn_0v_gin",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "glad",
+    "old_paradigm": "nn_6n_bord",
+    "new_paradigm": "av_1_bred",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "gluten",
+    "old_paradigm": "nn_0n_gluten",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "gott",
+    "old_paradigm": "nn_3n_gift",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "grad",
+    "old_paradigm": "nn_3u_film",
+    "new_paradigm": "av_1_lat",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "grav",
+    "old_paradigm": "nn_2u_stol",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "grund",
+    "old_paradigm": "nn_3u_film",
+    "new_paradigm": "av_1_rund",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "grädda",
+    "old_paradigm": "nn_0u_radar",
+    "new_paradigm": "vb_1m_svira",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "gunga",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1m_svira",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "gömma",
+    "old_paradigm": "nn_1u_aminosyra",
+    "new_paradigm": "vb_2a_viga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "göra",
+    "old_paradigm": "nn_0n_syre",
+    "new_paradigm": "vb_2a_göra",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "ha",
+    "old_paradigm": "nna_in_ex",
+    "new_paradigm": "vb_2m_ha",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "hacka",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "haka",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "halka",
+    "old_paradigm": "nn_0u_radar",
+    "new_paradigm": "vb_1m_svira",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "halt",
+    "old_paradigm": "nn_3u_film",
+    "new_paradigm": "av_1_akut",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "halv",
+    "old_paradigm": "nn_iu_vank",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "hela",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "hicka",
+    "old_paradigm": "nn_0u_radar",
+    "new_paradigm": "vb_1m_svira",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "hinna",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_4a_dricka",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "hjärndöd",
+    "old_paradigm": "nn_0u_boskap",
+    "new_paradigm": "av_1_bred",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "homo",
+    "old_paradigm": "nn_0u_hin",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "homonym",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "hora",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1m_svira",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "hosta",
+    "old_paradigm": "nn_0u_svenska",
+    "new_paradigm": "vb_1m_svira",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "hurra",
+    "old_paradigm": "nn_vn_kolli",
+    "new_paradigm": "vb_1m_existera",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "hybrid",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_lat",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "hylla",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_beundra",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "hyra",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_2a_hyra",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "hälla",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_2a_viga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "hälsa",
+    "old_paradigm": "nn_0u_hälsa",
+    "new_paradigm": "vb_1a_beundra",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "hög",
+    "old_paradigm": "nn_2u_sten",
+    "new_paradigm": "av_2_ung",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "höger",
+    "old_paradigm": "nn_0u_radar",
+    "new_paradigm": "av_0_höger",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "höjd",
+    "old_paradigm": "nn_3u_film",
+    "new_paradigm": "av_0_korkad",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "ideal",
+    "old_paradigm": "nn_6n_blad",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "illamående",
+    "old_paradigm": "nn_0n_syre",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "imma",
+    "old_paradigm": "nn_0u_radar",
+    "new_paradigm": "vb_1m_existera",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "initial",
+    "old_paradigm": "nn_3u_tid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "intensiv",
+    "old_paradigm": "nn_3u_tid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "intern",
+    "old_paradigm": "nn_3u_film",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "junior",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "kall",
+    "old_paradigm": "nn_6n_bord",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "kanon",
+    "old_paradigm": "nn_3u_film",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "kapital",
+    "old_paradigm": "nn_6n_blad",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "kedja",
+    "old_paradigm": "nn_1u_olja",
+    "new_paradigm": "vb_1a_beundra",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "kippa",
+    "old_paradigm": "nn_1u_kamera",
+    "new_paradigm": "vb_1m_svira",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "klappa",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "klippa",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_2a_ansöka",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "klocka",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "klubba",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "klämma",
+    "old_paradigm": "nn_1u_olja",
+    "new_paradigm": "vb_2a_viga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "knapp",
+    "old_paradigm": "nn_2u_sten",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "knäpp",
+    "old_paradigm": "nn_2u_stol",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "koja",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_beundra",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "koka",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_va_koka",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "kola",
+    "old_paradigm": "nn_1u_kamera",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "kollektiv",
+    "old_paradigm": "nn_6n_system",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "komma",
+    "old_paradigm": "nn_5n_saldo",
+    "new_paradigm": "vb_4a_komma",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "komparativ",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "komplementär",
+    "old_paradigm": "nn_3u_tid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "komplex",
+    "old_paradigm": "nn_6n_system",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "konsonant",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_akut",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "konstant",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_akut",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "kooperativ",
+    "old_paradigm": "nn_6n_system",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "kort",
+    "old_paradigm": "nn_6n_blad",
+    "new_paradigm": "av_1_akut",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "kratta",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "krita",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "krubba",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1m_svira",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "krydda",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "kräva",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_2a_viga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "kurra",
+    "old_paradigm": "nn_1u_kamera",
+    "new_paradigm": "vb_1m_existera",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "kyla",
+    "old_paradigm": "nn_0u_svenska",
+    "new_paradigm": "vb_2a_viga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "kärna",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "laktos",
+    "old_paradigm": "nn_0u_månsing",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "lateral",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_0_medelstor",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "led",
+    "old_paradigm": "nn_vn_garn",
+    "new_paradigm": "av_1_bred",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "leda",
+    "old_paradigm": "nn_0u_radar",
+    "new_paradigm": "vb_2a_leda",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "leva",
+    "old_paradigm": "nn_6u_akademiker",
+    "new_paradigm": "vb_2a_leva",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "levande",
+    "old_paradigm": "nn_5n_saldo",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "liberal",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "lik",
+    "old_paradigm": "nn_6n_blad",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "lila",
+    "old_paradigm": "nn_0n_hindi",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "linjär",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "lista",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "ljus",
+    "old_paradigm": "nn_6n_system",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "lokal",
+    "old_paradigm": "nn_3u_film",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "lovande",
+    "old_paradigm": "nn_5n_saldo",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "lugn",
+    "old_paradigm": "nn_0n_dalt",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "lykta",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "läcka",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_2a_ansöka",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "löpa",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_va_löpa",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "löpande",
+    "old_paradigm": "nn_5n_saldo",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "mager",
+    "old_paradigm": "nn_6u_akademiker",
+    "new_paradigm": "av_1_enkel",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "marin",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "maska",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1m_svira",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "medel",
+    "old_paradigm": "nn_6n_medel",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "militär",
+    "old_paradigm": "nn_3u_tid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "mobil",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "mocka",
+    "old_paradigm": "nn_0u_radar",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "moderat",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_akut",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "muta",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "mässa",
+    "old_paradigm": "nn_1u_kyrka",
+    "new_paradigm": "vb_1m_existera",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "må",
+    "old_paradigm": "nna_iu_dr",
+    "new_paradigm": "vb_3a_sy",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "måste",
+    "old_paradigm": "nn_5n_saldo",
+    "new_paradigm": "vb_om_måste",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "mörk",
+    "old_paradigm": "nn_2u_sten",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "nasal",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "negativ",
+    "old_paradigm": "nn_6n_system",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "nekrofil",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_0_medelstor",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "normal",
+    "old_paradigm": "nn_3u_tid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "ny",
+    "old_paradigm": "nn_in_vaj",
+    "new_paradigm": "av_1_ny",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "nästa",
+    "old_paradigm": "nn_1u_aminosyra",
+    "new_paradigm": "vb_va_nästa",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "oberoende",
+    "old_paradigm": "nn_0n_syre",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "objektiv",
+    "old_paradigm": "nn_6n_system",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "offensiv",
+    "old_paradigm": "nn_3u_tid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "ont",
+    "old_paradigm": "nn_6n_blad",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "orange",
+    "old_paradigm": "nn_4u_linje",
+    "new_paradigm": "av_1_orange",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "orätt",
+    "old_paradigm": "nn_3u_salong",
+    "new_paradigm": "av_1_akut",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "parallell",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "pedofil",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_0_medelstor",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "permanent",
+    "old_paradigm": "nn_0u_månsing",
+    "new_paradigm": "av_1_akut",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "pigg",
+    "old_paradigm": "nn_2u_stol",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "pipa",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_4m_vina",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "plan",
+    "old_paradigm": "nn_3u_plan",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "planka",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1m_existera",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "planta",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_beundra",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "plump",
+    "old_paradigm": "nn_2u_stol",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "plural",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "plåga",
+    "old_paradigm": "nn_1u_kyrka",
+    "new_paradigm": "vb_1a_klaga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "positiv",
+    "old_paradigm": "nn_6n_system",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "prata",
+    "old_paradigm": "nn_1u_kamera",
+    "new_paradigm": "vb_1m_svira",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "present",
+    "old_paradigm": "nn_3u_tid",
+    "new_paradigm": "av_1_akut",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "publik",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "pumpa",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "pärla",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1m_existera",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "pågående",
+    "old_paradigm": "nn_5n_saldo",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "radikal",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "rea",
+    "old_paradigm": "nn_1u_kamera",
+    "new_paradigm": "vb_1a_beundra",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "ren",
+    "old_paradigm": "nn_2u_stol",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "repa",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "resa",
+    "old_paradigm": "nn_1u_olja",
+    "new_paradigm": "vb_2m_mysa",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "ro",
+    "old_paradigm": "nn_vn_pi",
+    "new_paradigm": "vb_3a_sy",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "rulla",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1m_existera",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "rum",
+    "old_paradigm": "nn_6n_rum",
+    "new_paradigm": "av_1_stum",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "räcka",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_2m_mysa",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "rätt",
+    "old_paradigm": "nn_0u_boskap",
+    "new_paradigm": "av_1_akut",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "röka",
+    "old_paradigm": "nn_0n_syre",
+    "new_paradigm": "vb_2a_ansöka",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "röra",
+    "old_paradigm": "nn_0u_radar",
+    "new_paradigm": "vb_2a_hyra",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "salt",
+    "old_paradigm": "nn_0n_latin",
+    "new_paradigm": "av_1_akut",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "sambo",
+    "old_paradigm": "nn_4u_linje",
+    "new_paradigm": "vb_3a_sy",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "sammankallande",
+    "old_paradigm": "nn_5n_saldo",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "schack",
+    "old_paradigm": "nn_0n_dalt",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "se",
+    "old_paradigm": "nna_0n_hk",
+    "new_paradigm": "vb_4a_se",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "senior",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "separat",
+    "old_paradigm": "nn_6n_bord",
+    "new_paradigm": "av_1_akut",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "singular",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "sista",
+    "old_paradigm": "nn_0u_radar",
+    "new_paradigm": "av_0d_nästa",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "skada",
+    "old_paradigm": "nn_1u_olja",
+    "new_paradigm": "vb_1a_hitta",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "skala",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "skata",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1m_existera",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "skiva",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "sko",
+    "old_paradigm": "nn_4u_linje",
+    "new_paradigm": "vb_3a_sy",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "skola",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_beundra",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "skrapa",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "skrika",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_4m_vina",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "skugga",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "skum",
+    "old_paradigm": "nn_0n_skum",
+    "new_paradigm": "av_1_stum",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "skydd",
+    "old_paradigm": "nn_0n_ansvar",
+    "new_paradigm": "av_1_brydd",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "skälla",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_2a_viga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "skära",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_4a_bära",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "skön",
+    "old_paradigm": "nn_0n_hindi",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "slem",
+    "old_paradigm": "nn_0n_skum",
+    "new_paradigm": "av_1_stum",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "slut",
+    "old_paradigm": "nn_6n_blad",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "slägga",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "släkt",
+    "old_paradigm": "nn_3u_film",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "slå",
+    "old_paradigm": "nn_2u_bro",
+    "new_paradigm": "vb_4a_slå",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "smeka",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_2a_ansöka",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "smita",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_4m_vina",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "smitta",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "smälla",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_vm_smälla",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "smälta",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_va_smälta",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "smärta",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "smörja",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_2a_välja",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "snurra",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "snuva",
+    "old_paradigm": "nn_0u_radar",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "sopa",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "splittra",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_vissla",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "spricka",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_4a_dricka",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "springa",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_4a_dricka",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "spruta",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "spännande",
+    "old_paradigm": "nn_5n_saldo",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "sticka",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_4a_dricka",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "stor",
+    "old_paradigm": "nn_0u_månsing",
+    "new_paradigm": "av_2_ung",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "strid",
+    "old_paradigm": "nn_3u_salong",
+    "new_paradigm": "av_1_bred",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "strippa",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "sträcka",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_2a_ansöka",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "sträng",
+    "old_paradigm": "nn_2u_sten",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "ström",
+    "old_paradigm": "nn_2u_mun",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "styrka",
+    "old_paradigm": "nn_1u_olja",
+    "new_paradigm": "vb_2a_ansöka",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "stämma",
+    "old_paradigm": "nn_1u_kyrka",
+    "new_paradigm": "vb_2a_viga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "stående",
+    "old_paradigm": "nn_5n_saldo",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "summa",
+    "old_paradigm": "nn_1u_mamma",
+    "new_paradigm": "vb_1m_existera",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "superlativ",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "suverän",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "svalka",
+    "old_paradigm": "nn_0u_radar",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "svensk",
+    "old_paradigm": "nn_2u_sten",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "svett",
+    "old_paradigm": "nn_0u_mjölk",
+    "new_paradigm": "av_1_akut",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "synd",
+    "old_paradigm": "nn_3u_film",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "synonym",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "sänka",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_2a_ansöka",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "så",
+    "old_paradigm": "nn_2u_bro",
+    "new_paradigm": "vb_3a_sy",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "sörja",
+    "old_paradigm": "nn_0u_radar",
+    "new_paradigm": "vb_2a_viga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "ta",
+    "old_paradigm": "nna_0n_hk",
+    "new_paradigm": "vb_4a_ta",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "tabu",
+    "old_paradigm": "nn_5n_saldo",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "tacka",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "tafatt",
+    "old_paradigm": "nn_0u_hin",
+    "new_paradigm": "av_1_akut",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "tallrik",
+    "old_paradigm": "nn_2u_mening",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "tom",
+    "old_paradigm": "nn_3u_tid",
+    "new_paradigm": "av_1_stum",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "torka",
+    "old_paradigm": "nn_0u_svenska",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "trampa",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "trasa",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "tro",
+    "old_paradigm": "nn_0u_tro",
+    "new_paradigm": "vb_3a_sy",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "troende",
+    "old_paradigm": "nn_5n_saldo",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "trumma",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_beundra",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "trä",
+    "old_paradigm": "nn_3n_parti",
+    "new_paradigm": "vb_va_klä",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "tuff",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "tugga",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "tunna",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "turkos",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "tuta",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1m_svira",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "tysk",
+    "old_paradigm": "nn_2u_sten",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "tärna",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "tät",
+    "old_paradigm": "nn_3u_film",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "tårta",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "uggla",
+    "old_paradigm": "nn_1u_olja",
+    "new_paradigm": "vb_1m_kackla",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "uniform",
+    "old_paradigm": "nn_3u_salong",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "valla",
+    "old_paradigm": "nn_1u_kamera",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "var",
+    "old_paradigm": "nn_0n_dalt",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "Vara",
+    "old_paradigm": "nn_1u_gata",
+    "new_paradigm": "vb_4m_vara",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "variabel",
+    "old_paradigm": "nn_3u_fiber",
+    "new_paradigm": "av_1_enkel",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "vass",
+    "old_paradigm": "nn_2u_sten",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "vecka",
+    "old_paradigm": "nn_1u_kyrka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "vegan",
+    "old_paradigm": "nn_3u_karbid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "vela",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "vila",
+    "old_paradigm": "nn_1u_kyrka",
+    "new_paradigm": "vb_1m_svira",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "vilja",
+    "old_paradigm": "nn_1u_olja",
+    "new_paradigm": "vb_om_vilja",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "vind",
+    "old_paradigm": "nn_2u_sten",
+    "new_paradigm": "av_1_rund",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "visa",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "viska",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "vokal",
+    "old_paradigm": "nn_3u_tid",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "volontär",
+    "old_paradigm": "nn_3u_tid",
+    "new_paradigm": "av_0_medelstor",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "väcka",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_2a_ansöka",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "vän",
+    "old_paradigm": "nn_3u_vän",
+    "new_paradigm": "av_1_gul",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "vända",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_2m_hända",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "vänster",
+    "old_paradigm": "nn_0u_radar",
+    "new_paradigm": "av_0_höger",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "värd",
+    "old_paradigm": "nn_2u_sten",
+    "new_paradigm": "av_1_rund",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "värma",
+    "old_paradigm": "nn_0u_radar",
+    "new_paradigm": "vb_2a_viga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "vätska",
+    "old_paradigm": "nn_1u_olja",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "yoga",
+    "old_paradigm": "nn_0u_radar",
+    "new_paradigm": "vb_1m_existera",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "äga",
+    "old_paradigm": "nn_1u_kyrka",
+    "new_paradigm": "vb_2a_viga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "ända",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1m_existera",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "ånga",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "åska",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_1a_laga",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  },
+  {
+    "ord": "återkommande",
+    "old_paradigm": "nn_5n_saldo",
+    "new_paradigm": "av_i_diverse",
+    "old_class": "substantiv",
+    "new_class": "adjektiv"
+  },
+  {
+    "ord": "överleva",
+    "old_paradigm": "nn_1u_flicka",
+    "new_paradigm": "vb_2a_leva",
+    "old_class": "substantiv",
+    "new_class": "verb"
+  }
+]

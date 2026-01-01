@@ -1,0 +1,531 @@
+{
+  "total_entries": 13872,
+  "processing_time_seconds": 0.09656262397766113,
+  "class_distribution": {
+    "substantiv": 7819,
+    "unknown": 3697,
+    "adjektiv": 830,
+    "verb": 963,
+    "övrigt": 563
+  },
+  "source_distribution": {
+    "saldo": 7089,
+    "none": 3697,
+    "gloss": 913,
+    "both": 2173
+  },
+  "pos_distribution": {
+    "nn": 6424,
+    "av": 830,
+    "nna": 39,
+    "pm": 1356,
+    "vb": 963,
+    "pma": 11,
+    "in": 17,
+    "inm": 16,
+    "ab": 113,
+    "abm": 61,
+    "pmm": 59,
+    "nnm": 16,
+    "pp": 16,
+    "pn": 22,
+    "nl": 33,
+    "sn": 3,
+    "vbm": 171,
+    "avh": 1,
+    "kn": 2,
+    "pnm": 4,
+    "sxc": 10,
+    "avm": 4,
+    "ppm": 4
+  },
+  "confidence_distribution": {
+    "medium (50-79%)": 2018,
+    "low (<50%)": 3697,
+    "high (≥80%)": 8157
+  },
+  "compound_count": 2867,
+  "paradigm_count": 9262,
+  "sample_classifications": [
+    {
+      "index": 1,
+      "ord": "(siffra)",
+      "glosa": "siffra@num",
+      "word_class": "substantiv",
+      "pos_tag": "nn",
+      "confidence": 0.765,
+      "source": "saldo",
+      "paradigm": "nn_1u_tavla",
+      "is_compound": false,
+      "notes": [
+        "Matched pattern: @num",
+        "SALDO: nn (nn_1u_tavla)",
+        "Gloss (övrigt) and SALDO (substantiv) disagree, using SALDO"
+      ]
+    },
+    {
+      "index": 2,
+      "ord": "(årtal)",
+      "glosa": "siffra@tal",
+      "word_class": "substantiv",
+      "pos_tag": "nn",
+      "confidence": 0.765,
+      "source": "saldo",
+      "paradigm": "nn_6n_departement",
+      "is_compound": false,
+      "notes": [
+        "Matched pattern: @tal",
+        "SALDO: nn (nn_6n_departement)",
+        "Gloss (övrigt) and SALDO (substantiv) disagree, using SALDO"
+      ]
+    },
+    {
+      "index": 3,
+      "ord": "0 - 0",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": true,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 4,
+      "ord": "1 - 1",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": true,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 5,
+      "ord": "1 öppning",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": true,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 6,
+      "ord": "1 över 1",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": true,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 7,
+      "ord": "1-2-3 regeln",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": true,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 8,
+      "ord": "10 - 12 regeln",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": true,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 9,
+      "ord": "10 metersstraff",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": true,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 10,
+      "ord": "10 öre",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": true,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 11,
+      "ord": "11 - regeln",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": true,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 12,
+      "ord": "11-mannalag",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": false,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 13,
+      "ord": "18 hål",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": true,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 14,
+      "ord": "2 + 10",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": true,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 15,
+      "ord": "2 - 2",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": true,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 16,
+      "ord": "2 minuters utvisning",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": true,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 17,
+      "ord": "2 serier",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": true,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 18,
+      "ord": "2 x 20",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": true,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 19,
+      "ord": "2 öppning",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": true,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 20,
+      "ord": "2 över 1",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": true,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 21,
+      "ord": "2-kombinationer",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": false,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 22,
+      "ord": "2-mannalag",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": false,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 23,
+      "ord": "24/7",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": false,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 24,
+      "ord": "25 öre",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": true,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 25,
+      "ord": "3 - 3",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": true,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 26,
+      "ord": "3 serier",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": true,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 27,
+      "ord": "3 set",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": true,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 28,
+      "ord": "3 x 20",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": true,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 29,
+      "ord": "3 x 3",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": true,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    },
+    {
+      "index": 30,
+      "ord": "3 x 40",
+      "glosa": null,
+      "word_class": "unknown",
+      "pos_tag": null,
+      "confidence": 0.0,
+      "source": "none",
+      "paradigm": null,
+      "is_compound": true,
+      "notes": [
+        "No gloss available",
+        "Not found in SALDO",
+        "Could not classify from any source"
+      ]
+    }
+  ]
+}

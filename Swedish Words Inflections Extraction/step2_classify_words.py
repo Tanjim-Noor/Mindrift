@@ -118,10 +118,34 @@ def normalize_word(word: str) -> str:
     return word.lower()
 
 
-def lookup_saldo(word: str, lexicon: Dict[str, List[Dict]]) -> Optional[Dict]:
+def is_placeholder_or_non_lexical(word: str) -> bool:
+    """
+    Detect placeholder entries and non-lexical items that should not receive inflections.
+    These are not real Swedish words and should have all-null inflection fields.
+    """
+    # Entries wrapped in parentheses like "(siffra)", "(årtal)"
+    if re.match(r'^\([^)]+\)$', word):
+        return True
+    
+    # Entries with numeric prefixes/patterns like "1-2-3 regeln", "10 metersstraff"
+    if re.match(r'^\d', word):
+        return True
+    
+    # Pure numeric entries
+    if re.match(r'^[\d\s\-\+x\/]+$', word):
+        return True
+    
+    # Very short entries (single character except valid Swedish words)
+    if len(word) == 1 and word.lower() not in ['i', 'å', 'ö', 'o']:
+        return True
+    
+    return False
+
+
+def lookup_saldo(word: str, lexicon: Dict[str, List[Dict]], gloss_hint: Optional[str] = None) -> Optional[List[Dict]]:
     """
     Look up word in SALDO lexicon.
-    Returns the most common/relevant entry or None.
+    Returns ALL matching entries (not just one) to allow context-based selection.
     """
     normalized = normalize_word(word)
     
@@ -134,8 +158,42 @@ def lookup_saldo(word: str, lexicon: Dict[str, List[Dict]]) -> Optional[Dict]:
     if not entries:
         return None
     
-    # If multiple entries, prefer: nn > vb > av > others
-    priority = {'nn': 1, 'nna': 1, 'vb': 2, 'av': 3, 'pm': 4, 'ab': 5}
+    return entries  # Return all entries for context-based selection
+
+
+def select_best_saldo_entry(entries: List[Dict], gloss_hint: Optional[str] = None) -> Dict:
+    """
+    Select the best SALDO entry based on context from gloss and frequency heuristics.
+    
+    Priority logic:
+    1. If gloss hints at word class, prefer that class
+    2. For ambiguous words, prefer: vb > av > nn (verbs/adjectives are often primary meanings)
+    3. Among same POS, prefer entries with more common paradigms
+    """
+    if len(entries) == 1:
+        return entries[0]
+    
+    # Check if gloss gives hints about word class
+    gloss_class = None
+    if gloss_hint:
+        gloss_lower = gloss_hint.lower()
+        if '@v' in gloss_lower or 'verb' in gloss_lower:
+            gloss_class = 'vb'
+        elif '@adj' in gloss_lower or 'adjektiv' in gloss_lower:
+            gloss_class = 'av'
+        elif '@b' in gloss_lower or '@en' in gloss_lower:
+            gloss_class = 'nn'
+    
+    # If gloss hints at a class, prefer entries of that class
+    if gloss_class:
+        matching = [e for e in entries if e['pos'] == gloss_class]
+        if matching:
+            return matching[0]
+    
+    # For words with both verb and noun entries, prefer verb (more common primary meaning)
+    # For words with both adjective and noun entries, prefer adjective
+    # This fixes: "glad" (adj primary), "springa" (verb primary)
+    priority = {'vb': 1, 'av': 2, 'nn': 3, 'nna': 3, 'pm': 4, 'ab': 5}
     sorted_entries = sorted(entries, key=lambda x: priority.get(x['pos'], 10))
     
     return sorted_entries[0]
@@ -185,6 +243,22 @@ def classify_word(entry: Dict, lexicon: Dict[str, List[Dict]]) -> WordClassifica
     
     all_notes = []
     
+    # FIX 1: Check for placeholder/non-lexical entries first
+    if is_placeholder_or_non_lexical(ord_value):
+        all_notes.append(f"Non-lexical entry detected: '{ord_value}'")
+        return WordClassification(
+            index=index,
+            ord=ord_value,
+            glosa=glosa,
+            word_class='unknown',
+            pos_tag=None,
+            confidence=0.0,
+            source='none',
+            paradigm=None,
+            is_compound=False,
+            notes=all_notes
+        )
+    
     # Check for compound
     is_compound = '^' in (glosa or '') or ' ' in ord_value
     
@@ -192,16 +266,21 @@ def classify_word(entry: Dict, lexicon: Dict[str, List[Dict]]) -> WordClassifica
     gloss_class, gloss_pos, gloss_conf, gloss_notes = analyze_gloss(glosa)
     all_notes.extend(gloss_notes)
     
-    # Step 2: Lookup in SALDO
-    saldo_entry = lookup_saldo(ord_value, lexicon)
+    # Step 2: Lookup in SALDO (FIX 2: get all entries, then select best one)
+    saldo_entries = lookup_saldo(ord_value, lexicon, gloss_hint=glosa)
     
     saldo_class, saldo_pos, saldo_paradigm, saldo_conf = None, None, None, 0.0
-    if saldo_entry:
+    if saldo_entries:
+        # Select best entry based on context
+        saldo_entry = select_best_saldo_entry(saldo_entries, gloss_hint=glosa)
         saldo_pos = saldo_entry['pos']
         saldo_paradigm = saldo_entry['paradigm']
         saldo_class = POS_TO_CLASS.get(saldo_pos, 'övrigt')
         saldo_conf = 0.9
-        all_notes.append(f"SALDO: {saldo_pos} ({saldo_paradigm})")
+        if len(saldo_entries) > 1:
+            all_notes.append(f"SALDO: {saldo_pos} ({saldo_paradigm}) - selected from {len(saldo_entries)} entries")
+        else:
+            all_notes.append(f"SALDO: {saldo_pos} ({saldo_paradigm})")
     else:
         all_notes.append("Not found in SALDO")
     
