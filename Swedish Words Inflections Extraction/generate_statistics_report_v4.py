@@ -7,7 +7,7 @@ from pathlib import Path
 from collections import Counter
 from datetime import datetime
 
-INPUT_FILE = Path("swedish_word_inflections_v4.json")
+INPUT_FILE = Path("swedish_word_inflections_v4.1.json")
 V4_FIXES_REPORT = Path("step3d_v4_fixes_report.json")
 OUTPUT_FILE = Path("Swedish_Word_Inflections_Statistics_Report_v4.md")
 

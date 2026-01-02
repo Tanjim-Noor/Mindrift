@@ -12,7 +12,7 @@ from pathlib import Path
 from collections import Counter
 from typing import Dict, List, Tuple
 
-INPUT_FILE = Path("swedish_word_inflections_v4.json")
+INPUT_FILE = Path("swedish_word_inflections_v4.1.json")
 REPORT_FILE = Path("step4_validation_report_v4.json")
 
 

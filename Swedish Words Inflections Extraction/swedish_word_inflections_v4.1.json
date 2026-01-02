@@ -491,12 +491,7 @@
   },
   {
     "ord": "abbe",
-    "substantiv": {
-      "singular": "abbe",
-      "plural": "abbar",
-      "bestämd_singular": "abbén",
-      "bestämd_plural": "abbarna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": null
@@ -3113,12 +3108,7 @@
   },
   {
     "ord": "Andersson",
-    "substantiv": {
-      "singular": "Andersson",
-      "plural": "Anderssöner",
-      "bestämd_singular": "Anderssonen",
-      "bestämd_plural": "Anderssönerna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": null
@@ -21487,24 +21477,14 @@
   },
   {
     "ord": "David",
-    "substantiv": {
-      "singular": "David",
-      "plural": "Davidar",
-      "bestämd_singular": "David",
-      "bestämd_plural": "Davidarna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": null
   },
   {
     "ord": "Davids son",
-    "substantiv": {
-      "singular": "Davids son",
-      "plural": "Davids söner",
-      "bestämd_singular": "Davids sonen",
-      "bestämd_plural": "Davids sönerna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": null
@@ -28362,12 +28342,7 @@
   },
   {
     "ord": "Ericsson",
-    "substantiv": {
-      "singular": "Ericsson",
-      "plural": "Ericssöner",
-      "bestämd_singular": "Ericssonen",
-      "bestämd_plural": "Ericssönerna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": null
@@ -33968,12 +33943,7 @@
   },
   {
     "ord": "Fredrika",
-    "substantiv": {
-      "singular": "Fredrika",
-      "plural": "Fredrikor",
-      "bestämd_singular": "Fredrikan",
-      "bestämd_plural": "Fredrikorna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": null
@@ -43098,12 +43068,7 @@
   },
   {
     "ord": "Gustavsson",
-    "substantiv": {
-      "singular": "Gustavsson",
-      "plural": "Gustavssöner",
-      "bestämd_singular": "Gustavssonen",
-      "bestämd_plural": "Gustavssönerna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": null
@@ -45073,12 +45038,7 @@
   },
   {
     "ord": "hans",
-    "substantiv": {
-      "singular": "hans",
-      "plural": "hansar",
-      "bestämd_singular": "hans",
-      "bestämd_plural": "hansarna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": null
@@ -50979,12 +50939,7 @@
   },
   {
     "ord": "Ida",
-    "substantiv": {
-      "singular": "Ida",
-      "plural": "Idor",
-      "bestämd_singular": "Idan",
-      "bestämd_plural": "Idorna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": null
@@ -52157,12 +52112,7 @@
   },
   {
     "ord": "inga",
-    "substantiv": {
-      "singular": "inga",
-      "plural": "ingor",
-      "bestämd_singular": "ingan",
-      "bestämd_plural": "ingorna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": null
@@ -54006,12 +53956,7 @@
   },
   {
     "ord": "Isak",
-    "substantiv": {
-      "singular": "Isak",
-      "plural": "Isakar",
-      "bestämd_singular": "Isak",
-      "bestämd_plural": "Isakarna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": null
@@ -54824,12 +54769,7 @@
   },
   {
     "ord": "Johannes",
-    "substantiv": {
-      "singular": "Johannes",
-      "plural": "Johannesar",
-      "bestämd_singular": "Johannes",
-      "bestämd_plural": "Johannesarna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": null
@@ -54857,12 +54797,7 @@
   },
   {
     "ord": "Johansson",
-    "substantiv": {
-      "singular": "Johansson",
-      "plural": "Johanssöner",
-      "bestämd_singular": "Johanssonen",
-      "bestämd_plural": "Johanssönerna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": null
@@ -55068,12 +55003,7 @@
   },
   {
     "ord": "Josef",
-    "substantiv": {
-      "singular": "Josef",
-      "plural": "Josefar",
-      "bestämd_singular": "Josef",
-      "bestämd_plural": "Josefarna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": null
@@ -55087,12 +55017,7 @@
   },
   {
     "ord": "Joshua",
-    "substantiv": {
-      "singular": "Joshua",
-      "plural": "Joshuaar",
-      "bestämd_singular": "Joshua",
-      "bestämd_plural": "Joshuaarna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": null
@@ -57352,12 +57277,7 @@
   },
   {
     "ord": "Karlsson",
-    "substantiv": {
-      "singular": "Karlsson",
-      "plural": "Karlssöner",
-      "bestämd_singular": "Karlssonen",
-      "bestämd_plural": "Karlssönerna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": null
@@ -69822,12 +69742,7 @@
   },
   {
     "ord": "Lovisa",
-    "substantiv": {
-      "singular": "Lovisa",
-      "plural": "Lovisor",
-      "bestämd_singular": "Lovisan",
-      "bestämd_plural": "Lovisorna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": null
@@ -73079,12 +72994,7 @@
   },
   {
     "ord": "Maria",
-    "substantiv": {
-      "singular": "Maria",
-      "plural": "Marior",
-      "bestämd_singular": "Marian",
-      "bestämd_plural": "Mariorna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": null
@@ -73308,12 +73218,7 @@
   },
   {
     "ord": "Markus",
-    "substantiv": {
-      "singular": "Markus",
-      "plural": "Markusar",
-      "bestämd_singular": "Markus",
-      "bestämd_plural": "Markusarna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": null
@@ -74011,12 +73916,7 @@
   },
   {
     "ord": "Matteus",
-    "substantiv": {
-      "singular": "Matteus",
-      "plural": "Matteusar",
-      "bestämd_singular": "Matteus",
-      "bestämd_plural": "Matteusarna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": null
@@ -77288,12 +77188,7 @@
   },
   {
     "ord": "Moses",
-    "substantiv": {
-      "singular": "Moses",
-      "plural": "Mosesar",
-      "bestämd_singular": "Moses",
-      "bestämd_plural": "Mosesarna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": null
@@ -83359,12 +83254,7 @@
   },
   {
     "ord": "oliver",
-    "substantiv": {
-      "singular": "oliver",
-      "plural": "oliverar",
-      "bestämd_singular": "oliver",
-      "bestämd_plural": "oliverarna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": null
@@ -87344,12 +87234,7 @@
   },
   {
     "ord": "per",
-    "substantiv": {
-      "singular": "per",
-      "plural": "perar",
-      "bestämd_singular": "per",
-      "bestämd_plural": "perarna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": "preposition (oböjligt)"
@@ -95854,12 +95739,7 @@
   },
   {
     "ord": "river",
-    "substantiv": {
-      "singular": "river",
-      "plural": "riverar",
-      "bestämd_singular": "river",
-      "bestämd_plural": "riverarna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": null
@@ -107468,12 +107348,7 @@
   },
   {
     "ord": "Sofia",
-    "substantiv": {
-      "singular": "Sofia",
-      "plural": "Sofior",
-      "bestämd_singular": "Sofian",
-      "bestämd_plural": "Sofiorna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": null
@@ -119609,12 +119484,7 @@
   },
   {
     "ord": "Tintin",
-    "substantiv": {
-      "singular": "Tintin",
-      "plural": "Tintinar",
-      "bestämd_singular": "Tintin",
-      "bestämd_plural": "Tintinarna"
-    },
+    "substantiv": null,
     "verb": null,
     "adjektiv": null,
     "övrigt": null

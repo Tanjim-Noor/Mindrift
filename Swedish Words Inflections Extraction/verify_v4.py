@@ -1,6 +1,6 @@
 import json
 
-with open('swedish_word_inflections_v4.json', 'r', encoding='utf-8') as f:
+with open('swedish_word_inflections_v4.1.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 # Check specific test cases

@@ -5,11 +5,11 @@
   "valid_entries": 13872,
   "invalid_entries": 0,
   "class_distribution": {
-    "substantiv": 6122,
+    "substantiv": 6096,
     "verb": 1134,
     "adjektiv": 913,
     "övrigt": 739,
-    "with_any_data": 8564
+    "with_any_data": 8539
   },
   "e_ending_issue_details": [],
   "hyphen_issue_details": []

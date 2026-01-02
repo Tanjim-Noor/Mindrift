@@ -25,7 +25,7 @@ from typing import Optional, Dict, List, Tuple, Set
 # Configuration
 INPUT_FILE = Path("swedish_word_inflections_v3.json")
 CLASSIFIED_FILE = Path("step2_classified_entries_v3.json")
-OUTPUT_FILE = Path("swedish_word_inflections_v4.json")
+OUTPUT_FILE = Path("swedish_word_inflections_v4.1.json")
 REPORT_FILE = Path("step3d_v4_fixes_report.json")
 
 
