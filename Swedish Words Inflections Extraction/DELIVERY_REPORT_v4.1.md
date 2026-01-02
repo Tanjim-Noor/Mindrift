@@ -1,4 +1,4 @@
-# Swedish Word Inflections Extraction - Delivery Report V4
+# Swedish Word Inflections Extraction - Delivery Report V4.1
 
 **Deliverable**: `swedish_word_inflections_v4.1.json`  
 **Date**: January 2, 2026  
