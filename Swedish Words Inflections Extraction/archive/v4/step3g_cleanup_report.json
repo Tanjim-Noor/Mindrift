@@ -1,0 +1,1038 @@
+{
+  "timestamp": "2026-01-02T16:17:31.786742",
+  "reverted_count": 163,
+  "kept_count": 5516,
+  "already_null_count": 417,
+  "reverted": [
+    {
+      "word": "akrobatik",
+      "reason": "academic_field",
+      "old_plural": "akrobatiker",
+      "old_bestämd_plural": "akrobatikerna"
+    },
+    {
+      "word": "antropologi",
+      "reason": "academic_field",
+      "old_plural": "antropologier",
+      "old_bestämd_plural": "antropologierna"
+    },
+    {
+      "word": "arabiska",
+      "reason": "language",
+      "old_plural": "arabiskor",
+      "old_bestämd_plural": "arabiskorna"
+    },
+    {
+      "word": "asfalt",
+      "reason": "mass_noun",
+      "old_plural": "asfalter",
+      "old_bestämd_plural": "asfalterna"
+    },
+    {
+      "word": "astronomi",
+      "reason": "academic_field",
+      "old_plural": "astronomier",
+      "old_bestämd_plural": "astronomierna"
+    },
+    {
+      "word": "bangolf",
+      "reason": "sport",
+      "old_plural": "bangolfer",
+      "old_bestämd_plural": "bangolferna"
+    },
+    {
+      "word": "baseboll",
+      "reason": "sport",
+      "old_plural": "baseboller",
+      "old_bestämd_plural": "basebollerna"
+    },
+    {
+      "word": "basket",
+      "reason": "sport",
+      "old_plural": "basketer",
+      "old_bestämd_plural": "basketerna"
+    },
+    {
+      "word": "basketboll",
+      "reason": "sport",
+      "old_plural": "basketboller",
+      "old_bestämd_plural": "basketbollerna"
+    },
+    {
+      "word": "bensin",
+      "reason": "mass_noun",
+      "old_plural": "bensiner",
+      "old_bestämd_plural": "bensinerna"
+    },
+    {
+      "word": "betong",
+      "reason": "mass_noun",
+      "old_plural": "betonger",
+      "old_bestämd_plural": "betongerna"
+    },
+    {
+      "word": "biologi",
+      "reason": "academic_field",
+      "old_plural": "biologier",
+      "old_bestämd_plural": "biologierna"
+    },
+    {
+      "word": "blomkål",
+      "reason": "mass_noun",
+      "old_plural": "blomkåler",
+      "old_bestämd_plural": "blomkålerna"
+    },
+    {
+      "word": "bly",
+      "reason": "mass_noun",
+      "old_plural": "blyer",
+      "old_bestämd_plural": "blyerna"
+    },
+    {
+      "word": "bomull",
+      "reason": "mass_noun",
+      "old_plural": "bomuller",
+      "old_bestämd_plural": "bomullerna"
+    },
+    {
+      "word": "bordtennis",
+      "reason": "sport",
+      "old_plural": "bordtenniser",
+      "old_bestämd_plural": "bordtenniserna"
+    },
+    {
+      "word": "bowling",
+      "reason": "sport",
+      "old_plural": "bowlinger",
+      "old_bestämd_plural": "bowlingerna"
+    },
+    {
+      "word": "brysselkål",
+      "reason": "mass_noun",
+      "old_plural": "brysselkåler",
+      "old_bestämd_plural": "brysselkålerna"
+    },
+    {
+      "word": "brännboll",
+      "reason": "sport",
+      "old_plural": "brännboller",
+      "old_bestämd_plural": "brännbollerna"
+    },
+    {
+      "word": "bröstmjölk",
+      "reason": "mass_noun",
+      "old_plural": "bröstmjölker",
+      "old_bestämd_plural": "bröstmjölkerna"
+    },
+    {
+      "word": "cannabis",
+      "reason": "mass_noun",
+      "old_plural": "cannabiser",
+      "old_bestämd_plural": "cannabiserna"
+    },
+    {
+      "word": "curling",
+      "reason": "sport",
+      "old_plural": "curlinger",
+      "old_bestämd_plural": "curlingerna"
+    },
+    {
+      "word": "danska",
+      "reason": "language",
+      "old_plural": "danskor",
+      "old_bestämd_plural": "danskorna"
+    },
+    {
+      "word": "dart",
+      "reason": "sport",
+      "old_plural": "darter",
+      "old_bestämd_plural": "darterna"
+    },
+    {
+      "word": "datorlingvistik",
+      "reason": "academic_field",
+      "old_plural": "datorlingvistiker",
+      "old_bestämd_plural": "datorlingvistikerna"
+    },
+    {
+      "word": "didaktik",
+      "reason": "academic_field",
+      "old_plural": "didaktiker",
+      "old_bestämd_plural": "didaktikerna"
+    },
+    {
+      "word": "diesel",
+      "reason": "mass_noun",
+      "old_plural": "dieslar",
+      "old_bestämd_plural": "dieslarna"
+    },
+    {
+      "word": "dynamit",
+      "reason": "mass_noun",
+      "old_plural": "dynamiter",
+      "old_bestämd_plural": "dynamiterna"
+    },
+    {
+      "word": "ekologi",
+      "reason": "academic_field",
+      "old_plural": "ekologier",
+      "old_bestämd_plural": "ekologierna"
+    },
+    {
+      "word": "ekonomi",
+      "reason": "academic_field",
+      "old_plural": "ekonomier",
+      "old_bestämd_plural": "ekonomierna"
+    },
+    {
+      "word": "engelska",
+      "reason": "language",
+      "old_plural": "engelskor",
+      "old_bestämd_plural": "engelskorna"
+    },
+    {
+      "word": "erotik",
+      "reason": "academic_field",
+      "old_plural": "erotiker",
+      "old_bestämd_plural": "erotikerna"
+    },
+    {
+      "word": "etanol",
+      "reason": "mass_noun",
+      "old_plural": "etanoler",
+      "old_bestämd_plural": "etanolerna"
+    },
+    {
+      "word": "etik",
+      "reason": "academic_field",
+      "old_plural": "etiker",
+      "old_bestämd_plural": "etikerna"
+    },
+    {
+      "word": "eugenik",
+      "reason": "academic_field",
+      "old_plural": "eugeniker",
+      "old_bestämd_plural": "eugenikerna"
+    },
+    {
+      "word": "filmjölk",
+      "reason": "mass_noun",
+      "old_plural": "filmjölker",
+      "old_bestämd_plural": "filmjölkerna"
+    },
+    {
+      "word": "filosofi",
+      "reason": "academic_field",
+      "old_plural": "filosofier",
+      "old_bestämd_plural": "filosofierna"
+    },
+    {
+      "word": "finska",
+      "reason": "language",
+      "old_plural": "finskor",
+      "old_bestämd_plural": "finskorna"
+    },
+    {
+      "word": "fiske",
+      "reason": "sport",
+      "old_plural": "fisken",
+      "old_bestämd_plural": "fiskena"
+    },
+    {
+      "word": "flugfiske",
+      "reason": "sport",
+      "old_plural": "flugfisken",
+      "old_bestämd_plural": "flugfiskena"
+    },
+    {
+      "word": "fonetik",
+      "reason": "academic_field",
+      "old_plural": "fonetiker",
+      "old_bestämd_plural": "fonetikerna"
+    },
+    {
+      "word": "fonologi",
+      "reason": "academic_field",
+      "old_plural": "fonologier",
+      "old_bestämd_plural": "fonologierna"
+    },
+    {
+      "word": "forskningsetik",
+      "reason": "academic_field",
+      "old_plural": "forskningsetiker",
+      "old_bestämd_plural": "forskningsetikerna"
+    },
+    {
+      "word": "fotboll",
+      "reason": "sport",
+      "old_plural": "fotboller",
+      "old_bestämd_plural": "fotbollerna"
+    },
+    {
+      "word": "franska",
+      "reason": "language",
+      "old_plural": "franskor",
+      "old_bestämd_plural": "franskorna"
+    },
+    {
+      "word": "fysik",
+      "reason": "academic_field",
+      "old_plural": "fysiker",
+      "old_bestämd_plural": "fysikerna"
+    },
+    {
+      "word": "fysioterapi",
+      "reason": "academic_field",
+      "old_plural": "fysioterapier",
+      "old_bestämd_plural": "fysioterapierna"
+    },
+    {
+      "word": "geografi",
+      "reason": "academic_field",
+      "old_plural": "geografier",
+      "old_bestämd_plural": "geografierna"
+    },
+    {
+      "word": "geriatrik",
+      "reason": "academic_field",
+      "old_plural": "geriatriker",
+      "old_bestämd_plural": "geriatrikerna"
+    },
+    {
+      "word": "grafik",
+      "reason": "academic_field",
+      "old_plural": "grafiker",
+      "old_bestämd_plural": "grafikerna"
+    },
+    {
+      "word": "grammatik",
+      "reason": "academic_field",
+      "old_plural": "grammatiker",
+      "old_bestämd_plural": "grammatikerna"
+    },
+    {
+      "word": "gris",
+      "reason": "mass_noun_compound",
+      "old_plural": "grisar",
+      "old_bestämd_plural": "grisarna"
+    },
+    {
+      "word": "grädde",
+      "reason": "mass_noun",
+      "old_plural": "gräddeor",
+      "old_bestämd_plural": "gräddeorna"
+    },
+    {
+      "word": "gräslök",
+      "reason": "mass_noun",
+      "old_plural": "gräslöker",
+      "old_bestämd_plural": "gräslökerna"
+    },
+    {
+      "word": "gymnastik",
+      "reason": "academic_field",
+      "old_plural": "gymnastiker",
+      "old_bestämd_plural": "gymnastikerna"
+    },
+    {
+      "word": "handboll",
+      "reason": "sport",
+      "old_plural": "handboller",
+      "old_bestämd_plural": "handbollerna"
+    },
+    {
+      "word": "hebreiska",
+      "reason": "language",
+      "old_plural": "hebreiskor",
+      "old_bestämd_plural": "hebreiskorna"
+    },
+    {
+      "word": "hederspris",
+      "reason": "mass_noun_compound",
+      "old_plural": "hederspriser",
+      "old_bestämd_plural": "hederspriserna"
+    },
+    {
+      "word": "honung",
+      "reason": "mass_noun",
+      "old_plural": "honungar",
+      "old_bestämd_plural": "honungarna"
+    },
+    {
+      "word": "hö",
+      "reason": "mass_noun",
+      "old_plural": "höer",
+      "old_bestämd_plural": "höerna"
+    },
+    {
+      "word": "högertrafik",
+      "reason": "academic_field",
+      "old_plural": "högertrafiker",
+      "old_bestämd_plural": "högertrafikerna"
+    },
+    {
+      "word": "iris",
+      "reason": "mass_noun_compound",
+      "old_plural": "irisar",
+      "old_bestämd_plural": "irisarna"
+    },
+    {
+      "word": "ischoklad",
+      "reason": "mass_noun",
+      "old_plural": "ischoklader",
+      "old_bestämd_plural": "ischokladerna"
+    },
+    {
+      "word": "isracing",
+      "reason": "sport",
+      "old_plural": "isracinger",
+      "old_bestämd_plural": "isracingerna"
+    },
+    {
+      "word": "italienska",
+      "reason": "language",
+      "old_plural": "italienskor",
+      "old_bestämd_plural": "italienskorna"
+    },
+    {
+      "word": "julmust",
+      "reason": "mass_noun",
+      "old_plural": "julmuster",
+      "old_bestämd_plural": "julmusterna"
+    },
+    {
+      "word": "juridik",
+      "reason": "academic_field",
+      "old_plural": "juridiker",
+      "old_bestämd_plural": "juridikerna"
+    },
+    {
+      "word": "järn",
+      "reason": "mass_noun",
+      "old_plural": "järn",
+      "old_bestämd_plural": "järnen"
+    },
+    {
+      "word": "jäst",
+      "reason": "mass_noun",
+      "old_plural": "jäster",
+      "old_bestämd_plural": "jästerna"
+    },
+    {
+      "word": "kanel",
+      "reason": "mass_noun",
+      "old_plural": "kaneler",
+      "old_bestämd_plural": "kanelerna"
+    },
+    {
+      "word": "kastrull",
+      "reason": "mass_noun_compound",
+      "old_plural": "kastruller",
+      "old_bestämd_plural": "kastrullerna"
+    },
+    {
+      "word": "kaviar",
+      "reason": "mass_noun",
+      "old_plural": "kaviarer",
+      "old_bestämd_plural": "kaviarerna"
+    },
+    {
+      "word": "kemi",
+      "reason": "academic_field",
+      "old_plural": "kemier",
+      "old_bestämd_plural": "kemierna"
+    },
+    {
+      "word": "Kemi",
+      "reason": "academic_field",
+      "old_plural": "Kemier",
+      "old_bestämd_plural": "Kemierna"
+    },
+    {
+      "word": "keramik",
+      "reason": "academic_field",
+      "old_plural": "keramiker",
+      "old_bestämd_plural": "keramikerna"
+    },
+    {
+      "word": "ketchup",
+      "reason": "mass_noun",
+      "old_plural": "ketchuper",
+      "old_bestämd_plural": "ketchuperna"
+    },
+    {
+      "word": "klitoris",
+      "reason": "mass_noun_compound",
+      "old_plural": "klitorisar",
+      "old_bestämd_plural": "klitorisarna"
+    },
+    {
+      "word": "klor",
+      "reason": "mass_noun",
+      "old_plural": "klorer",
+      "old_bestämd_plural": "klorerna"
+    },
+    {
+      "word": "kokos",
+      "reason": "mass_noun",
+      "old_plural": "kokoser",
+      "old_bestämd_plural": "kokoserna"
+    },
+    {
+      "word": "kolik",
+      "reason": "academic_field",
+      "old_plural": "koliker",
+      "old_bestämd_plural": "kolikerna"
+    },
+    {
+      "word": "kollektivtrafik",
+      "reason": "academic_field",
+      "old_plural": "kollektivtrafiker",
+      "old_bestämd_plural": "kollektivtrafikerna"
+    },
+    {
+      "word": "kolsyra",
+      "reason": "mass_noun",
+      "old_plural": "kolsyror",
+      "old_bestämd_plural": "kolsyrorna"
+    },
+    {
+      "word": "koppar",
+      "reason": "mass_noun",
+      "old_plural": "kopparer",
+      "old_bestämd_plural": "kopparerna"
+    },
+    {
+      "word": "korpuslingvistik",
+      "reason": "academic_field",
+      "old_plural": "korpuslingvistiker",
+      "old_bestämd_plural": "korpuslingvistikerna"
+    },
+    {
+      "word": "kris",
+      "reason": "mass_noun_compound",
+      "old_plural": "kriser",
+      "old_bestämd_plural": "kriserna"
+    },
+    {
+      "word": "krocket",
+      "reason": "sport",
+      "old_plural": "krocketer",
+      "old_bestämd_plural": "krocketerna"
+    },
+    {
+      "word": "kväve",
+      "reason": "mass_noun",
+      "old_plural": "kväven",
+      "old_bestämd_plural": "kvävena"
+    },
+    {
+      "word": "lexikologi",
+      "reason": "academic_field",
+      "old_plural": "lexikologier",
+      "old_bestämd_plural": "lexikologierna"
+    },
+    {
+      "word": "lingvistik",
+      "reason": "academic_field",
+      "old_plural": "lingvistiker",
+      "old_bestämd_plural": "lingvistikerna"
+    },
+    {
+      "word": "linne",
+      "reason": "mass_noun",
+      "old_plural": "linnen",
+      "old_bestämd_plural": "linnena"
+    },
+    {
+      "word": "logik",
+      "reason": "academic_field",
+      "old_plural": "logiker",
+      "old_bestämd_plural": "logikerna"
+    },
+    {
+      "word": "lokaltrafik",
+      "reason": "academic_field",
+      "old_plural": "lokaltrafiker",
+      "old_bestämd_plural": "lokaltrafikerna"
+    },
+    {
+      "word": "lättmjölk",
+      "reason": "mass_noun",
+      "old_plural": "lättmjölker",
+      "old_bestämd_plural": "lättmjölkerna"
+    },
+    {
+      "word": "majs",
+      "reason": "mass_noun",
+      "old_plural": "majser",
+      "old_bestämd_plural": "majserna"
+    },
+    {
+      "word": "mandelmassa",
+      "reason": "mass_noun",
+      "old_plural": "mandelmassor",
+      "old_bestämd_plural": "mandelmassorna"
+    },
+    {
+      "word": "marsipan",
+      "reason": "mass_noun",
+      "old_plural": "marsipaner",
+      "old_bestämd_plural": "marsipanerna"
+    },
+    {
+      "word": "matematik",
+      "reason": "academic_field",
+      "old_plural": "matematiker",
+      "old_bestämd_plural": "matematikerna"
+    },
+    {
+      "word": "matris",
+      "reason": "mass_noun_compound",
+      "old_plural": "matriser",
+      "old_bestämd_plural": "matriserna"
+    },
+    {
+      "word": "mekanik",
+      "reason": "academic_field",
+      "old_plural": "mekaniker",
+      "old_bestämd_plural": "mekanikerna"
+    },
+    {
+      "word": "mimik",
+      "reason": "academic_field",
+      "old_plural": "mimiker",
+      "old_bestämd_plural": "mimikerna"
+    },
+    {
+      "word": "minigolf",
+      "reason": "sport",
+      "old_plural": "minigolfer",
+      "old_bestämd_plural": "minigolferna"
+    },
+    {
+      "word": "mjölkchoklad",
+      "reason": "mass_noun",
+      "old_plural": "mjölkchoklader",
+      "old_bestämd_plural": "mjölkchokladerna"
+    },
+    {
+      "word": "morfologi",
+      "reason": "academic_field",
+      "old_plural": "morfologier",
+      "old_bestämd_plural": "morfologierna"
+    },
+    {
+      "word": "morsgris",
+      "reason": "mass_noun_compound",
+      "old_plural": "morsgrisar",
+      "old_bestämd_plural": "morsgrisarna"
+    },
+    {
+      "word": "motorik",
+      "reason": "academic_field",
+      "old_plural": "motoriker",
+      "old_bestämd_plural": "motorikerna"
+    },
+    {
+      "word": "musik",
+      "reason": "academic_field",
+      "old_plural": "musiker",
+      "old_bestämd_plural": "musikerna"
+    },
+    {
+      "word": "mystik",
+      "reason": "academic_field",
+      "old_plural": "mystiker",
+      "old_bestämd_plural": "mystikerna"
+    },
+    {
+      "word": "neurologi",
+      "reason": "academic_field",
+      "old_plural": "neurologier",
+      "old_bestämd_plural": "neurologierna"
+    },
+    {
+      "word": "norska",
+      "reason": "language",
+      "old_plural": "norskor",
+      "old_bestämd_plural": "norskorna"
+    },
+    {
+      "word": "paketpris",
+      "reason": "mass_noun_compound",
+      "old_plural": "paketpriser",
+      "old_bestämd_plural": "paketpriserna"
+    },
+    {
+      "word": "panik",
+      "reason": "academic_field",
+      "old_plural": "paniker",
+      "old_bestämd_plural": "panikerna"
+    },
+    {
+      "word": "pedagogik",
+      "reason": "academic_field",
+      "old_plural": "pedagogiker",
+      "old_bestämd_plural": "pedagogikerna"
+    },
+    {
+      "word": "politik",
+      "reason": "academic_field",
+      "old_plural": "politiker",
+      "old_bestämd_plural": "politikerna"
+    },
+    {
+      "word": "pragmatik",
+      "reason": "academic_field",
+      "old_plural": "pragmatiker",
+      "old_bestämd_plural": "pragmatikerna"
+    },
+    {
+      "word": "pris",
+      "reason": "mass_noun_compound",
+      "old_plural": "priser",
+      "old_bestämd_plural": "priserna"
+    },
+    {
+      "word": "psykiatri",
+      "reason": "academic_field",
+      "old_plural": "psykiatrier",
+      "old_bestämd_plural": "psykiatrierna"
+    },
+    {
+      "word": "psykolingvistik",
+      "reason": "academic_field",
+      "old_plural": "psykolingvistiker",
+      "old_bestämd_plural": "psykolingvistikerna"
+    },
+    {
+      "word": "psykologi",
+      "reason": "academic_field",
+      "old_plural": "psykologier",
+      "old_bestämd_plural": "psykologierna"
+    },
+    {
+      "word": "purjolök",
+      "reason": "mass_noun",
+      "old_plural": "purjolökar",
+      "old_bestämd_plural": "purjolökarna"
+    },
+    {
+      "word": "repris",
+      "reason": "mass_noun_compound",
+      "old_plural": "repriser",
+      "old_bestämd_plural": "repriserna"
+    },
+    {
+      "word": "retorik",
+      "reason": "academic_field",
+      "old_plural": "retoriker",
+      "old_bestämd_plural": "retorikerna"
+    },
+    {
+      "word": "rikssvenska",
+      "reason": "language",
+      "old_plural": "rikssvenskor",
+      "old_bestämd_plural": "rikssvenskorna"
+    },
+    {
+      "word": "ris",
+      "reason": "mass_noun",
+      "old_plural": "ris",
+      "old_bestämd_plural": "risen"
+    },
+    {
+      "word": "romantik",
+      "reason": "academic_field",
+      "old_plural": "romantiker",
+      "old_bestämd_plural": "romantikerna"
+    },
+    {
+      "word": "ryska",
+      "reason": "language",
+      "old_plural": "ryskor",
+      "old_bestämd_plural": "ryskorna"
+    },
+    {
+      "word": "rytmik",
+      "reason": "academic_field",
+      "old_plural": "rytmiker",
+      "old_bestämd_plural": "rytmikerna"
+    },
+    {
+      "word": "rödlök",
+      "reason": "mass_noun",
+      "old_plural": "rödlöker",
+      "old_bestämd_plural": "rödlökerna"
+    },
+    {
+      "word": "sammet",
+      "reason": "mass_noun",
+      "old_plural": "sammeter",
+      "old_bestämd_plural": "sammeterna"
+    },
+    {
+      "word": "samvete",
+      "reason": "mass_noun_compound",
+      "old_plural": "samveten",
+      "old_bestämd_plural": "samvetena"
+    },
+    {
+      "word": "semantik",
+      "reason": "academic_field",
+      "old_plural": "semantiker",
+      "old_bestämd_plural": "semantikerna"
+    },
+    {
+      "word": "senap",
+      "reason": "mass_noun",
+      "old_plural": "senaper",
+      "old_bestämd_plural": "senaperna"
+    },
+    {
+      "word": "servitris",
+      "reason": "mass_noun_compound",
+      "old_plural": "servitriser",
+      "old_bestämd_plural": "servitriserna"
+    },
+    {
+      "word": "sirap",
+      "reason": "mass_noun",
+      "old_plural": "siraper",
+      "old_bestämd_plural": "siraperna"
+    },
+    {
+      "word": "sjukgymnastik",
+      "reason": "academic_field",
+      "old_plural": "sjukgymnastiker",
+      "old_bestämd_plural": "sjukgymnastikerna"
+    },
+    {
+      "word": "slalom",
+      "reason": "sport",
+      "old_plural": "slalomer",
+      "old_bestämd_plural": "slalomerna"
+    },
+    {
+      "word": "smör",
+      "reason": "mass_noun",
+      "old_plural": "smörer",
+      "old_bestämd_plural": "smörerna"
+    },
+    {
+      "word": "sociolingvistik",
+      "reason": "academic_field",
+      "old_plural": "sociolingvistiker",
+      "old_bestämd_plural": "sociolingvistikerna"
+    },
+    {
+      "word": "spanska",
+      "reason": "language",
+      "old_plural": "spanskor",
+      "old_bestämd_plural": "spanskorna"
+    },
+    {
+      "word": "sparris",
+      "reason": "mass_noun_compound",
+      "old_plural": "sparrisar",
+      "old_bestämd_plural": "sparrisarna"
+    },
+    {
+      "word": "speedway",
+      "reason": "sport",
+      "old_plural": "speedwayer",
+      "old_bestämd_plural": "speedwayerna"
+    },
+    {
+      "word": "spenat",
+      "reason": "mass_noun",
+      "old_plural": "spenater",
+      "old_bestämd_plural": "spenaterna"
+    },
+    {
+      "word": "statistik",
+      "reason": "academic_field",
+      "old_plural": "statistiker",
+      "old_bestämd_plural": "statistikerna"
+    },
+    {
+      "word": "storslalom",
+      "reason": "sport",
+      "old_plural": "storslalomer",
+      "old_bestämd_plural": "storslalomerna"
+    },
+    {
+      "word": "strykjärn",
+      "reason": "mass_noun_compound",
+      "old_plural": "strykjärn",
+      "old_bestämd_plural": "strykjärnen"
+    },
+    {
+      "word": "stål",
+      "reason": "mass_noun",
+      "old_plural": "stål",
+      "old_bestämd_plural": "stålen"
+    },
+    {
+      "word": "svenska",
+      "reason": "language",
+      "old_plural": "svenskor",
+      "old_bestämd_plural": "svenskorna"
+    },
+    {
+      "word": "syre",
+      "reason": "mass_noun",
+      "old_plural": "syren",
+      "old_bestämd_plural": "syrena"
+    },
+    {
+      "word": "syrgas",
+      "reason": "mass_noun",
+      "old_plural": "syrgaser",
+      "old_bestämd_plural": "syrgaserna"
+    },
+    {
+      "word": "taktik",
+      "reason": "academic_field",
+      "old_plural": "taktiker",
+      "old_bestämd_plural": "taktikerna"
+    },
+    {
+      "word": "teknik",
+      "reason": "academic_field",
+      "old_plural": "tekniker",
+      "old_bestämd_plural": "teknikerna"
+    },
+    {
+      "word": "tennis",
+      "reason": "sport",
+      "old_plural": "tenniser",
+      "old_bestämd_plural": "tenniserna"
+    },
+    {
+      "word": "timjan",
+      "reason": "mass_noun",
+      "old_plural": "timjaner",
+      "old_bestämd_plural": "timjanerna"
+    },
+    {
+      "word": "tobak",
+      "reason": "mass_noun",
+      "old_plural": "tobaker",
+      "old_bestämd_plural": "tobakerna"
+    },
+    {
+      "word": "Tornedalsfinska",
+      "reason": "language",
+      "old_plural": "Tornedalsfinskor",
+      "old_bestämd_plural": "Tornedalsfinskorna"
+    },
+    {
+      "word": "trafik",
+      "reason": "academic_field",
+      "old_plural": "trafiker",
+      "old_bestämd_plural": "trafikerna"
+    },
+    {
+      "word": "tull",
+      "reason": "mass_noun_compound",
+      "old_plural": "tullar",
+      "old_bestämd_plural": "tullarna"
+    },
+    {
+      "word": "typologi",
+      "reason": "academic_field",
+      "old_plural": "typologier",
+      "old_bestämd_plural": "typologierna"
+    },
+    {
+      "word": "tyska",
+      "reason": "language",
+      "old_plural": "tyskor",
+      "old_bestämd_plural": "tyskorna"
+    },
+    {
+      "word": "vanilj",
+      "reason": "mass_noun",
+      "old_plural": "vaniljer",
+      "old_bestämd_plural": "vaniljerna"
+    },
+    {
+      "word": "vete",
+      "reason": "mass_noun",
+      "old_plural": "veten",
+      "old_bestämd_plural": "vetena"
+    },
+    {
+      "word": "vitkål",
+      "reason": "mass_noun",
+      "old_plural": "vitkåler",
+      "old_bestämd_plural": "vitkålerna"
+    },
+    {
+      "word": "vitlök",
+      "reason": "mass_noun",
+      "old_plural": "vitlökar",
+      "old_bestämd_plural": "vitlökarna"
+    },
+    {
+      "word": "volleyboll",
+      "reason": "sport",
+      "old_plural": "volleyboller",
+      "old_bestämd_plural": "volleybollerna"
+    }
+  ],
+  "kept_plurals": [
+    "A-lag",
+    "abborre",
+    "abonnemang",
+    "aborigin",
+    "abort",
+    "absolutbelopp",
+    "abstinens",
+    "abstrakt",
+    "acceleration",
+    "accept",
+    "acklamation",
+    "ackord",
+    "adamsäpple",
+    "addition",
+    "adel",
+    "adelsman",
+    "adjektiv",
+    "adjunkt",
+    "administration",
+    "administratör",
+    "adoptivbarn",
+    "adoptivförälder",
+    "adress",
+    "adventskalender",
+    "adventsljusstake",
+    "adventsstjärna",
+    "adverb",
+    "advokat",
+    "advokatbyrå",
+    "afasi",
+    "affisch",
+    "affix",
+    "affär",
+    "affärsbiträde",
+    "affärsman",
+    "affärsresa",
+    "afrikan",
+    "aftonsång",
+    "agenda",
+    "agent",
+    "agnostiker",
+    "aids",
+    "akademi",
+    "akrobat",
+    "akryl",
+    "aktie",
+    "aktiebolag",
+    "aktiefond",
+    "aktiekapital",
+    "aktieägare"
+  ]
+}

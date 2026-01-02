@@ -1,0 +1,2788 @@
+{
+  "timestamp": "2026-01-02T16:46:49.636149",
+  "generated": [
+    {
+      "word": "abstinens",
+      "paradigm": "nn_0u_månsing",
+      "plural": "abstinenser",
+      "def_plural": "abstinenserna"
+    },
+    {
+      "word": "aga",
+      "paradigm": "nn_0u_radar",
+      "plural": "agor",
+      "def_plural": "agorna"
+    },
+    {
+      "word": "akupunktur",
+      "paradigm": "nn_0u_månsing",
+      "plural": "akupunkturer",
+      "def_plural": "akupunkturerna"
+    },
+    {
+      "word": "anarki",
+      "paradigm": "nn_0u_akribi",
+      "plural": "anarkier",
+      "def_plural": "anarkierna"
+    },
+    {
+      "word": "andnöd",
+      "paradigm": "nn_0u_boskap",
+      "plural": "andnöder",
+      "def_plural": "andnöderna"
+    },
+    {
+      "word": "anmälningsplikt",
+      "paradigm": "nn_0u_boskap",
+      "plural": "anmälningsplikter",
+      "def_plural": "anmälningsplikterna"
+    },
+    {
+      "word": "arbetsbrist",
+      "paradigm": "nn_0u_månsing",
+      "plural": "arbetsbrister",
+      "def_plural": "arbetsbristerna"
+    },
+    {
+      "word": "arbetskraft",
+      "paradigm": "nn_0u_boskap",
+      "plural": "arbetskrafter",
+      "def_plural": "arbetskrafterna"
+    },
+    {
+      "word": "arbetsträning",
+      "paradigm": "nn_0u_boskap",
+      "plural": "arbetsträninger",
+      "def_plural": "arbetsträningerna"
+    },
+    {
+      "word": "arvsmassa",
+      "paradigm": "nn_0u_tjockolja",
+      "plural": "arvsmassor",
+      "def_plural": "arvsmassorna"
+    },
+    {
+      "word": "asbest",
+      "paradigm": "nn_0u_månsing",
+      "plural": "asbester",
+      "def_plural": "asbesterna"
+    },
+    {
+      "word": "aska",
+      "paradigm": "nn_0u_svenska",
+      "plural": "askor",
+      "def_plural": "askorna"
+    },
+    {
+      "word": "astma",
+      "paradigm": "nn_0u_radar",
+      "plural": "astmor",
+      "def_plural": "astmorna"
+    },
+    {
+      "word": "attan",
+      "paradigm": "nn_0u_hin",
+      "plural": "attaner",
+      "def_plural": "attanerna"
+    },
+    {
+      "word": "avel",
+      "paradigm": "nn_0u_tro",
+      "plural": "aveler",
+      "def_plural": "avelerna"
+    },
+    {
+      "word": "avgudadyrkan",
+      "paradigm": "nn_0u_samverkan",
+      "plural": "avgudadyrkaner",
+      "def_plural": "avgudadyrkanerna"
+    },
+    {
+      "word": "avsky",
+      "paradigm": "nn_0u_radar",
+      "plural": "avskyer",
+      "def_plural": "avskyerna"
+    },
+    {
+      "word": "babysim",
+      "paradigm": "nn_0n_skum",
+      "plural": "babysimer",
+      "def_plural": "babysimerna"
+    },
+    {
+      "word": "backhand",
+      "paradigm": "nn_0u_kärnkraft",
+      "plural": "backhander",
+      "def_plural": "backhanderna"
+    },
+    {
+      "word": "bagage",
+      "paradigm": "nn_0n_syre",
+      "plural": "bagagen",
+      "def_plural": "bagagena"
+    },
+    {
+      "word": "bajs",
+      "paradigm": "nn_0n_latin",
+      "plural": "bajser",
+      "def_plural": "bajserna"
+    },
+    {
+      "word": "bajskorv",
+      "paradigm": "nn_0u_boskap",
+      "plural": "bajskorver",
+      "def_plural": "bajskorverna"
+    },
+    {
+      "word": "barndomsminne",
+      "paradigm": "nn_0n_syre",
+      "plural": "barndomsminnen",
+      "def_plural": "barndomsminnena"
+    },
+    {
+      "word": "barnomsorg",
+      "paradigm": "nn_0u_boskap",
+      "plural": "barnomsorger",
+      "def_plural": "barnomsorgerna"
+    },
+    {
+      "word": "begåvning",
+      "paradigm": "nn_0u_boskap",
+      "plural": "begåvninger",
+      "def_plural": "begåvningerna"
+    },
+    {
+      "word": "bemötande",
+      "paradigm": "nn_0n_syre",
+      "plural": "bemötanden",
+      "def_plural": "bemötandena"
+    },
+    {
+      "word": "benmärg",
+      "paradigm": "nn_0u_boskap",
+      "plural": "benmärger",
+      "def_plural": "benmärgerna"
+    },
+    {
+      "word": "beröm",
+      "paradigm": "nn_0n_skum",
+      "plural": "berömer",
+      "def_plural": "berömerna"
+    },
+    {
+      "word": "bitsocker",
+      "paradigm": "nn_0n_babbel",
+      "plural": "bitsockerer",
+      "def_plural": "bitsockererna"
+    },
+    {
+      "word": "biverkan",
+      "paradigm": "nn_0u_samverkan",
+      "plural": "biverkaner",
+      "def_plural": "biverkanerna"
+    },
+    {
+      "word": "blodbrist",
+      "paradigm": "nn_0u_månsing",
+      "plural": "blodbrister",
+      "def_plural": "blodbristerna"
+    },
+    {
+      "word": "blodcancer",
+      "paradigm": "nn_0u_radar",
+      "plural": "blodcancerer",
+      "def_plural": "blodcancererna"
+    },
+    {
+      "word": "blodgivning",
+      "paradigm": "nn_0u_boskap",
+      "plural": "blodgivninger",
+      "def_plural": "blodgivningerna"
+    },
+    {
+      "word": "blodsocker",
+      "paradigm": "nn_0n_babbel",
+      "plural": "blodsockerer",
+      "def_plural": "blodsockererna"
+    },
+    {
+      "word": "bläck",
+      "paradigm": "nn_0n_dalt",
+      "plural": "bläcker",
+      "def_plural": "bläckerna"
+    },
+    {
+      "word": "blödarsjuka",
+      "paradigm": "nn_0u_hemsjuka",
+      "plural": "blödarsjukor",
+      "def_plural": "blödarsjukorna"
+    },
+    {
+      "word": "boccia",
+      "paradigm": "nn_0u_radar",
+      "plural": "boccior",
+      "def_plural": "bocciorna"
+    },
+    {
+      "word": "bokföringsplikt",
+      "paradigm": "nn_0u_boskap",
+      "plural": "bokföringsplikter",
+      "def_plural": "bokföringsplikterna"
+    },
+    {
+      "word": "borgen",
+      "paradigm": "nn_0u_samverkan",
+      "plural": "borgener",
+      "def_plural": "borgenerna"
+    },
+    {
+      "word": "borrelia",
+      "paradigm": "nn_0u_radar",
+      "plural": "borrelior",
+      "def_plural": "borreliorna"
+    },
+    {
+      "word": "bostadsbrist",
+      "paradigm": "nn_0u_månsing",
+      "plural": "bostadsbrister",
+      "def_plural": "bostadsbristerna"
+    },
+    {
+      "word": "broccoli",
+      "paradigm": "nn_0u_radar",
+      "plural": "broccolier",
+      "def_plural": "broccolierna"
+    },
+    {
+      "word": "brådska",
+      "paradigm": "nn_0u_radar",
+      "plural": "brådskor",
+      "def_plural": "brådskorna"
+    },
+    {
+      "word": "bröstsim",
+      "paradigm": "nn_0n_skum",
+      "plural": "bröstsimer",
+      "def_plural": "bröstsimerna"
+    },
+    {
+      "word": "bugg",
+      "paradigm": "nn_0u_mjölk",
+      "plural": "bugger",
+      "def_plural": "buggerna"
+    },
+    {
+      "word": "bulimi",
+      "paradigm": "nn_0u_akribi",
+      "plural": "bulimier",
+      "def_plural": "bulimierna"
+    },
+    {
+      "word": "bus",
+      "paradigm": "nn_0n_dalt",
+      "plural": "buser",
+      "def_plural": "buserna"
+    },
+    {
+      "word": "bältros",
+      "paradigm": "nn_0u_månsing",
+      "plural": "bältroser",
+      "def_plural": "bältroserna"
+    },
+    {
+      "word": "bänkpress",
+      "paradigm": "nn_0u_månsing",
+      "plural": "bänkpresser",
+      "def_plural": "bänkpresserna"
+    },
+    {
+      "word": "cellskräck",
+      "paradigm": "nn_0u_boskap",
+      "plural": "cellskräcker",
+      "def_plural": "cellskräckerna"
+    },
+    {
+      "word": "censur",
+      "paradigm": "nn_0u_månsing",
+      "plural": "censurer",
+      "def_plural": "censurerna"
+    },
+    {
+      "word": "charm",
+      "paradigm": "nn_0u_mjölk",
+      "plural": "charmer",
+      "def_plural": "charmerna"
+    },
+    {
+      "word": "chili",
+      "paradigm": "nn_0u_radar",
+      "plural": "chilier",
+      "def_plural": "chilierna"
+    },
+    {
+      "word": "cider",
+      "paradigm": "nn_0u_radar",
+      "plural": "ciderer",
+      "def_plural": "cidererna"
+    },
+    {
+      "word": "defensiv",
+      "paradigm": "nn_0u_månsing",
+      "plural": "defensiver",
+      "def_plural": "defensiverna"
+    },
+    {
+      "word": "demens",
+      "paradigm": "nn_0u_månsing",
+      "plural": "demenser",
+      "def_plural": "demenserna"
+    },
+    {
+      "word": "diabetes",
+      "paradigm": "nn_0u_samverkan",
+      "plural": "diabeteser",
+      "def_plural": "diabeteserna"
+    },
+    {
+      "word": "difteri",
+      "paradigm": "nn_0u_akribi",
+      "plural": "difterier",
+      "def_plural": "difterierna"
+    },
+    {
+      "word": "dill",
+      "paradigm": "nn_0u_mjölk",
+      "plural": "diller",
+      "def_plural": "dillerna"
+    },
+    {
+      "word": "distansritt",
+      "paradigm": "nn_0u_boskap",
+      "plural": "distansritter",
+      "def_plural": "distansritterna"
+    },
+    {
+      "word": "dricka",
+      "paradigm": "nn_0n_syre",
+      "plural": "drickor",
+      "def_plural": "drickorna"
+    },
+    {
+      "word": "dropp",
+      "paradigm": "nn_0n_dalt",
+      "plural": "dropper",
+      "def_plural": "dropperna"
+    },
+    {
+      "word": "dränage",
+      "paradigm": "nn_0n_syre",
+      "plural": "dränagen",
+      "def_plural": "dränagena"
+    },
+    {
+      "word": "dubbelseende",
+      "paradigm": "nn_0n_syre",
+      "plural": "dubbelseenden",
+      "def_plural": "dubbelseendena"
+    },
+    {
+      "word": "dåtid",
+      "paradigm": "nn_0u_boskap",
+      "plural": "dåtider",
+      "def_plural": "dåtiderna"
+    },
+    {
+      "word": "dödshjälp",
+      "paradigm": "nn_0u_boskap",
+      "plural": "dödshjälper",
+      "def_plural": "dödshjälperna"
+    },
+    {
+      "word": "efterfrågan",
+      "paradigm": "nn_0u_samverkan",
+      "plural": "efterfråganer",
+      "def_plural": "efterfråganerna"
+    },
+    {
+      "word": "egentid",
+      "paradigm": "nn_0u_boskap",
+      "plural": "egentider",
+      "def_plural": "egentiderna"
+    },
+    {
+      "word": "egenvärde",
+      "paradigm": "nn_0n_syre",
+      "plural": "egenvärden",
+      "def_plural": "egenvärdena"
+    },
+    {
+      "word": "empati",
+      "paradigm": "nn_0u_akribi",
+      "plural": "empatier",
+      "def_plural": "empatierna"
+    },
+    {
+      "word": "fallskärmshoppning",
+      "paradigm": "nn_0u_boskap",
+      "plural": "fallskärmshoppninger",
+      "def_plural": "fallskärmshoppningerna"
+    },
+    {
+      "word": "fetma",
+      "paradigm": "nn_0u_radar",
+      "plural": "fetmor",
+      "def_plural": "fetmorna"
+    },
+    {
+      "word": "fjärilsim",
+      "paradigm": "nn_0n_skum",
+      "plural": "fjärilsimer",
+      "def_plural": "fjärilsimerna"
+    },
+    {
+      "word": "flyt",
+      "paradigm": "nn_0n_dalt",
+      "plural": "flyter",
+      "def_plural": "flyterna"
+    },
+    {
+      "word": "fläsk",
+      "paradigm": "nn_0n_dalt",
+      "plural": "fläsker",
+      "def_plural": "fläskerna"
+    },
+    {
+      "word": "folktandvård",
+      "paradigm": "nn_0u_boskap",
+      "plural": "folktandvårder",
+      "def_plural": "folktandvårderna"
+    },
+    {
+      "word": "forehand",
+      "paradigm": "nn_0u_kärnkraft",
+      "plural": "forehander",
+      "def_plural": "forehanderna"
+    },
+    {
+      "word": "fosfor",
+      "paradigm": "nn_0u_radar",
+      "plural": "fosforer",
+      "def_plural": "fosforerna"
+    },
+    {
+      "word": "fottvagning",
+      "paradigm": "nn_0u_boskap",
+      "plural": "fottvagninger",
+      "def_plural": "fottvagningerna"
+    },
+    {
+      "word": "fotvård",
+      "paradigm": "nn_0u_boskap",
+      "plural": "fotvårder",
+      "def_plural": "fotvårderna"
+    },
+    {
+      "word": "friskvård",
+      "paradigm": "nn_0u_boskap",
+      "plural": "friskvårder",
+      "def_plural": "friskvårderna"
+    },
+    {
+      "word": "fritid",
+      "paradigm": "nn_0u_boskap",
+      "plural": "fritider",
+      "def_plural": "fritiderna"
+    },
+    {
+      "word": "fruktan",
+      "paradigm": "nn_0u_samverkan",
+      "plural": "fruktaner",
+      "def_plural": "fruktanerna"
+    },
+    {
+      "word": "fukt",
+      "paradigm": "nn_0u_mjölk",
+      "plural": "fukter",
+      "def_plural": "fukterna"
+    },
+    {
+      "word": "fyrklöver",
+      "paradigm": "nn_0u_radar",
+      "plural": "fyrklöverer",
+      "def_plural": "fyrklövererna"
+    },
+    {
+      "word": "färdtjänst",
+      "paradigm": "nn_0u_månsing",
+      "plural": "färdtjänster",
+      "def_plural": "färdtjänsterna"
+    },
+    {
+      "word": "föda",
+      "paradigm": "nn_0u_radar",
+      "plural": "födor",
+      "def_plural": "födorna"
+    },
+    {
+      "word": "fönsterputs",
+      "paradigm": "nn_0u_månsing",
+      "plural": "fönsterputser",
+      "def_plural": "fönsterputserna"
+    },
+    {
+      "word": "förhud",
+      "paradigm": "nn_0u_boskap",
+      "plural": "förhuder",
+      "def_plural": "förhuderna"
+    },
+    {
+      "word": "försvarsmakt",
+      "paradigm": "nn_0u_boskap",
+      "plural": "försvarsmakter",
+      "def_plural": "försvarsmakterna"
+    },
+    {
+      "word": "förtur",
+      "paradigm": "nn_0u_boskap",
+      "plural": "förturer",
+      "def_plural": "förturerna"
+    },
+    {
+      "word": "förutseende",
+      "paradigm": "nn_0n_syre",
+      "plural": "förutseenden",
+      "def_plural": "förutseendena"
+    },
+    {
+      "word": "gikt",
+      "paradigm": "nn_0u_mjölk",
+      "plural": "gikter",
+      "def_plural": "gikterna"
+    },
+    {
+      "word": "glitter",
+      "paradigm": "nn_0n_babbel",
+      "plural": "glitterer",
+      "def_plural": "glittererna"
+    },
+    {
+      "word": "gluten",
+      "paradigm": "nn_0n_gluten",
+      "plural": "glutener",
+      "def_plural": "glutenerna"
+    },
+    {
+      "word": "godis",
+      "paradigm": "nn_0n_latin",
+      "plural": "godiser",
+      "def_plural": "godiserna"
+    },
+    {
+      "word": "graffiti",
+      "paradigm": "nn_0u_radar",
+      "plural": "graffitier",
+      "def_plural": "graffitierna"
+    },
+    {
+      "word": "griftefrid",
+      "paradigm": "nn_0u_boskap",
+      "plural": "griftefrider",
+      "def_plural": "griftefriderna"
+    },
+    {
+      "word": "griskött",
+      "paradigm": "nn_0n_koksalt",
+      "plural": "griskötter",
+      "def_plural": "griskötterna"
+    },
+    {
+      "word": "grädda",
+      "paradigm": "nn_0u_radar",
+      "plural": "gräddor",
+      "def_plural": "gräddorna"
+    },
+    {
+      "word": "gudsfruktan",
+      "paradigm": "nn_0u_samverkan",
+      "plural": "gudsfruktaner",
+      "def_plural": "gudsfruktanerna"
+    },
+    {
+      "word": "gulsot",
+      "paradigm": "nn_0u_boskap",
+      "plural": "gulsoter",
+      "def_plural": "gulsoterna"
+    },
+    {
+      "word": "göra",
+      "paradigm": "nn_0n_syre",
+      "plural": "göror",
+      "def_plural": "görorna"
+    },
+    {
+      "word": "halka",
+      "paradigm": "nn_0u_radar",
+      "plural": "halkor",
+      "def_plural": "halkorna"
+    },
+    {
+      "word": "halsbränna",
+      "paradigm": "nn_0u_radar",
+      "plural": "halsbrännor",
+      "def_plural": "halsbrännorna"
+    },
+    {
+      "word": "halvvolley",
+      "paradigm": "nn_0u_radar",
+      "plural": "halvvolleyer",
+      "def_plural": "halvvolleyerna"
+    },
+    {
+      "word": "handel",
+      "paradigm": "nn_0u_tro",
+      "plural": "handeler",
+      "def_plural": "handelerna"
+    },
+    {
+      "word": "hands",
+      "paradigm": "nn_0u_månsing",
+      "plural": "handser",
+      "def_plural": "handserna"
+    },
+    {
+      "word": "heder",
+      "paradigm": "nn_0u_tro",
+      "plural": "hederer",
+      "def_plural": "hedererna"
+    },
+    {
+      "word": "hemkunskap",
+      "paradigm": "nn_0u_boskap",
+      "plural": "hemkunskaper",
+      "def_plural": "hemkunskaperna"
+    },
+    {
+      "word": "herr",
+      "paradigm": "nn_0u_radar",
+      "plural": "herrer",
+      "def_plural": "herrerna"
+    },
+    {
+      "word": "hicka",
+      "paradigm": "nn_0u_radar",
+      "plural": "hickor",
+      "def_plural": "hickorna"
+    },
+    {
+      "word": "hjärndöd",
+      "paradigm": "nn_0u_boskap",
+      "plural": "hjärndöder",
+      "def_plural": "hjärndöderna"
+    },
+    {
+      "word": "hjärtflimmer",
+      "paradigm": "nn_0n_babbel",
+      "plural": "hjärtflimmerer",
+      "def_plural": "hjärtflimmererna"
+    },
+    {
+      "word": "hosta",
+      "paradigm": "nn_0u_svenska",
+      "plural": "hostor",
+      "def_plural": "hostorna"
+    },
+    {
+      "word": "humor",
+      "paradigm": "nn_0u_radar",
+      "plural": "humorer",
+      "def_plural": "humorerna"
+    },
+    {
+      "word": "huvudvärk",
+      "paradigm": "nn_0u_boskap",
+      "plural": "huvudvärker",
+      "def_plural": "huvudvärkerna"
+    },
+    {
+      "word": "hälsa",
+      "paradigm": "nn_0u_hälsa",
+      "plural": "hälsor",
+      "def_plural": "hälsorna"
+    },
+    {
+      "word": "hångel",
+      "paradigm": "nn_0n_babbel",
+      "plural": "hångeler",
+      "def_plural": "hångelerna"
+    },
+    {
+      "word": "hår",
+      "paradigm": "nn_0n_dalt",
+      "plural": "hårer",
+      "def_plural": "hårerna"
+    },
+    {
+      "word": "högertrafik",
+      "paradigm": "nn_0u_månsing",
+      "plural": "högertrafiker",
+      "def_plural": "högertrafikerna"
+    },
+    {
+      "word": "hösnuva",
+      "paradigm": "nn_0u_radar",
+      "plural": "hösnuvor",
+      "def_plural": "hösnuvorna"
+    },
+    {
+      "word": "illamående",
+      "paradigm": "nn_0n_syre",
+      "plural": "illamåenden",
+      "def_plural": "illamåendena"
+    },
+    {
+      "word": "imma",
+      "paradigm": "nn_0u_radar",
+      "plural": "immor",
+      "def_plural": "immorna"
+    },
+    {
+      "word": "impotens",
+      "paradigm": "nn_0u_månsing",
+      "plural": "impotenser",
+      "def_plural": "impotenserna"
+    },
+    {
+      "word": "incest",
+      "paradigm": "nn_0u_månsing",
+      "plural": "incester",
+      "def_plural": "incesterna"
+    },
+    {
+      "word": "informationsplikt",
+      "paradigm": "nn_0u_boskap",
+      "plural": "informationsplikter",
+      "def_plural": "informationsplikterna"
+    },
+    {
+      "word": "ingefära",
+      "paradigm": "nn_0u_radar",
+      "plural": "ingefäror",
+      "def_plural": "ingefärorna"
+    },
+    {
+      "word": "inkontinens",
+      "paradigm": "nn_0u_månsing",
+      "plural": "inkontinenser",
+      "def_plural": "inkontinenserna"
+    },
+    {
+      "word": "innebandy",
+      "paradigm": "nn_0u_radar",
+      "plural": "innebandyer",
+      "def_plural": "innebandyerna"
+    },
+    {
+      "word": "intensivvård",
+      "paradigm": "nn_0u_boskap",
+      "plural": "intensivvårder",
+      "def_plural": "intensivvårderna"
+    },
+    {
+      "word": "internet",
+      "paradigm": "nn_0n_hindi",
+      "plural": "interneter",
+      "def_plural": "interneterna"
+    },
+    {
+      "word": "islam",
+      "paradigm": "nn_0u_hin",
+      "plural": "islamer",
+      "def_plural": "islamerna"
+    },
+    {
+      "word": "joller",
+      "paradigm": "nn_0n_babbel",
+      "plural": "jollerer",
+      "def_plural": "jollererna"
+    },
+    {
+      "word": "julmat",
+      "paradigm": "nn_0u_boskap",
+      "plural": "julmater",
+      "def_plural": "julmaterna"
+    },
+    {
+      "word": "julmust",
+      "paradigm": "nn_0u_månsing",
+      "plural": "julmuster",
+      "def_plural": "julmusterna"
+    },
+    {
+      "word": "juridik",
+      "paradigm": "nn_0u_månsing",
+      "plural": "juridiker",
+      "def_plural": "juridikerna"
+    },
+    {
+      "word": "jämvikt",
+      "paradigm": "nn_0u_boskap",
+      "plural": "jämvikter",
+      "def_plural": "jämvikterna"
+    },
+    {
+      "word": "järnbrist",
+      "paradigm": "nn_0u_månsing",
+      "plural": "järnbrister",
+      "def_plural": "järnbristerna"
+    },
+    {
+      "word": "järnålder",
+      "paradigm": "nn_0u_tro",
+      "plural": "järnålderer",
+      "def_plural": "järnåldererna"
+    },
+    {
+      "word": "kallbrand",
+      "paradigm": "nn_0u_boskap",
+      "plural": "kallbrander",
+      "def_plural": "kallbranderna"
+    },
+    {
+      "word": "kaos",
+      "paradigm": "nn_0n_dalt",
+      "plural": "kaoser",
+      "def_plural": "kaoserna"
+    },
+    {
+      "word": "karies",
+      "paradigm": "nn_0u_månsing",
+      "plural": "karieser",
+      "def_plural": "karieserna"
+    },
+    {
+      "word": "kassler",
+      "paradigm": "nn_0u_radar",
+      "plural": "kasslerer",
+      "def_plural": "kasslererna"
+    },
+    {
+      "word": "kemi",
+      "paradigm": "nn_0u_akribi",
+      "plural": "kemier",
+      "def_plural": "kemierna"
+    },
+    {
+      "word": "kikhosta",
+      "paradigm": "nn_0u_hemsjuka",
+      "plural": "kikhostor",
+      "def_plural": "kikhostorna"
+    },
+    {
+      "word": "klamydia",
+      "paradigm": "nn_0u_radar",
+      "plural": "klamydior",
+      "def_plural": "klamydiorna"
+    },
+    {
+      "word": "klingon",
+      "paradigm": "nn_0n_hindi",
+      "plural": "klingoner",
+      "def_plural": "klingonerna"
+    },
+    {
+      "word": "klister",
+      "paradigm": "nn_0n_babbel",
+      "plural": "klisterer",
+      "def_plural": "klistererna"
+    },
+    {
+      "word": "klåda",
+      "paradigm": "nn_0u_radar",
+      "plural": "klådor",
+      "def_plural": "klådorna"
+    },
+    {
+      "word": "knark",
+      "paradigm": "nn_0n_dalt",
+      "plural": "knarker",
+      "def_plural": "knarkerna"
+    },
+    {
+      "word": "knästående",
+      "paradigm": "nn_0n_syre",
+      "plural": "knäståenden",
+      "def_plural": "knäståendena"
+    },
+    {
+      "word": "kolera",
+      "paradigm": "nn_0u_radar",
+      "plural": "koleror",
+      "def_plural": "kolerorna"
+    },
+    {
+      "word": "kollektivtrafik",
+      "paradigm": "nn_0u_månsing",
+      "plural": "kollektivtrafiker",
+      "def_plural": "kollektivtrafikerna"
+    },
+    {
+      "word": "kombi",
+      "paradigm": "nn_0u_radar",
+      "plural": "kombier",
+      "def_plural": "kombierna"
+    },
+    {
+      "word": "konkurrens",
+      "paradigm": "nn_0u_månsing",
+      "plural": "konkurrenser",
+      "def_plural": "konkurrenserna"
+    },
+    {
+      "word": "kontroll",
+      "paradigm": "nn_0u_månsing",
+      "plural": "kontroller",
+      "def_plural": "kontrollerna"
+    },
+    {
+      "word": "konvergens",
+      "paradigm": "nn_0u_månsing",
+      "plural": "konvergenser",
+      "def_plural": "konvergenserna"
+    },
+    {
+      "word": "kost",
+      "paradigm": "nn_0u_månsing",
+      "plural": "koster",
+      "def_plural": "kosterna"
+    },
+    {
+      "word": "kriminalpolis",
+      "paradigm": "nn_0u_månsing",
+      "plural": "kriminalpoliser",
+      "def_plural": "kriminalpoliserna"
+    },
+    {
+      "word": "kroppskontakt",
+      "paradigm": "nn_0u_månsing",
+      "plural": "kroppskontakter",
+      "def_plural": "kroppskontakterna"
+    },
+    {
+      "word": "krupp",
+      "paradigm": "nn_0u_mjölk",
+      "plural": "krupper",
+      "def_plural": "krupperna"
+    },
+    {
+      "word": "krut",
+      "paradigm": "nn_0n_dalt",
+      "plural": "kruter",
+      "def_plural": "kruterna"
+    },
+    {
+      "word": "kundtjänst",
+      "paradigm": "nn_0u_månsing",
+      "plural": "kundtjänster",
+      "def_plural": "kundtjänsterna"
+    },
+    {
+      "word": "kurragömma",
+      "paradigm": "nn_0u_hin",
+      "plural": "kurragömmor",
+      "def_plural": "kurragömmorna"
+    },
+    {
+      "word": "kvinnomisshandel",
+      "paradigm": "nn_0u_tro",
+      "plural": "kvinnomisshandeler",
+      "def_plural": "kvinnomisshandelerna"
+    },
+    {
+      "word": "kvällsmat",
+      "paradigm": "nn_0u_boskap",
+      "plural": "kvällsmater",
+      "def_plural": "kvällsmaterna"
+    },
+    {
+      "word": "kyla",
+      "paradigm": "nn_0u_svenska",
+      "plural": "kylor",
+      "def_plural": "kylorna"
+    },
+    {
+      "word": "källkod",
+      "paradigm": "nn_0u_boskap",
+      "plural": "källkoder",
+      "def_plural": "källkoderna"
+    },
+    {
+      "word": "kärlkramp",
+      "paradigm": "nn_0u_boskap",
+      "plural": "kärlkramper",
+      "def_plural": "kärlkramperna"
+    },
+    {
+      "word": "kärnkraft",
+      "paradigm": "nn_0u_kärnkraft",
+      "plural": "kärnkrafter",
+      "def_plural": "kärnkrafterna"
+    },
+    {
+      "word": "kål",
+      "paradigm": "nn_0u_mjölk",
+      "plural": "kåler",
+      "def_plural": "kålerna"
+    },
+    {
+      "word": "könsstympning",
+      "paradigm": "nn_0u_boskap",
+      "plural": "könsstympninger",
+      "def_plural": "könsstympningerna"
+    },
+    {
+      "word": "kött",
+      "paradigm": "nn_0n_dalt",
+      "plural": "kötter",
+      "def_plural": "kötterna"
+    },
+    {
+      "word": "köttfärs",
+      "paradigm": "nn_0u_månsing",
+      "plural": "köttfärser",
+      "def_plural": "köttfärserna"
+    },
+    {
+      "word": "lagring",
+      "paradigm": "nn_0u_boskap",
+      "plural": "lagringer",
+      "def_plural": "lagringerna"
+    },
+    {
+      "word": "laktos",
+      "paradigm": "nn_0u_månsing",
+      "plural": "laktoser",
+      "def_plural": "laktoserna"
+    },
+    {
+      "word": "landsbygd",
+      "paradigm": "nn_0u_boskap",
+      "plural": "landsbygder",
+      "def_plural": "landsbygderna"
+    },
+    {
+      "word": "latin",
+      "paradigm": "nn_0n_latin",
+      "plural": "latiner",
+      "def_plural": "latinerna"
+    },
+    {
+      "word": "leda",
+      "paradigm": "nn_0u_radar",
+      "plural": "ledor",
+      "def_plural": "ledorna"
+    },
+    {
+      "word": "lillebror",
+      "paradigm": "nn_0u_hin",
+      "plural": "lillebrorer",
+      "def_plural": "lillebrorerna"
+    },
+    {
+      "word": "lillhjärna",
+      "paradigm": "nn_0u_radar",
+      "plural": "lillhjärnor",
+      "def_plural": "lillhjärnorna"
+    },
+    {
+      "word": "livstid",
+      "paradigm": "nn_0u_boskap",
+      "plural": "livstider",
+      "def_plural": "livstiderna"
+    },
+    {
+      "word": "lokaltrafik",
+      "paradigm": "nn_0u_månsing",
+      "plural": "lokaltrafiker",
+      "def_plural": "lokaltrafikerna"
+    },
+    {
+      "word": "lov",
+      "paradigm": "nn_0n_dalt",
+      "plural": "lover",
+      "def_plural": "loverna"
+    },
+    {
+      "word": "lucia",
+      "paradigm": "nn_0u_hin",
+      "plural": "lucior",
+      "def_plural": "luciorna"
+    },
+    {
+      "word": "luffarschack",
+      "paradigm": "nn_0n_koksalt",
+      "plural": "luffarschacker",
+      "def_plural": "luffarschackerna"
+    },
+    {
+      "word": "luft",
+      "paradigm": "nn_0u_mjölk",
+      "plural": "lufter",
+      "def_plural": "lufterna"
+    },
+    {
+      "word": "lungcancer",
+      "paradigm": "nn_0u_radar",
+      "plural": "lungcancerer",
+      "def_plural": "lungcancererna"
+    },
+    {
+      "word": "läder",
+      "paradigm": "nn_0n_babbel",
+      "plural": "läderer",
+      "def_plural": "lädererna"
+    },
+    {
+      "word": "långvård",
+      "paradigm": "nn_0u_boskap",
+      "plural": "långvårder",
+      "def_plural": "långvårderna"
+    },
+    {
+      "word": "lördagsgodis",
+      "paradigm": "nn_0n_latin",
+      "plural": "lördagsgodiser",
+      "def_plural": "lördagsgodiserna"
+    },
+    {
+      "word": "magi",
+      "paradigm": "nn_0u_akribi",
+      "plural": "magier",
+      "def_plural": "magierna"
+    },
+    {
+      "word": "makt",
+      "paradigm": "nn_0u_mjölk",
+      "plural": "makter",
+      "def_plural": "makterna"
+    },
+    {
+      "word": "malaria",
+      "paradigm": "nn_0u_radar",
+      "plural": "malarior",
+      "def_plural": "malariorna"
+    },
+    {
+      "word": "manchester",
+      "paradigm": "nn_0u_radar",
+      "plural": "manchesterer",
+      "def_plural": "manchestererna"
+    },
+    {
+      "word": "manikyr",
+      "paradigm": "nn_0u_månsing",
+      "plural": "manikyrer",
+      "def_plural": "manikyrerna"
+    },
+    {
+      "word": "marijuana",
+      "paradigm": "nn_0u_radar",
+      "plural": "marijuanor",
+      "def_plural": "marijuanorna"
+    },
+    {
+      "word": "mascara",
+      "paradigm": "nn_0u_radar",
+      "plural": "mascaror",
+      "def_plural": "mascarorna"
+    },
+    {
+      "word": "mat",
+      "paradigm": "nn_0u_mjölk",
+      "plural": "mater",
+      "def_plural": "materna"
+    },
+    {
+      "word": "medeltid",
+      "paradigm": "nn_0u_boskap",
+      "plural": "medeltider",
+      "def_plural": "medeltiderna"
+    },
+    {
+      "word": "medhjälp",
+      "paradigm": "nn_0u_boskap",
+      "plural": "medhjälper",
+      "def_plural": "medhjälperna"
+    },
+    {
+      "word": "medley",
+      "paradigm": "nn_0u_radar",
+      "plural": "medleyer",
+      "def_plural": "medleyerna"
+    },
+    {
+      "word": "medverkan",
+      "paradigm": "nn_0u_samverkan",
+      "plural": "medverkaner",
+      "def_plural": "medverkanerna"
+    },
+    {
+      "word": "mejl",
+      "paradigm": "nn_0u_månsing",
+      "plural": "mejler",
+      "def_plural": "mejlerna"
+    },
+    {
+      "word": "melodifestival",
+      "paradigm": "nn_0u_månsing",
+      "plural": "melodifestivaler",
+      "def_plural": "melodifestivalerna"
+    },
+    {
+      "word": "messmör",
+      "paradigm": "nn_0n_koksalt",
+      "plural": "messmörer",
+      "def_plural": "messmörerna"
+    },
+    {
+      "word": "migrän",
+      "paradigm": "nn_0u_månsing",
+      "plural": "migräner",
+      "def_plural": "migränerna"
+    },
+    {
+      "word": "mint",
+      "paradigm": "nn_0u_mjölk",
+      "plural": "minter",
+      "def_plural": "minterna"
+    },
+    {
+      "word": "misshandel",
+      "paradigm": "nn_0u_tro",
+      "plural": "misshandeler",
+      "def_plural": "misshandelerna"
+    },
+    {
+      "word": "mobbning",
+      "paradigm": "nn_0u_boskap",
+      "plural": "mobbninger",
+      "def_plural": "mobbningerna"
+    },
+    {
+      "word": "mocka",
+      "paradigm": "nn_0u_radar",
+      "plural": "mockor",
+      "def_plural": "mockorna"
+    },
+    {
+      "word": "mod",
+      "paradigm": "nn_0n_dalt",
+      "plural": "moder",
+      "def_plural": "moderna"
+    },
+    {
+      "word": "moms",
+      "paradigm": "nn_0u_månsing",
+      "plural": "momser",
+      "def_plural": "momserna"
+    },
+    {
+      "word": "mos",
+      "paradigm": "nn_0n_dalt",
+      "plural": "moser",
+      "def_plural": "moserna"
+    },
+    {
+      "word": "myller",
+      "paradigm": "nn_0n_babbel",
+      "plural": "myllerer",
+      "def_plural": "myllererna"
+    },
+    {
+      "word": "människoson",
+      "paradigm": "nn_0u_boskap",
+      "plural": "människosoner",
+      "def_plural": "människosonerna"
+    },
+    {
+      "word": "mässling",
+      "paradigm": "nn_0u_boskap",
+      "plural": "mässlinger",
+      "def_plural": "mässlingerna"
+    },
+    {
+      "word": "mödravård",
+      "paradigm": "nn_0u_boskap",
+      "plural": "mödravårder",
+      "def_plural": "mödravårderna"
+    },
+    {
+      "word": "mögel",
+      "paradigm": "nn_0n_babbel",
+      "plural": "mögeler",
+      "def_plural": "mögelerna"
+    },
+    {
+      "word": "naturkunskap",
+      "paradigm": "nn_0u_boskap",
+      "plural": "naturkunskaper",
+      "def_plural": "naturkunskaperna"
+    },
+    {
+      "word": "naturlära",
+      "paradigm": "nn_0u_saltsyra",
+      "plural": "naturläror",
+      "def_plural": "naturlärorna"
+    },
+    {
+      "word": "nolltolerans",
+      "paradigm": "nn_0u_månsing",
+      "plural": "nolltoleranser",
+      "def_plural": "nolltoleranserna"
+    },
+    {
+      "word": "nord",
+      "paradigm": "nn_0u_mjölk",
+      "plural": "norder",
+      "def_plural": "norderna"
+    },
+    {
+      "word": "nyponsoppa",
+      "paradigm": "nn_0u_radar",
+      "plural": "nyponsoppor",
+      "def_plural": "nyponsopporna"
+    },
+    {
+      "word": "nässelfeber",
+      "paradigm": "nn_0u_radar",
+      "plural": "nässelfeberer",
+      "def_plural": "nässelfebererna"
+    },
+    {
+      "word": "nästäppa",
+      "paradigm": "nn_0u_radar",
+      "plural": "nästäppor",
+      "def_plural": "nästäpporna"
+    },
+    {
+      "word": "nåd",
+      "paradigm": "nn_0u_mjölk",
+      "plural": "nåder",
+      "def_plural": "nåderna"
+    },
+    {
+      "word": "nöd",
+      "paradigm": "nn_0u_mjölk",
+      "plural": "nöder",
+      "def_plural": "nöderna"
+    },
+    {
+      "word": "ocker",
+      "paradigm": "nn_0n_babbel",
+      "plural": "ockerer",
+      "def_plural": "ockererna"
+    },
+    {
+      "word": "olust",
+      "paradigm": "nn_0u_månsing",
+      "plural": "oluster",
+      "def_plural": "olusterna"
+    },
+    {
+      "word": "omkrets",
+      "paradigm": "nn_0u_månsing",
+      "plural": "omkretser",
+      "def_plural": "omkretserna"
+    },
+    {
+      "word": "onani",
+      "paradigm": "nn_0u_akribi",
+      "plural": "onanier",
+      "def_plural": "onanierna"
+    },
+    {
+      "word": "ondska",
+      "paradigm": "nn_0u_radar",
+      "plural": "ondskor",
+      "def_plural": "ondskorna"
+    },
+    {
+      "word": "origami",
+      "paradigm": "nn_0u_radar",
+      "plural": "origamier",
+      "def_plural": "origamierna"
+    },
+    {
+      "word": "osämja",
+      "paradigm": "nn_0u_tjockolja",
+      "plural": "osämjor",
+      "def_plural": "osämjorna"
+    },
+    {
+      "word": "otur",
+      "paradigm": "nn_0u_boskap",
+      "plural": "oturer",
+      "def_plural": "oturerna"
+    },
+    {
+      "word": "panikångest",
+      "paradigm": "nn_0u_månsing",
+      "plural": "panikångester",
+      "def_plural": "panikångesterna"
+    },
+    {
+      "word": "passgång",
+      "paradigm": "nn_0u_boskap",
+      "plural": "passgånger",
+      "def_plural": "passgångerna"
+    },
+    {
+      "word": "personkemi",
+      "paradigm": "nn_0u_akribi",
+      "plural": "personkemier",
+      "def_plural": "personkemierna"
+    },
+    {
+      "word": "poker",
+      "paradigm": "nn_0u_radar",
+      "plural": "pokerer",
+      "def_plural": "pokererna"
+    },
+    {
+      "word": "polis",
+      "paradigm": "nn_0u_månsing",
+      "plural": "poliser",
+      "def_plural": "poliserna"
+    },
+    {
+      "word": "pollen",
+      "paradigm": "nn_0n_latin",
+      "plural": "pollener",
+      "def_plural": "pollenerna"
+    },
+    {
+      "word": "post",
+      "paradigm": "nn_0u_månsing",
+      "plural": "poster",
+      "def_plural": "posterna"
+    },
+    {
+      "word": "potatismos",
+      "paradigm": "nn_0n_dalt",
+      "plural": "potatismoser",
+      "def_plural": "potatismoserna"
+    },
+    {
+      "word": "predikan",
+      "paradigm": "nn_0u_samverkan",
+      "plural": "predikaner",
+      "def_plural": "predikanerna"
+    },
+    {
+      "word": "predikatlogik",
+      "paradigm": "nn_0u_månsing",
+      "plural": "predikatlogiker",
+      "def_plural": "predikatlogikerna"
+    },
+    {
+      "word": "propaganda",
+      "paradigm": "nn_0u_radar",
+      "plural": "propagandor",
+      "def_plural": "propagandorna"
+    },
+    {
+      "word": "puder",
+      "paradigm": "nn_0n_babbel",
+      "plural": "puderer",
+      "def_plural": "pudererna"
+    },
+    {
+      "word": "punktskrift",
+      "paradigm": "nn_0u_boskap",
+      "plural": "punktskrifter",
+      "def_plural": "punktskrifterna"
+    },
+    {
+      "word": "putter",
+      "paradigm": "nn_0n_babbel",
+      "plural": "putterer",
+      "def_plural": "puttererna"
+    },
+    {
+      "word": "pyttipanna",
+      "paradigm": "nn_0u_radar",
+      "plural": "pyttipannor",
+      "def_plural": "pyttipannorna"
+    },
+    {
+      "word": "påskris",
+      "paradigm": "nn_0n_dalt",
+      "plural": "påskriser",
+      "def_plural": "påskriserna"
+    },
+    {
+      "word": "påssjuka",
+      "paradigm": "nn_0u_hemsjuka",
+      "plural": "påssjukor",
+      "def_plural": "påssjukorna"
+    },
+    {
+      "word": "rabarber",
+      "paradigm": "nn_0u_radar",
+      "plural": "rabarberer",
+      "def_plural": "rabarbererna"
+    },
+    {
+      "word": "ramadan",
+      "paradigm": "nn_0u_hin",
+      "plural": "ramadaner",
+      "def_plural": "ramadanerna"
+    },
+    {
+      "word": "rattfylleri",
+      "paradigm": "nn_0n_raseri",
+      "plural": "rattfyllerier",
+      "def_plural": "rattfyllerierna"
+    },
+    {
+      "word": "redundans",
+      "paradigm": "nn_0u_månsing",
+      "plural": "redundanser",
+      "def_plural": "redundanserna"
+    },
+    {
+      "word": "religionskunskap",
+      "paradigm": "nn_0u_boskap",
+      "plural": "religionskunskaper",
+      "def_plural": "religionskunskaperna"
+    },
+    {
+      "word": "respons",
+      "paradigm": "nn_0u_månsing",
+      "plural": "responser",
+      "def_plural": "responserna"
+    },
+    {
+      "word": "ridsport",
+      "paradigm": "nn_0u_boskap",
+      "plural": "ridsporter",
+      "def_plural": "ridsporterna"
+    },
+    {
+      "word": "risgrynsgröt",
+      "paradigm": "nn_0u_boskap",
+      "plural": "risgrynsgröter",
+      "def_plural": "risgrynsgröterna"
+    },
+    {
+      "word": "rom",
+      "paradigm": "nn_0u_skam",
+      "plural": "romer",
+      "def_plural": "romerna"
+    },
+    {
+      "word": "rost",
+      "paradigm": "nn_0u_månsing",
+      "plural": "roster",
+      "def_plural": "rosterna"
+    },
+    {
+      "word": "rotselleri",
+      "paradigm": "nn_0u_radar",
+      "plural": "rotsellerier",
+      "def_plural": "rotsellerierna"
+    },
+    {
+      "word": "rouge",
+      "paradigm": "nn_0n_syre",
+      "plural": "rougen",
+      "def_plural": "rougena"
+    },
+    {
+      "word": "ryggsim",
+      "paradigm": "nn_0n_skum",
+      "plural": "ryggsimer",
+      "def_plural": "ryggsimerna"
+    },
+    {
+      "word": "råg",
+      "paradigm": "nn_0u_mjölk",
+      "plural": "råger",
+      "def_plural": "rågerna"
+    },
+    {
+      "word": "röka",
+      "paradigm": "nn_0n_syre",
+      "plural": "rökor",
+      "def_plural": "rökorna"
+    },
+    {
+      "word": "röntgen",
+      "paradigm": "nn_0u_praxis",
+      "plural": "röntgener",
+      "def_plural": "röntgenerna"
+    },
+    {
+      "word": "röra",
+      "paradigm": "nn_0u_radar",
+      "plural": "röror",
+      "def_plural": "rörorna"
+    },
+    {
+      "word": "rösträtt",
+      "paradigm": "nn_0u_boskap",
+      "plural": "rösträtter",
+      "def_plural": "rösträtterna"
+    },
+    {
+      "word": "salami",
+      "paradigm": "nn_0u_radar",
+      "plural": "salamier",
+      "def_plural": "salamierna"
+    },
+    {
+      "word": "samhällskunskap",
+      "paradigm": "nn_0u_boskap",
+      "plural": "samhällskunskaper",
+      "def_plural": "samhällskunskaperna"
+    },
+    {
+      "word": "samlagsdebut",
+      "paradigm": "nn_0u_kärnkraft",
+      "plural": "samlagsdebuter",
+      "def_plural": "samlagsdebuterna"
+    },
+    {
+      "word": "sanningsvärde",
+      "paradigm": "nn_0n_syre",
+      "plural": "sanningsvärden",
+      "def_plural": "sanningsvärdena"
+    },
+    {
+      "word": "satan",
+      "paradigm": "nn_0u_samverkan",
+      "plural": "sataner",
+      "def_plural": "satanerna"
+    },
+    {
+      "word": "scenkonst",
+      "paradigm": "nn_0u_månsing",
+      "plural": "scenkonster",
+      "def_plural": "scenkonsterna"
+    },
+    {
+      "word": "schack",
+      "paradigm": "nn_0n_dalt",
+      "plural": "schacker",
+      "def_plural": "schackerna"
+    },
+    {
+      "word": "scharlakansfeber",
+      "paradigm": "nn_0u_radar",
+      "plural": "scharlakansfeberer",
+      "def_plural": "scharlakansfebererna"
+    },
+    {
+      "word": "schvung",
+      "paradigm": "nn_0u_månsing",
+      "plural": "schvunger",
+      "def_plural": "schvungerna"
+    },
+    {
+      "word": "sekretess",
+      "paradigm": "nn_0u_månsing",
+      "plural": "sekretesser",
+      "def_plural": "sekretesserna"
+    },
+    {
+      "word": "selleri",
+      "paradigm": "nn_0u_radar",
+      "plural": "sellerier",
+      "def_plural": "sellerierna"
+    },
+    {
+      "word": "semiotik",
+      "paradigm": "nn_0u_månsing",
+      "plural": "semiotiker",
+      "def_plural": "semiotikerna"
+    },
+    {
+      "word": "silvertejp",
+      "paradigm": "nn_0u_boskap",
+      "plural": "silvertejper",
+      "def_plural": "silvertejperna"
+    },
+    {
+      "word": "sjukgymnastik",
+      "paradigm": "nn_0u_månsing",
+      "plural": "sjukgymnastiker",
+      "def_plural": "sjukgymnastikerna"
+    },
+    {
+      "word": "sjukvård",
+      "paradigm": "nn_0u_boskap",
+      "plural": "sjukvårder",
+      "def_plural": "sjukvårderna"
+    },
+    {
+      "word": "sjukvårdspersonal",
+      "paradigm": "nn_0u_kärnkraft",
+      "plural": "sjukvårdspersonaler",
+      "def_plural": "sjukvårdspersonalerna"
+    },
+    {
+      "word": "själavård",
+      "paradigm": "nn_0u_boskap",
+      "plural": "själavårder",
+      "def_plural": "själavårderna"
+    },
+    {
+      "word": "självförtroende",
+      "paradigm": "nn_0n_syre",
+      "plural": "självförtroenden",
+      "def_plural": "självförtroendena"
+    },
+    {
+      "word": "självtäkt",
+      "paradigm": "nn_0u_boskap",
+      "plural": "självtäkter",
+      "def_plural": "självtäkterna"
+    },
+    {
+      "word": "sjöfylleri",
+      "paradigm": "nn_0n_raseri",
+      "plural": "sjöfyllerier",
+      "def_plural": "sjöfyllerierna"
+    },
+    {
+      "word": "skam",
+      "paradigm": "nn_0u_skam",
+      "plural": "skamer",
+      "def_plural": "skamerna"
+    },
+    {
+      "word": "skolpersonal",
+      "paradigm": "nn_0u_kärnkraft",
+      "plural": "skolpersonaler",
+      "def_plural": "skolpersonalerna"
+    },
+    {
+      "word": "skritt",
+      "paradigm": "nn_0u_månsing",
+      "plural": "skritter",
+      "def_plural": "skritterna"
+    },
+    {
+      "word": "skrot",
+      "paradigm": "nn_0n_dalt",
+      "plural": "skroter",
+      "def_plural": "skroterna"
+    },
+    {
+      "word": "skräp",
+      "paradigm": "nn_0n_dalt",
+      "plural": "skräper",
+      "def_plural": "skräperna"
+    },
+    {
+      "word": "skum",
+      "paradigm": "nn_0n_skum",
+      "plural": "skumer",
+      "def_plural": "skumerna"
+    },
+    {
+      "word": "slam",
+      "paradigm": "nn_0n_skum",
+      "plural": "slamer",
+      "def_plural": "slamerna"
+    },
+    {
+      "word": "slask",
+      "paradigm": "nn_0n_dalt",
+      "plural": "slasker",
+      "def_plural": "slaskerna"
+    },
+    {
+      "word": "slem",
+      "paradigm": "nn_0n_skum",
+      "plural": "slemer",
+      "def_plural": "slemerna"
+    },
+    {
+      "word": "slipning",
+      "paradigm": "nn_0u_boskap",
+      "plural": "slipninger",
+      "def_plural": "slipningerna"
+    },
+    {
+      "word": "smicker",
+      "paradigm": "nn_0n_babbel",
+      "plural": "smickerer",
+      "def_plural": "smickererna"
+    },
+    {
+      "word": "snusk",
+      "paradigm": "nn_0n_dalt",
+      "plural": "snusker",
+      "def_plural": "snuskerna"
+    },
+    {
+      "word": "snuva",
+      "paradigm": "nn_0u_radar",
+      "plural": "snuvor",
+      "def_plural": "snuvorna"
+    },
+    {
+      "word": "socialtjänst",
+      "paradigm": "nn_0u_månsing",
+      "plural": "socialtjänster",
+      "def_plural": "socialtjänsterna"
+    },
+    {
+      "word": "sockersjuka",
+      "paradigm": "nn_0u_hemsjuka",
+      "plural": "sockersjukor",
+      "def_plural": "sockersjukorna"
+    },
+    {
+      "word": "soja",
+      "paradigm": "nn_0u_radar",
+      "plural": "sojor",
+      "def_plural": "sojorna"
+    },
+    {
+      "word": "sol",
+      "paradigm": "nn_0u_mjölk",
+      "plural": "soler",
+      "def_plural": "solerna"
+    },
+    {
+      "word": "spagat",
+      "paradigm": "nn_0u_månsing",
+      "plural": "spagater",
+      "def_plural": "spagaterna"
+    },
+    {
+      "word": "spaghetti",
+      "paradigm": "nn_0u_radar",
+      "plural": "spaghettier",
+      "def_plural": "spaghettierna"
+    },
+    {
+      "word": "split",
+      "paradigm": "nn_0n_dalt",
+      "plural": "spliter",
+      "def_plural": "spliterna"
+    },
+    {
+      "word": "sprit",
+      "paradigm": "nn_0u_mjölk",
+      "plural": "spriter",
+      "def_plural": "spriterna"
+    },
+    {
+      "word": "språkpolitik",
+      "paradigm": "nn_0u_månsing",
+      "plural": "språkpolitiker",
+      "def_plural": "språkpolitikerna"
+    },
+    {
+      "word": "språkvård",
+      "paradigm": "nn_0u_boskap",
+      "plural": "språkvårder",
+      "def_plural": "språkvårderna"
+    },
+    {
+      "word": "spänst",
+      "paradigm": "nn_0u_månsing",
+      "plural": "spänster",
+      "def_plural": "spänsterna"
+    },
+    {
+      "word": "starksprit",
+      "paradigm": "nn_0u_boskap",
+      "plural": "starkspriter",
+      "def_plural": "starkspriterna"
+    },
+    {
+      "word": "statskyrka",
+      "paradigm": "nn_0u_hälsa",
+      "plural": "statskyrkor",
+      "def_plural": "statskyrkorna"
+    },
+    {
+      "word": "stepp",
+      "paradigm": "nn_0u_mjölk",
+      "plural": "stepper",
+      "def_plural": "stepperna"
+    },
+    {
+      "word": "storebror",
+      "paradigm": "nn_0u_hin",
+      "plural": "storebrorer",
+      "def_plural": "storebrorerna"
+    },
+    {
+      "word": "straffrätt",
+      "paradigm": "nn_0u_boskap",
+      "plural": "straffrätter",
+      "def_plural": "straffrätterna"
+    },
+    {
+      "word": "strul",
+      "paradigm": "nn_0n_dalt",
+      "plural": "struler",
+      "def_plural": "strulerna"
+    },
+    {
+      "word": "struma",
+      "paradigm": "nn_0u_radar",
+      "plural": "strumor",
+      "def_plural": "strumorna"
+    },
+    {
+      "word": "strösocker",
+      "paradigm": "nn_0n_babbel",
+      "plural": "strösockerer",
+      "def_plural": "strösockererna"
+    },
+    {
+      "word": "sushi",
+      "paradigm": "nn_0u_radar",
+      "plural": "sushier",
+      "def_plural": "sushierna"
+    },
+    {
+      "word": "svalka",
+      "paradigm": "nn_0u_radar",
+      "plural": "svalkor",
+      "def_plural": "svalkorna"
+    },
+    {
+      "word": "svartpeppar",
+      "paradigm": "nn_0u_radar",
+      "plural": "svartpepparer",
+      "def_plural": "svartpepparerna"
+    },
+    {
+      "word": "svavel",
+      "paradigm": "nn_0n_babbel",
+      "plural": "svaveler",
+      "def_plural": "svavelerna"
+    },
+    {
+      "word": "svett",
+      "paradigm": "nn_0u_mjölk",
+      "plural": "svetter",
+      "def_plural": "svetterna"
+    },
+    {
+      "word": "svindel",
+      "paradigm": "nn_0u_radar",
+      "plural": "svindeler",
+      "def_plural": "svindelerna"
+    },
+    {
+      "word": "svält",
+      "paradigm": "nn_0u_mjölk",
+      "plural": "svälter",
+      "def_plural": "svälterna"
+    },
+    {
+      "word": "syfilis",
+      "paradigm": "nn_0u_månsing",
+      "plural": "syfiliser",
+      "def_plural": "syfiliserna"
+    },
+    {
+      "word": "syntolkning",
+      "paradigm": "nn_0u_boskap",
+      "plural": "syntolkninger",
+      "def_plural": "syntolkningerna"
+    },
+    {
+      "word": "sädesvätska",
+      "paradigm": "nn_0u_tjockolja",
+      "plural": "sädesvätskor",
+      "def_plural": "sädesvätskorna"
+    },
+    {
+      "word": "sömn",
+      "paradigm": "nn_0u_mjölk",
+      "plural": "sömner",
+      "def_plural": "sömnerna"
+    },
+    {
+      "word": "sörja",
+      "paradigm": "nn_0u_radar",
+      "plural": "sörjor",
+      "def_plural": "sörjorna"
+    },
+    {
+      "word": "tafatt",
+      "paradigm": "nn_0u_hin",
+      "plural": "tafatter",
+      "def_plural": "tafatterna"
+    },
+    {
+      "word": "tandsten",
+      "paradigm": "nn_0u_boskap",
+      "plural": "tandstener",
+      "def_plural": "tandstenerna"
+    },
+    {
+      "word": "tandvärk",
+      "paradigm": "nn_0u_boskap",
+      "plural": "tandvärker",
+      "def_plural": "tandvärkerna"
+    },
+    {
+      "word": "tandvård",
+      "paradigm": "nn_0u_boskap",
+      "plural": "tandvårder",
+      "def_plural": "tandvårderna"
+    },
+    {
+      "word": "tangens",
+      "paradigm": "nn_0u_månsing",
+      "plural": "tangenser",
+      "def_plural": "tangenserna"
+    },
+    {
+      "word": "tenn",
+      "paradigm": "nn_0n_dalt",
+      "plural": "tenner",
+      "def_plural": "tennerna"
+    },
+    {
+      "word": "tequila",
+      "paradigm": "nn_0u_radar",
+      "plural": "tequilor",
+      "def_plural": "tequilorna"
+    },
+    {
+      "word": "testikelcancer",
+      "paradigm": "nn_0u_radar",
+      "plural": "testikelcancerer",
+      "def_plural": "testikelcancererna"
+    },
+    {
+      "word": "tillit",
+      "paradigm": "nn_0u_boskap",
+      "plural": "tilliter",
+      "def_plural": "tilliterna"
+    },
+    {
+      "word": "tillsyn",
+      "paradigm": "nn_0u_boskap",
+      "plural": "tillsyner",
+      "def_plural": "tillsynerna"
+    },
+    {
+      "word": "tjugoett",
+      "paradigm": "nn_0u_hin",
+      "plural": "tjugoetter",
+      "def_plural": "tjugoetterna"
+    },
+    {
+      "word": "toalettpapper",
+      "paradigm": "nn_0n_toapapper",
+      "plural": "toalettpapperer",
+      "def_plural": "toalettpappererna"
+    },
+    {
+      "word": "toast",
+      "paradigm": "nn_0u_månsing",
+      "plural": "toaster",
+      "def_plural": "toasterna"
+    },
+    {
+      "word": "tomatsås",
+      "paradigm": "nn_0u_månsing",
+      "plural": "tomatsåser",
+      "def_plural": "tomatsåserna"
+    },
+    {
+      "word": "tomträtt",
+      "paradigm": "nn_0u_boskap",
+      "plural": "tomträtter",
+      "def_plural": "tomträtterna"
+    },
+    {
+      "word": "toppform",
+      "paradigm": "nn_0u_boskap",
+      "plural": "toppformer",
+      "def_plural": "toppformerna"
+    },
+    {
+      "word": "torka",
+      "paradigm": "nn_0u_svenska",
+      "plural": "torkor",
+      "def_plural": "torkorna"
+    },
+    {
+      "word": "trafik",
+      "paradigm": "nn_0u_månsing",
+      "plural": "trafiker",
+      "def_plural": "trafikerna"
+    },
+    {
+      "word": "transfer",
+      "paradigm": "nn_0u_radar",
+      "plural": "transferer",
+      "def_plural": "transfererna"
+    },
+    {
+      "word": "triss",
+      "paradigm": "nn_0u_månsing",
+      "plural": "trisser",
+      "def_plural": "trisserna"
+    },
+    {
+      "word": "trots",
+      "paradigm": "nn_0n_dalt",
+      "plural": "trotser",
+      "def_plural": "trotserna"
+    },
+    {
+      "word": "träningsvärk",
+      "paradigm": "nn_0u_boskap",
+      "plural": "träningsvärker",
+      "def_plural": "träningsvärkerna"
+    },
+    {
+      "word": "träslöjd",
+      "paradigm": "nn_0u_kärnkraft",
+      "plural": "träslöjder",
+      "def_plural": "träslöjderna"
+    },
+    {
+      "word": "tur",
+      "paradigm": "nn_0u_mjölk",
+      "plural": "turer",
+      "def_plural": "turerna"
+    },
+    {
+      "word": "tyngdkraft",
+      "paradigm": "nn_0u_boskap",
+      "plural": "tyngdkrafter",
+      "def_plural": "tyngdkrafterna"
+    },
+    {
+      "word": "tystnadsplikt",
+      "paradigm": "nn_0u_boskap",
+      "plural": "tystnadsplikter",
+      "def_plural": "tystnadsplikterna"
+    },
+    {
+      "word": "undandräkt",
+      "paradigm": "nn_0u_boskap",
+      "plural": "undandräkter",
+      "def_plural": "undandräkterna"
+    },
+    {
+      "word": "underklass",
+      "paradigm": "nn_0u_månsing",
+      "plural": "underklasser",
+      "def_plural": "underklasserna"
+    },
+    {
+      "word": "upphovsrätt",
+      "paradigm": "nn_0u_boskap",
+      "plural": "upphovsrätter",
+      "def_plural": "upphovsrätterna"
+    },
+    {
+      "word": "uppkomst",
+      "paradigm": "nn_0u_månsing",
+      "plural": "uppkomster",
+      "def_plural": "uppkomsterna"
+    },
+    {
+      "word": "uppväxt",
+      "paradigm": "nn_0u_mjölk",
+      "plural": "uppväxter",
+      "def_plural": "uppväxterna"
+    },
+    {
+      "word": "urin",
+      "paradigm": "nn_0u_månsing",
+      "plural": "uriner",
+      "def_plural": "urinerna"
+    },
+    {
+      "word": "utrikespolitik",
+      "paradigm": "nn_0u_månsing",
+      "plural": "utrikespolitiker",
+      "def_plural": "utrikespolitikerna"
+    },
+    {
+      "word": "utrum",
+      "paradigm": "nn_0n_latin",
+      "plural": "utrumer",
+      "def_plural": "utrumerna"
+    },
+    {
+      "word": "valborg",
+      "paradigm": "nn_0u_hin",
+      "plural": "valborger",
+      "def_plural": "valborgerna"
+    },
+    {
+      "word": "vaniljsocker",
+      "paradigm": "nn_0n_babbel",
+      "plural": "vaniljsockerer",
+      "def_plural": "vaniljsockererna"
+    },
+    {
+      "word": "varpa",
+      "paradigm": "nn_0u_radar",
+      "plural": "varpor",
+      "def_plural": "varporna"
+    },
+    {
+      "word": "ved",
+      "paradigm": "nn_0u_mjölk",
+      "plural": "veder",
+      "def_plural": "vederna"
+    },
+    {
+      "word": "verklighetsflykt",
+      "paradigm": "nn_0u_boskap",
+      "plural": "verklighetsflykter",
+      "def_plural": "verklighetsflykterna"
+    },
+    {
+      "word": "vetorätt",
+      "paradigm": "nn_0u_boskap",
+      "plural": "vetorätter",
+      "def_plural": "vetorätterna"
+    },
+    {
+      "word": "vi",
+      "paradigm": "nn_0n_latin",
+      "plural": "vier",
+      "def_plural": "vierna"
+    },
+    {
+      "word": "vindkraft",
+      "paradigm": "nn_0u_kärnkraft",
+      "plural": "vindkrafter",
+      "def_plural": "vindkrafterna"
+    },
+    {
+      "word": "vodka",
+      "paradigm": "nn_0u_radar",
+      "plural": "vodkor",
+      "def_plural": "vodkorna"
+    },
+    {
+      "word": "volley",
+      "paradigm": "nn_0u_radar",
+      "plural": "volleyer",
+      "def_plural": "volleyerna"
+    },
+    {
+      "word": "välfärd",
+      "paradigm": "nn_0u_boskap",
+      "plural": "välfärder",
+      "def_plural": "välfärderna"
+    },
+    {
+      "word": "vänskap",
+      "paradigm": "nn_0u_boskap",
+      "plural": "vänskaper",
+      "def_plural": "vänskaperna"
+    },
+    {
+      "word": "värma",
+      "paradigm": "nn_0u_radar",
+      "plural": "värmor",
+      "def_plural": "värmorna"
+    },
+    {
+      "word": "värnplikt",
+      "paradigm": "nn_0u_boskap",
+      "plural": "värnplikter",
+      "def_plural": "värnplikterna"
+    },
+    {
+      "word": "vätskebrist",
+      "paradigm": "nn_0u_månsing",
+      "plural": "vätskebrister",
+      "def_plural": "vätskebristerna"
+    },
+    {
+      "word": "växthuseffekt",
+      "paradigm": "nn_0u_kärnkraft",
+      "plural": "växthuseffekter",
+      "def_plural": "växthuseffekterna"
+    },
+    {
+      "word": "wasabi",
+      "paradigm": "nn_0u_radar",
+      "plural": "wasabier",
+      "def_plural": "wasabierna"
+    },
+    {
+      "word": "whisky",
+      "paradigm": "nn_0u_radar",
+      "plural": "whiskyer",
+      "def_plural": "whiskyerna"
+    },
+    {
+      "word": "whist",
+      "paradigm": "nn_0u_månsing",
+      "plural": "whister",
+      "def_plural": "whisterna"
+    },
+    {
+      "word": "yoghurt",
+      "paradigm": "nn_0u_kärnkraft",
+      "plural": "yoghurter",
+      "def_plural": "yoghurterna"
+    },
+    {
+      "word": "yttranderätt",
+      "paradigm": "nn_0u_boskap",
+      "plural": "yttranderätter",
+      "def_plural": "yttranderätterna"
+    },
+    {
+      "word": "zenit",
+      "paradigm": "nn_0u_hin",
+      "plural": "zeniter",
+      "def_plural": "zeniterna"
+    },
+    {
+      "word": "zoom",
+      "paradigm": "nn_0u_månsing",
+      "plural": "zoomer",
+      "def_plural": "zoomerna"
+    },
+    {
+      "word": "äggröra",
+      "paradigm": "nn_0u_tjockolja",
+      "plural": "äggröror",
+      "def_plural": "äggrörorna"
+    },
+    {
+      "word": "äldreomsorg",
+      "paradigm": "nn_0u_boskap",
+      "plural": "äldreomsorger",
+      "def_plural": "äldreomsorgerna"
+    },
+    {
+      "word": "äldrevård",
+      "paradigm": "nn_0u_boskap",
+      "plural": "äldrevårder",
+      "def_plural": "äldrevårderna"
+    },
+    {
+      "word": "älgkött",
+      "paradigm": "nn_0n_koksalt",
+      "plural": "älgkötter",
+      "def_plural": "älgkötterna"
+    },
+    {
+      "word": "ära",
+      "paradigm": "nn_0u_tjockolja",
+      "plural": "äror",
+      "def_plural": "ärorna"
+    },
+    {
+      "word": "ärtsoppa",
+      "paradigm": "nn_0u_radar",
+      "plural": "ärtsoppor",
+      "def_plural": "ärtsopporna"
+    },
+    {
+      "word": "ättika",
+      "paradigm": "nn_0u_hemsjuka",
+      "plural": "ättikor",
+      "def_plural": "ättikorna"
+    },
+    {
+      "word": "ånger",
+      "paradigm": "nn_0u_radar",
+      "plural": "ångerer",
+      "def_plural": "ångererna"
+    },
+    {
+      "word": "ångerrätt",
+      "paradigm": "nn_0u_boskap",
+      "plural": "ångerrätter",
+      "def_plural": "ångerrätterna"
+    },
+    {
+      "word": "ångest",
+      "paradigm": "nn_0u_månsing",
+      "plural": "ångester",
+      "def_plural": "ångesterna"
+    },
+    {
+      "word": "åt",
+      "paradigm": "nn_0n_dalt",
+      "plural": "åter",
+      "def_plural": "återna"
+    },
+    {
+      "word": "önskan",
+      "paradigm": "nn_0u_samverkan",
+      "plural": "önskaner",
+      "def_plural": "önskanerna"
+    },
+    {
+      "word": "övertid",
+      "paradigm": "nn_0u_boskap",
+      "plural": "övertider",
+      "def_plural": "övertiderna"
+    },
+    {
+      "word": "övervikt",
+      "paradigm": "nn_0u_boskap",
+      "plural": "övervikter",
+      "def_plural": "övervikterna"
+    }
+  ],
+  "excluded": {
+    "language": [
+      "arabiska",
+      "arameiska",
+      "danska",
+      "engelska",
+      "finska",
+      "franska",
+      "hebreiska",
+      "italienska",
+      "norska",
+      "rikssvenska",
+      "ryska",
+      "spanska",
+      "svenska",
+      "tyska"
+    ],
+    "academic_field": [
+      "akrobatik",
+      "antropologi",
+      "arbetsterapi",
+      "aritmetik",
+      "astronomi",
+      "audiologi",
+      "biologi",
+      "datorlingvistik",
+      "didaktik",
+      "ekologi",
+      "erotik",
+      "etik",
+      "eugenik",
+      "fonetik",
+      "fonologi",
+      "forskningsetik",
+      "fysik",
+      "fysioterapi",
+      "geografi",
+      "geriatrik",
+      "grafik",
+      "gymnastik",
+      "keramik",
+      "kolik",
+      "korpuslingvistik",
+      "lexikologi",
+      "lingvistik",
+      "logik",
+      "matematik",
+      "mekanik",
+      "mimik",
+      "motorik",
+      "musik",
+      "mystik",
+      "nationalekonomi",
+      "neurologi",
+      "panik",
+      "pedagogik",
+      "politik",
+      "pragmatik",
+      "psykiatri",
+      "psykolingvistik",
+      "psykologi",
+      "rasbiologi",
+      "retorik",
+      "romantik",
+      "rytmik",
+      "semantik",
+      "sociolingvistik",
+      "språksociologi"
+    ],
+    "sport": [
+      "aikido",
+      "badminton",
+      "bandy",
+      "bangolf",
+      "baseboll",
+      "basket",
+      "basketboll",
+      "bordtennis",
+      "bowling",
+      "brännboll",
+      "bågskytte",
+      "crawl",
+      "curling",
+      "dart",
+      "fiske",
+      "flugfiske",
+      "fotboll",
+      "golf",
+      "handboll",
+      "ishockey",
+      "isracing",
+      "judo",
+      "karate",
+      "kendo",
+      "krocket",
+      "lerduveskytte",
+      "minigolf",
+      "pistolskytte",
+      "rugby",
+      "skidskytte",
+      "slalom",
+      "speedway",
+      "squash",
+      "storslalom",
+      "tennis",
+      "volleyboll",
+      "yoga"
+    ],
+    "mass_noun": [
+      "acne",
+      "akryl",
+      "aluminium",
+      "analsex",
+      "bensin",
+      "blomkål",
+      "bly",
+      "bomull",
+      "brysselkål",
+      "bröstmjölk",
+      "cannabis",
+      "cement",
+      "curry",
+      "dynamit",
+      "etanol",
+      "filmjölk",
+      "grus",
+      "grädde",
+      "gräddfil",
+      "gräslök",
+      "guld",
+      "halm",
+      "havre",
+      "herpes",
+      "hö",
+      "ischoklad",
+      "jäst",
+      "kanel",
+      "kaviar",
+      "ketchup",
+      "klor",
+      "kokos",
+      "kolsyra",
+      "koppar",
+      "kväve",
+      "linne",
+      "lättmjölk",
+      "majs",
+      "mandelmassa",
+      "marsipan",
+      "mjölk",
+      "mjölkchoklad",
+      "oralsex",
+      "peppar",
+      "psoriasis",
+      "rödlök",
+      "sammet",
+      "sand",
+      "senap",
+      "sex",
+      "silver",
+      "sirap",
+      "socker",
+      "spenat",
+      "syre",
+      "syrgas",
+      "timjan",
+      "tobak",
+      "ull",
+      "vanilj",
+      "vete",
+      "vitkål"
+    ],
+    "abstract": [
+      "action",
+      "advent",
+      "aids",
+      "allmakt",
+      "allmäntillstånd",
+      "allvar",
+      "ansvar",
+      "antik",
+      "april",
+      "aptit",
+      "arbetsglädje",
+      "augusti",
+      "casting",
+      "copyright",
+      "december",
+      "design",
+      "doping",
+      "dövblindhet",
+      "egenmäktighet",
+      "eld",
+      "februari",
+      "feedback",
+      "flerspråkighet",
+      "frost",
+      "förintelse",
+      "förlåtelse",
+      "förståelse",
+      "glädje",
+      "gödsel",
+      "hygien",
+      "input",
+      "istadighet",
+      "januari",
+      "juli",
+      "julpyssel",
+      "juni",
+      "kompledighet",
+      "känsel",
+      "lyx",
+      "maj",
+      "mars",
+      "midnatt",
+      "miljöförstörelse",
+      "mixed",
+      "natur",
+      "november",
+      "ohörsamhet",
+      "oktober",
+      "omtänksamhet",
+      "output",
+      "overhead",
+      "respekt",
+      "september",
+      "stress",
+      "strössel",
+      "support",
+      "tillgänglighet",
+      "trafficking",
+      "trans",
+      "trängsel",
+      "tvåspråkighet",
+      "uppståndelse"
+    ],
+    "no_paradigm": [
+      "A4",
+      "ALS",
+      "babord",
+      "be",
+      "Boston",
+      "CI",
+      "dags",
+      "Dramaten",
+      "enter",
+      "er",
+      "EU",
+      "fastan",
+      "finans",
+      "fri stil",
+      "ge",
+      "Grums",
+      "HIV",
+      "IP",
+      "Java",
+      "ju-jutsu",
+      "kabel-tv",
+      "Kasper",
+      "Kemi",
+      "Kina",
+      "Konsum",
+      "Lotto",
+      "Mars",
+      "Mississippi",
+      "må",
+      "ni",
+      "noll",
+      "nödvärn",
+      "ocr",
+      "othello",
+      "Panama",
+      "poker face",
+      "Rom",
+      "rot",
+      "se",
+      "skolinspektion",
+      "styrbord",
+      "synopsis",
+      "t-sprit",
+      "ta",
+      "topspin",
+      "Tor",
+      "Tornedalsfinska",
+      "tre takt",
+      "Triss",
+      "tv",
+      "TV3",
+      "usb",
+      "världsklass",
+      "www",
+      "öb"
+    ],
+    "other": [
+      "arbetsliv",
+      "beskydd",
+      "bistånd",
+      "faderskap",
+      "fastland",
+      "friluftsliv",
+      "föreningsliv",
+      "försvar",
+      "försörjningsstöd",
+      "förtal",
+      "förtryck",
+      "hälsotillstånd",
+      "håravfall",
+      "immunförsvar",
+      "insatsförsvar",
+      "kamratskap",
+      "kroppsspråk",
+      "kulturliv",
+      "magknip",
+      "motspel",
+      "nageltrång",
+      "norrsken",
+      "näringsliv",
+      "näsblod",
+      "potatismjöl",
+      "privatliv",
+      "sendrag",
+      "sexliv",
+      "sexmissbruk",
+      "självförsvar",
+      "skådebröd",
+      "smittskydd",
+      "solsken",
+      "språkbruk",
+      "ströbröd",
+      "tresteg",
+      "tvång",
+      "tålamod",
+      "understöd",
+      "utland",
+      "vuxenstudiestöd",
+      "väggspel",
+      "våld"
+    ]
+  },
+  "already_has_plural": 5300,
+  "no_substantiv": 7776
+}

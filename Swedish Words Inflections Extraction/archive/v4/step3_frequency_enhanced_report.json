@@ -1,0 +1,655 @@
+{
+  "statistics": {
+    "total_analyzed": 13781,
+    "noun_suppressed": 161,
+    "verb_from_lemma": 0,
+    "frequency_decisions": 161,
+    "low_frequency_skipped": 1
+  },
+  "decisions": [
+    {
+      "word": "absolut",
+      "action": "suppress_noun",
+      "reason": "adverb is primary (zipf=5.28)",
+      "ovrigt_pos": "ab",
+      "zipf": 5.28
+    },
+    {
+      "word": "adjö",
+      "action": "suppress_noun",
+      "reason": "interjektion is primary (zipf=3.61)",
+      "ovrigt_pos": "in",
+      "zipf": 3.61
+    },
+    {
+      "word": "akter",
+      "action": "suppress_noun",
+      "reason": "adverb is primary (zipf=3.49)",
+      "ovrigt_pos": "ab",
+      "zipf": 3.49
+    },
+    {
+      "word": "akut",
+      "action": "suppress_noun",
+      "reason": "adverb is primary (zipf=4.37)",
+      "ovrigt_pos": "ab",
+      "zipf": 4.37
+    },
+    {
+      "word": "allt",
+      "action": "suppress_noun",
+      "reason": "adverb is primary (zipf=6.19)",
+      "ovrigt_pos": "ab",
+      "zipf": 6.19
+    },
+    {
+      "word": "alternativ",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.99)",
+      "zipf": 4.99
+    },
+    {
+      "word": "arm",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.23)",
+      "zipf": 4.23
+    },
+    {
+      "word": "bar",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.72)",
+      "zipf": 4.72
+    },
+    {
+      "word": "bekant",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.46)",
+      "zipf": 4.46
+    },
+    {
+      "word": "beroende",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.95)",
+      "zipf": 4.95
+    },
+    {
+      "word": "botten",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.60)",
+      "zipf": 4.6
+    },
+    {
+      "word": "buss",
+      "action": "suppress_noun",
+      "reason": "interjektion is primary (zipf=4.60)",
+      "ovrigt_pos": "in",
+      "zipf": 4.6
+    },
+    {
+      "word": "central",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.31)",
+      "zipf": 4.31
+    },
+    {
+      "word": "dansk",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.48)",
+      "zipf": 4.48
+    },
+    {
+      "word": "dikt",
+      "action": "suppress_noun",
+      "reason": "adverb is primary (zipf=3.96)",
+      "ovrigt_pos": "ab",
+      "zipf": 3.96
+    },
+    {
+      "word": "djup",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.42)",
+      "zipf": 4.42
+    },
+    {
+      "word": "dokumentär",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.13)",
+      "zipf": 4.13
+    },
+    {
+      "word": "dubbel",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.34)",
+      "zipf": 4.34
+    },
+    {
+      "word": "död",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=5.47)",
+      "zipf": 5.47
+    },
+    {
+      "word": "express",
+      "action": "suppress_noun",
+      "reason": "adverb is primary (zipf=3.84)",
+      "ovrigt_pos": "ab",
+      "zipf": 3.84
+    },
+    {
+      "word": "extrem",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.13)",
+      "zipf": 4.13
+    },
+    {
+      "word": "fan",
+      "action": "suppress_noun",
+      "reason": "interjektion is primary (zipf=5.86)",
+      "ovrigt_pos": "in",
+      "zipf": 5.86
+    },
+    {
+      "word": "farväl",
+      "action": "suppress_noun",
+      "reason": "interjektion is primary (zipf=3.75)",
+      "ovrigt_pos": "in",
+      "zipf": 3.75
+    },
+    {
+      "word": "fel",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=5.80)",
+      "zipf": 5.8
+    },
+    {
+      "word": "fett",
+      "action": "suppress_noun",
+      "reason": "adverb is primary (zipf=4.54)",
+      "ovrigt_pos": "ab",
+      "zipf": 4.54
+    },
+    {
+      "word": "final",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.49)",
+      "zipf": 4.49
+    },
+    {
+      "word": "flott",
+      "action": "suppress_noun",
+      "reason": "adverb is primary (zipf=3.10)",
+      "ovrigt_pos": "ab",
+      "zipf": 3.1
+    },
+    {
+      "word": "fort",
+      "action": "suppress_noun",
+      "reason": "adverb is primary (zipf=5.21)",
+      "ovrigt_pos": "ab",
+      "zipf": 5.21
+    },
+    {
+      "word": "fortfarande",
+      "action": "suppress_noun",
+      "reason": "adverb is primary (zipf=5.69)",
+      "ovrigt_pos": "ab",
+      "zipf": 5.69
+    },
+    {
+      "word": "främmande",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.36)",
+      "zipf": 4.36
+    },
+    {
+      "word": "ful",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.33)",
+      "zipf": 4.33
+    },
+    {
+      "word": "föregående",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.21)",
+      "zipf": 4.21
+    },
+    {
+      "word": "genomgående",
+      "action": "suppress_noun",
+      "reason": "adverb is primary (zipf=3.77)",
+      "ovrigt_pos": "ab",
+      "zipf": 3.77
+    },
+    {
+      "word": "gift",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.83)",
+      "zipf": 4.83
+    },
+    {
+      "word": "glad",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=5.28)",
+      "zipf": 5.28
+    },
+    {
+      "word": "gott",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=5.48)",
+      "zipf": 5.48
+    },
+    {
+      "word": "grad",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.54)",
+      "zipf": 4.54
+    },
+    {
+      "word": "grav",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.02)",
+      "zipf": 4.02
+    },
+    {
+      "word": "grund",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=5.32)",
+      "zipf": 5.32
+    },
+    {
+      "word": "gud",
+      "action": "suppress_noun",
+      "reason": "interjektion is primary (zipf=5.20)",
+      "ovrigt_pos": "in",
+      "zipf": 5.2
+    },
+    {
+      "word": "Gud",
+      "action": "suppress_noun",
+      "reason": "interjektion is primary (zipf=5.20)",
+      "ovrigt_pos": "in",
+      "zipf": 5.2
+    },
+    {
+      "word": "ha",
+      "action": "suppress_noun",
+      "reason": "interjektion is primary (zipf=6.39)",
+      "ovrigt_pos": "in",
+      "zipf": 6.39
+    },
+    {
+      "word": "halleluja",
+      "action": "suppress_noun",
+      "reason": "interjektion is primary (zipf=3.30)",
+      "ovrigt_pos": "in",
+      "zipf": 3.3
+    },
+    {
+      "word": "hallå",
+      "action": "suppress_noun",
+      "reason": "interjektion is primary (zipf=4.75)",
+      "ovrigt_pos": "in",
+      "zipf": 4.75
+    },
+    {
+      "word": "halt",
+      "action": "suppress_noun",
+      "reason": "interjektion is primary (zipf=3.84)",
+      "ovrigt_pos": "in",
+      "zipf": 3.84
+    },
+    {
+      "word": "halv",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.86)",
+      "zipf": 4.86
+    },
+    {
+      "word": "hej",
+      "action": "suppress_noun",
+      "reason": "interjektion is primary (zipf=5.38)",
+      "ovrigt_pos": "in",
+      "zipf": 5.38
+    },
+    {
+      "word": "hel",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=5.21)",
+      "zipf": 5.21
+    },
+    {
+      "word": "helvete",
+      "action": "suppress_noun",
+      "reason": "interjektion is primary (zipf=5.28)",
+      "ovrigt_pos": "in",
+      "zipf": 5.28
+    },
+    {
+      "word": "hem",
+      "action": "suppress_noun",
+      "reason": "adverb is primary (zipf=5.78)",
+      "ovrigt_pos": "ab",
+      "zipf": 5.78
+    },
+    {
+      "word": "hit",
+      "action": "suppress_noun",
+      "reason": "adverb is primary (zipf=5.25)",
+      "ovrigt_pos": "ab",
+      "zipf": 5.25
+    },
+    {
+      "word": "host",
+      "action": "suppress_noun",
+      "reason": "interjektion is primary (zipf=3.70)",
+      "ovrigt_pos": "in",
+      "zipf": 3.7
+    },
+    {
+      "word": "hurra",
+      "action": "suppress_noun",
+      "reason": "interjektion is primary (zipf=4.08)",
+      "ovrigt_pos": "in",
+      "zipf": 4.08
+    },
+    {
+      "word": "här",
+      "action": "suppress_noun",
+      "reason": "adverb is primary (zipf=6.56)",
+      "ovrigt_pos": "ab",
+      "zipf": 6.56
+    },
+    {
+      "word": "hög",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=5.20)",
+      "zipf": 5.2
+    },
+    {
+      "word": "höger",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.95)",
+      "zipf": 4.95
+    },
+    {
+      "word": "höjd",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.62)",
+      "zipf": 4.62
+    },
+    {
+      "word": "in",
+      "action": "suppress_noun",
+      "reason": "adverb is primary (zipf=6.31)",
+      "ovrigt_pos": "ab",
+      "zipf": 6.31
+    },
+    {
+      "word": "ja",
+      "action": "suppress_noun",
+      "reason": "interjektion is primary (zipf=6.12)",
+      "ovrigt_pos": "in",
+      "zipf": 6.12
+    },
+    {
+      "word": "jo",
+      "action": "suppress_noun",
+      "reason": "interjektion is primary (zipf=5.41)",
+      "ovrigt_pos": "in",
+      "zipf": 5.41
+    },
+    {
+      "word": "jojo",
+      "action": "suppress_noun",
+      "reason": "interjektion is primary (zipf=3.54)",
+      "ovrigt_pos": "in",
+      "zipf": 3.54
+    },
+    {
+      "word": "junior",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.18)",
+      "zipf": 4.18
+    },
+    {
+      "word": "jätte",
+      "action": "suppress_noun",
+      "reason": "adverb is primary (zipf=4.59)",
+      "ovrigt_pos": "ab",
+      "zipf": 4.59
+    },
+    {
+      "word": "kall",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.40)",
+      "zipf": 4.4
+    },
+    {
+      "word": "kanon",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.18)",
+      "zipf": 4.18
+    },
+    {
+      "word": "kapital",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.29)",
+      "zipf": 4.29
+    },
+    {
+      "word": "knapp",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.18)",
+      "zipf": 4.18
+    },
+    {
+      "word": "konstant",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.42)",
+      "zipf": 4.42
+    },
+    {
+      "word": "kors",
+      "action": "suppress_noun",
+      "reason": "interjektion is primary (zipf=4.08)",
+      "ovrigt_pos": "in",
+      "zipf": 4.08
+    },
+    {
+      "word": "kort",
+      "action": "suppress_noun",
+      "reason": "adverb is primary (zipf=5.30)",
+      "ovrigt_pos": "ab",
+      "zipf": 5.3
+    },
+    {
+      "word": "led",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.40)",
+      "zipf": 4.4
+    },
+    {
+      "word": "levande",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.83)",
+      "zipf": 4.83
+    },
+    {
+      "word": "liberal",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.25)",
+      "zipf": 4.25
+    },
+    {
+      "word": "lik",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.37)",
+      "zipf": 4.37
+    },
+    {
+      "word": "lila",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.09)",
+      "zipf": 4.09
+    },
+    {
+      "word": "ljus",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.79)",
+      "zipf": 4.79
+    },
+    {
+      "word": "lokal",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.42)",
+      "zipf": 4.42
+    },
+    {
+      "word": "lovande",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.01)",
+      "zipf": 4.01
+    },
+    {
+      "word": "lugn",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.80)",
+      "zipf": 4.8
+    },
+    {
+      "word": "marsch",
+      "action": "suppress_noun",
+      "reason": "interjektion is primary (zipf=3.62)",
+      "ovrigt_pos": "in",
+      "zipf": 3.62
+    },
+    {
+      "word": "max",
+      "action": "suppress_noun",
+      "reason": "adverb is primary (zipf=4.96)",
+      "ovrigt_pos": "ab",
+      "zipf": 4.96
+    },
+    {
+      "word": "medel",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.53)",
+      "zipf": 4.53
+    },
+    {
+      "word": "militär",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.41)",
+      "zipf": 4.41
+    },
+    {
+      "word": "mobil",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.71)",
+      "zipf": 4.71
+    },
+    {
+      "word": "mörk",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.30)",
+      "zipf": 4.3
+    },
+    {
+      "word": "negativ",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.32)",
+      "zipf": 4.32
+    },
+    {
+      "word": "nej",
+      "action": "suppress_noun",
+      "reason": "interjektion is primary (zipf=5.89)",
+      "ovrigt_pos": "in",
+      "zipf": 5.89
+    },
+    {
+      "word": "normal",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.57)",
+      "zipf": 4.57
+    },
+    {
+      "word": "norr",
+      "action": "suppress_noun",
+      "reason": "adverb is primary (zipf=4.54)",
+      "ovrigt_pos": "ab",
+      "zipf": 4.54
+    },
+    {
+      "word": "nu",
+      "action": "suppress_noun",
+      "reason": "adverb is primary (zipf=6.57)",
+      "ovrigt_pos": "ab",
+      "zipf": 6.57
+    },
+    {
+      "word": "ny",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=5.57)",
+      "zipf": 5.57
+    },
+    {
+      "word": "nästa",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=5.55)",
+      "zipf": 5.55
+    },
+    {
+      "word": "O",
+      "action": "suppress_noun",
+      "reason": "interjektion is primary (zipf=5.47)",
+      "ovrigt_pos": "in",
+      "zipf": 5.47
+    },
+    {
+      "word": "oberoende",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.50)",
+      "zipf": 4.5
+    },
+    {
+      "word": "ok",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=5.29)",
+      "zipf": 5.29
+    },
+    {
+      "word": "ont",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=5.10)",
+      "zipf": 5.1
+    },
+    {
+      "word": "orange",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.16)",
+      "zipf": 4.16
+    },
+    {
+      "word": "ost",
+      "action": "suppress_noun",
+      "reason": "adverb is primary (zipf=4.45)",
+      "ovrigt_pos": "ab",
+      "zipf": 4.45
+    },
+    {
+      "word": "pass",
+      "action": "suppress_noun",
+      "reason": "interjektion is primary (zipf=4.87)",
+      "ovrigt_pos": "in",
+      "zipf": 4.87
+    },
+    {
+      "word": "permanent",
+      "action": "suppress_noun",
+      "reason": "Adjective is primary (zipf=4.32)",
+      "zipf": 4.32
+    }
+  ],
+  "total_decisions": 161
+}
