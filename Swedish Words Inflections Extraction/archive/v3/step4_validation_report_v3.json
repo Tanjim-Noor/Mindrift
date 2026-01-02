@@ -1,0 +1,528 @@
+{
+  "total_entries": 13872,
+  "valid_entries": 13872,
+  "invalid_entries": 0,
+  "entries_with_warnings": 341,
+  "entries_with_data": 8564,
+  "coverage_percentage": 61.73587081891581,
+  "class_distribution": {
+    "substantiv": 6122,
+    "adjektiv": 913,
+    "verb": 1134,
+    "övrigt": 739
+  },
+  "multi_class_counts": {
+    "adjektiv+övrigt": 22,
+    "adjektiv+substantiv": 67,
+    "substantiv+verb": 178,
+    "substantiv+övrigt": 55,
+    "substantiv+verb+övrigt": 2,
+    "verb+övrigt": 13,
+    "adjektiv+verb": 3,
+    "adjektiv+verb+övrigt": 1
+  },
+  "total_multi_class": 341,
+  "errors": [],
+  "warnings": [
+    {
+      "index": 77,
+      "ord": "absolut",
+      "warning": "Multi-class entry: ['adjektiv', 'övrigt']"
+    },
+    {
+      "index": 80,
+      "ord": "abstrakt",
+      "warning": "Multi-class entry: ['substantiv', 'adjektiv']"
+    },
+    {
+      "index": 137,
+      "ord": "aga",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 183,
+      "ord": "akut",
+      "warning": "Multi-class entry: ['adjektiv', 'övrigt']"
+    },
+    {
+      "index": 255,
+      "ord": "allomorf",
+      "warning": "Multi-class entry: ['substantiv', 'adjektiv']"
+    },
+    {
+      "index": 266,
+      "ord": "allting",
+      "warning": "Multi-class entry: ['substantiv', 'övrigt']"
+    },
+    {
+      "index": 301,
+      "ord": "amma",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 313,
+      "ord": "ana",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 443,
+      "ord": "antik",
+      "warning": "Multi-class entry: ['substantiv', 'adjektiv']"
+    },
+    {
+      "index": 616,
+      "ord": "aska",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 652,
+      "ord": "attan",
+      "warning": "Multi-class entry: ['substantiv', 'övrigt']"
+    },
+    {
+      "index": 730,
+      "ord": "avresa",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 740,
+      "ord": "avsky",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 782,
+      "ord": "babord",
+      "warning": "Multi-class entry: ['substantiv', 'övrigt']"
+    },
+    {
+      "index": 787,
+      "ord": "backa",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 838,
+      "ord": "bak",
+      "warning": "Multi-class entry: ['substantiv', 'övrigt']"
+    },
+    {
+      "index": 904,
+      "ord": "bang",
+      "warning": "Multi-class entry: ['substantiv', 'adjektiv']"
+    },
+    {
+      "index": 1006,
+      "ord": "be",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 1073,
+      "ord": "beige",
+      "warning": "Multi-class entry: ['substantiv', 'adjektiv']"
+    },
+    {
+      "index": 1154,
+      "ord": "besk",
+      "warning": "Multi-class entry: ['substantiv', 'adjektiv']"
+    },
+    {
+      "index": 1187,
+      "ord": "beta",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 1196,
+      "ord": "betjänt",
+      "warning": "Multi-class entry: ['substantiv', 'adjektiv']"
+    },
+    {
+      "index": 1244,
+      "ord": "bila",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 1281,
+      "ord": "binda",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 1289,
+      "ord": "bio",
+      "warning": "Multi-class entry: ['substantiv', 'övrigt']"
+    },
+    {
+      "index": 1427,
+      "ord": "blomma",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 1430,
+      "ord": "blond",
+      "warning": "Multi-class entry: ['substantiv', 'adjektiv']"
+    },
+    {
+      "index": 1448,
+      "ord": "bläddra",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 1459,
+      "ord": "blåsa",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 1472,
+      "ord": "bo",
+      "warning": "Multi-class entry: ['substantiv', 'verb', 'övrigt']"
+    },
+    {
+      "index": 1612,
+      "ord": "bra",
+      "warning": "Multi-class entry: ['adjektiv', 'övrigt']"
+    },
+    {
+      "index": 1627,
+      "ord": "brant",
+      "warning": "Multi-class entry: ['substantiv', 'adjektiv']"
+    },
+    {
+      "index": 1717,
+      "ord": "brygga",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 1734,
+      "ord": "bräda",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 1740,
+      "ord": "brännskada",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 1745,
+      "ord": "brådska",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 1747,
+      "ord": "bråka",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 1778,
+      "ord": "Buffa",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 1808,
+      "ord": "burka",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 1862,
+      "ord": "bäst",
+      "warning": "Multi-class entry: ['adjektiv', 'övrigt']"
+    },
+    {
+      "index": 1868,
+      "ord": "båda",
+      "warning": "Multi-class entry: ['substantiv', 'verb', 'övrigt']"
+    },
+    {
+      "index": 2073,
+      "ord": "Dadda",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 2169,
+      "ord": "defensiv",
+      "warning": "Multi-class entry: ['substantiv', 'adjektiv']"
+    },
+    {
+      "index": 2204,
+      "ord": "delta",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 2210,
+      "ord": "delvis",
+      "warning": "Multi-class entry: ['adjektiv', 'övrigt']"
+    },
+    {
+      "index": 2245,
+      "ord": "detektiv",
+      "warning": "Multi-class entry: ['substantiv', 'adjektiv']"
+    },
+    {
+      "index": 2298,
+      "ord": "direkt",
+      "warning": "Multi-class entry: ['adjektiv', 'övrigt']"
+    },
+    {
+      "index": 2386,
+      "ord": "docka",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 2409,
+      "ord": "dominant",
+      "warning": "Multi-class entry: ['substantiv', 'adjektiv']"
+    },
+    {
+      "index": 2450,
+      "ord": "drag",
+      "warning": "Multi-class entry: ['substantiv', 'övrigt']"
+    },
+    {
+      "index": 2475,
+      "ord": "dricka",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 2480,
+      "ord": "driva",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 2562,
+      "ord": "duva",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 2594,
+      "ord": "dö",
+      "warning": "Multi-class entry: ['verb', 'övrigt']"
+    },
+    {
+      "index": 2695,
+      "ord": "eko",
+      "warning": "Multi-class entry: ['substantiv', 'övrigt']"
+    },
+    {
+      "index": 2707,
+      "ord": "ekvivalent",
+      "warning": "Multi-class entry: ['substantiv', 'adjektiv']"
+    },
+    {
+      "index": 2744,
+      "ord": "elva",
+      "warning": "Multi-class entry: ['substantiv', 'övrigt']"
+    },
+    {
+      "index": 2756,
+      "ord": "en",
+      "warning": "Multi-class entry: ['substantiv', 'övrigt']"
+    },
+    {
+      "index": 2878,
+      "ord": "EU",
+      "warning": "Multi-class entry: ['substantiv', 'övrigt']"
+    },
+    {
+      "index": 2882,
+      "ord": "euro",
+      "warning": "Multi-class entry: ['substantiv', 'övrigt']"
+    },
+    {
+      "index": 2916,
+      "ord": "extern",
+      "warning": "Multi-class entry: ['substantiv', 'adjektiv']"
+    },
+    {
+      "index": 3007,
+      "ord": "fast",
+      "warning": "Multi-class entry: ['adjektiv', 'övrigt']"
+    },
+    {
+      "index": 3010,
+      "ord": "fasta",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 3086,
+      "ord": "fetma",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 3106,
+      "ord": "fika",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 3137,
+      "ord": "finlandssvensk",
+      "warning": "Multi-class entry: ['substantiv', 'adjektiv']"
+    },
+    {
+      "index": 3166,
+      "ord": "fix",
+      "warning": "Multi-class entry: ['substantiv', 'adjektiv']"
+    },
+    {
+      "index": 3187,
+      "ord": "flagga",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 3222,
+      "ord": "flott",
+      "warning": "Multi-class entry: ['adjektiv', 'övrigt']"
+    },
+    {
+      "index": 3228,
+      "ord": "fly",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 3257,
+      "ord": "fläta",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 3270,
+      "ord": "folk",
+      "warning": "Multi-class entry: ['substantiv', 'övrigt']"
+    },
+    {
+      "index": 3329,
+      "ord": "fossil",
+      "warning": "Multi-class entry: ['substantiv', 'adjektiv']"
+    },
+    {
+      "index": 3464,
+      "ord": "frossa",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 3487,
+      "ord": "främst",
+      "warning": "Multi-class entry: ['adjektiv', 'övrigt']"
+    },
+    {
+      "index": 3488,
+      "ord": "fråga",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 3541,
+      "ord": "fyra",
+      "warning": "Multi-class entry: ['substantiv', 'övrigt']"
+    },
+    {
+      "index": 3563,
+      "ord": "fälla",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 3581,
+      "ord": "färja",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 3591,
+      "ord": "få",
+      "warning": "Multi-class entry: ['verb', 'adjektiv']"
+    },
+    {
+      "index": 3623,
+      "ord": "föda",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 3639,
+      "ord": "för",
+      "warning": "Multi-class entry: ['substantiv', 'övrigt']"
+    },
+    {
+      "index": 3698,
+      "ord": "före",
+      "warning": "Multi-class entry: ['substantiv', 'övrigt']"
+    },
+    {
+      "index": 3924,
+      "ord": "gala",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 3976,
+      "ord": "ge",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 3987,
+      "ord": "gen",
+      "warning": "Multi-class entry: ['substantiv', 'adjektiv']"
+    },
+    {
+      "index": 3988,
+      "ord": "general",
+      "warning": "Multi-class entry: ['substantiv', 'övrigt']"
+    },
+    {
+      "index": 4003,
+      "ord": "genom",
+      "warning": "Multi-class entry: ['substantiv', 'övrigt']"
+    },
+    {
+      "index": 4050,
+      "ord": "gin",
+      "warning": "Multi-class entry: ['substantiv', 'adjektiv']"
+    },
+    {
+      "index": 4158,
+      "ord": "gratis",
+      "warning": "Multi-class entry: ['adjektiv', 'övrigt']"
+    },
+    {
+      "index": 4227,
+      "ord": "grädda",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 4296,
+      "ord": "gunga",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 4369,
+      "ord": "gömma",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 4371,
+      "ord": "göra",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 4386,
+      "ord": "ha",
+      "warning": "Multi-class entry: ['verb', 'övrigt']"
+    },
+    {
+      "index": 4394,
+      "ord": "hacka",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 4408,
+      "ord": "haka",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 4417,
+      "ord": "halka",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    },
+    {
+      "index": 4443,
+      "ord": "halt",
+      "warning": "Multi-class entry: ['adjektiv', 'övrigt']"
+    },
+    {
+      "index": 4585,
+      "ord": "hela",
+      "warning": "Multi-class entry: ['substantiv', 'verb']"
+    }
+  ]
+}

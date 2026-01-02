@@ -1,0 +1,30 @@
+{
+  "summary": {
+    "utrum_en_fixes": 1,
+    "utrum_n_fixes": 0,
+    "neutrum_t_fixes": 0,
+    "total_noun_fixes": 1,
+    "adjective_fixes": 1,
+    "total_modified": 2
+  },
+  "detailed_counts": {
+    "utrum_loanword_én": 1
+  },
+  "all_fixes": [
+    {
+      "word": "a-social",
+      "type": "adjective",
+      "fix_type": "hyphenated_null_comparison",
+      "description": "Nulled: a-socialare/a-socialast"
+    },
+    {
+      "word": "abbe",
+      "type": "noun",
+      "fix_type": "utrum_loanword_én",
+      "old": "abbe",
+      "new": "abbén",
+      "gender": "utrum",
+      "paradigm": "pm_mph_sture"
+    }
+  ]
+}

@@ -1,0 +1,1048 @@
+{
+  "total_entries": 13872,
+  "processing_time_seconds": 0.24352622032165527,
+  "inflection_counts": {
+    "nouns_with_forms": 6274,
+    "verbs_with_forms": 1134,
+    "adjectives_with_forms": 913,
+    "other_with_info": 739,
+    "multi_class_entries": 461
+  },
+  "class_combinations": {
+    "substantiv": 5841,
+    "none": 5287,
+    "verb": 934,
+    "adjektiv": 757,
+    "övrigt": 592,
+    "substantiv+verb": 181,
+    "adjektiv+substantiv": 130,
+    "substantiv+övrigt": 109,
+    "adjektiv+övrigt": 16,
+    "verb+övrigt": 9,
+    "adjektiv+substantiv+övrigt": 6,
+    "substantiv+verb+övrigt": 6,
+    "adjektiv+verb": 2,
+    "adjektiv+verb+övrigt": 1,
+    "adjektiv+substantiv+verb": 1
+  },
+  "sample_multi_class": [
+    {
+      "ord": "absolut",
+      "substantiv": null,
+      "verb": null,
+      "adjektiv": {
+        "positiv": "absolut",
+        "komparativ": "absolutare",
+        "superlativ": "absolutast"
+      },
+      "övrigt": "adverb (oböjligt)",
+      "_metadata": {
+        "primary_class": "adjektiv",
+        "all_pos": [
+          "av",
+          "pm",
+          "ab"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 3,
+        "classes_populated": [
+          "adjektiv",
+          "övrigt"
+        ],
+        "notes": [
+          "Adjective forms from av_1_akut",
+          "Övrigt info: adverb (oböjligt)"
+        ]
+      }
+    },
+    {
+      "ord": "abstrakt",
+      "substantiv": {
+        "singular": "abstrakt",
+        "plural": "abstrakter",
+        "bestämd_singular": "abstraktet",
+        "bestämd_plural": "abstrakterna"
+      },
+      "verb": null,
+      "adjektiv": {
+        "positiv": "abstrakt",
+        "komparativ": "abstraktare",
+        "superlativ": "abstraktast"
+      },
+      "övrigt": null,
+      "_metadata": {
+        "primary_class": "adjektiv",
+        "all_pos": [
+          "av",
+          "nn"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 7,
+        "classes_populated": [
+          "adjektiv",
+          "substantiv"
+        ],
+        "notes": [
+          "Adjective forms from av_1_akut",
+          "Noun forms from nn_3n_gift"
+        ]
+      }
+    },
+    {
+      "ord": "aga",
+      "substantiv": {
+        "singular": "aga",
+        "plural": null,
+        "bestämd_singular": "agan",
+        "bestämd_plural": null
+      },
+      "verb": {
+        "infinitiv": "aga",
+        "presens": "agar",
+        "preteritum": "agade",
+        "supinum": "agat",
+        "particip": "agande"
+      },
+      "adjektiv": null,
+      "övrigt": null,
+      "_metadata": {
+        "primary_class": "verb",
+        "all_pos": [
+          "vb",
+          "nn"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 7,
+        "classes_populated": [
+          "verb",
+          "substantiv"
+        ],
+        "notes": [
+          "Verb forms from vb_1a_laga",
+          "Noun forms from nn_0u_radar"
+        ]
+      }
+    },
+    {
+      "ord": "akter",
+      "substantiv": {
+        "singular": "akter",
+        "plural": "aktrar",
+        "bestämd_singular": "aktern",
+        "bestämd_plural": "aktrarna"
+      },
+      "verb": null,
+      "adjektiv": null,
+      "övrigt": "adverb (oböjligt)",
+      "_metadata": {
+        "primary_class": "substantiv",
+        "all_pos": [
+          "nn",
+          "ab"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 4,
+        "classes_populated": [
+          "substantiv",
+          "övrigt"
+        ],
+        "notes": [
+          "Noun forms from nn_2u_nyckel",
+          "Övrigt info: adverb (oböjligt)"
+        ]
+      }
+    },
+    {
+      "ord": "akut",
+      "substantiv": {
+        "singular": "akut",
+        "plural": "akuter",
+        "bestämd_singular": "akuten",
+        "bestämd_plural": "akuterna"
+      },
+      "verb": null,
+      "adjektiv": {
+        "positiv": "akut",
+        "komparativ": "akutare",
+        "superlativ": "akutast"
+      },
+      "övrigt": "adverb (oböjligt)",
+      "_metadata": {
+        "primary_class": "adjektiv",
+        "all_pos": [
+          "av",
+          "ab",
+          "nn"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 7,
+        "classes_populated": [
+          "adjektiv",
+          "substantiv",
+          "övrigt"
+        ],
+        "notes": [
+          "Adjective forms from av_1_akut",
+          "Noun forms from nn_3u_film",
+          "Övrigt info: adverb (oböjligt)"
+        ]
+      }
+    },
+    {
+      "ord": "allomorf",
+      "substantiv": {
+        "singular": "allomorf",
+        "plural": "allomorfer",
+        "bestämd_singular": "allomorfen",
+        "bestämd_plural": "allomorferna"
+      },
+      "verb": null,
+      "adjektiv": {
+        "positiv": "allomorf",
+        "komparativ": null,
+        "superlativ": null
+      },
+      "övrigt": null,
+      "_metadata": {
+        "primary_class": "adjektiv",
+        "all_pos": [
+          "av",
+          "nn"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 5,
+        "classes_populated": [
+          "adjektiv",
+          "substantiv"
+        ],
+        "notes": [
+          "Adjective forms from av_0_medelstor",
+          "Noun forms from nn_3u_karbid"
+        ]
+      }
+    },
+    {
+      "ord": "allt",
+      "substantiv": {
+        "singular": "allt",
+        "plural": null,
+        "bestämd_singular": "alltet",
+        "bestämd_plural": null
+      },
+      "verb": null,
+      "adjektiv": null,
+      "övrigt": "adverb (oböjligt)",
+      "_metadata": {
+        "primary_class": "substantiv",
+        "all_pos": [
+          "ab",
+          "nn"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 2,
+        "classes_populated": [
+          "substantiv",
+          "övrigt"
+        ],
+        "notes": [
+          "Noun forms from nn_0n_dalt",
+          "Övrigt info: adverb (oböjligt)"
+        ]
+      }
+    },
+    {
+      "ord": "allting",
+      "substantiv": {
+        "singular": "allting",
+        "plural": "allting",
+        "bestämd_singular": "alltinget",
+        "bestämd_plural": "alltingen"
+      },
+      "verb": null,
+      "adjektiv": null,
+      "övrigt": "pronomen",
+      "_metadata": {
+        "primary_class": "substantiv",
+        "all_pos": [
+          "pn",
+          "nn"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 4,
+        "classes_populated": [
+          "substantiv",
+          "övrigt"
+        ],
+        "notes": [
+          "Noun forms from nn_6n_bord",
+          "Övrigt info: pronomen"
+        ]
+      }
+    },
+    {
+      "ord": "alternativ",
+      "substantiv": {
+        "singular": "alternativ",
+        "plural": "alternativ",
+        "bestämd_singular": "alternativet",
+        "bestämd_plural": "alternativen"
+      },
+      "verb": null,
+      "adjektiv": {
+        "positiv": "alternativ",
+        "komparativ": "alternativare",
+        "superlativ": "alternativast"
+      },
+      "övrigt": null,
+      "_metadata": {
+        "primary_class": "adjektiv",
+        "all_pos": [
+          "av",
+          "nn"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 7,
+        "classes_populated": [
+          "adjektiv",
+          "substantiv"
+        ],
+        "notes": [
+          "Adjective forms from av_1_gul",
+          "Noun forms from nn_6n_system"
+        ]
+      }
+    },
+    {
+      "ord": "amma",
+      "substantiv": {
+        "singular": "amma",
+        "plural": "ammor",
+        "bestämd_singular": "amman",
+        "bestämd_plural": "ammorna"
+      },
+      "verb": {
+        "infinitiv": "amma",
+        "presens": "ammar",
+        "preteritum": "ammade",
+        "supinum": "ammat",
+        "particip": "ammande"
+      },
+      "adjektiv": null,
+      "övrigt": null,
+      "_metadata": {
+        "primary_class": "verb",
+        "all_pos": [
+          "vb",
+          "nn"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 9,
+        "classes_populated": [
+          "verb",
+          "substantiv"
+        ],
+        "notes": [
+          "Verb forms from vb_1a_beundra",
+          "Noun forms from nn_1u_flicka"
+        ]
+      }
+    },
+    {
+      "ord": "ana",
+      "substantiv": {
+        "singular": "ana",
+        "plural": "anor",
+        "bestämd_singular": "anan",
+        "bestämd_plural": "anorna"
+      },
+      "verb": {
+        "infinitiv": "ana",
+        "presens": "anar",
+        "preteritum": "anade",
+        "supinum": "anat",
+        "particip": "anande"
+      },
+      "adjektiv": null,
+      "övrigt": null,
+      "_metadata": {
+        "primary_class": "verb",
+        "all_pos": [
+          "pm",
+          "vb"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 9,
+        "classes_populated": [
+          "substantiv",
+          "verb"
+        ],
+        "notes": [
+          "Noun forms from pm_fph_lisa",
+          "Verb forms from vb_1a_beundra"
+        ]
+      }
+    },
+    {
+      "ord": "antik",
+      "substantiv": {
+        "singular": "antik",
+        "plural": null,
+        "bestämd_singular": "antiken",
+        "bestämd_plural": null
+      },
+      "verb": null,
+      "adjektiv": {
+        "positiv": "antik",
+        "komparativ": "antikare",
+        "superlativ": "antikast"
+      },
+      "övrigt": null,
+      "_metadata": {
+        "primary_class": "adjektiv",
+        "all_pos": [
+          "av",
+          "nn"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 5,
+        "classes_populated": [
+          "adjektiv",
+          "substantiv"
+        ],
+        "notes": [
+          "Adjective forms from av_1_gul",
+          "Noun forms from nn_0u_månsing"
+        ]
+      }
+    },
+    {
+      "ord": "arm",
+      "substantiv": {
+        "singular": "arm",
+        "plural": "armar",
+        "bestämd_singular": "armen",
+        "bestämd_plural": "armarna"
+      },
+      "verb": null,
+      "adjektiv": {
+        "positiv": "arm",
+        "komparativ": "armare",
+        "superlativ": "armast"
+      },
+      "övrigt": null,
+      "_metadata": {
+        "primary_class": "adjektiv",
+        "all_pos": [
+          "nn",
+          "av"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 7,
+        "classes_populated": [
+          "substantiv",
+          "adjektiv"
+        ],
+        "notes": [
+          "Noun forms from nn_2u_sten",
+          "Adjective forms from av_1_gul"
+        ]
+      }
+    },
+    {
+      "ord": "aska",
+      "substantiv": {
+        "singular": "aska",
+        "plural": null,
+        "bestämd_singular": "askan",
+        "bestämd_plural": null
+      },
+      "verb": {
+        "infinitiv": "aska",
+        "presens": "askar",
+        "preteritum": "askade",
+        "supinum": "askat",
+        "particip": "askande"
+      },
+      "adjektiv": null,
+      "övrigt": null,
+      "_metadata": {
+        "primary_class": "verb",
+        "all_pos": [
+          "nn",
+          "vb"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 7,
+        "classes_populated": [
+          "substantiv",
+          "verb"
+        ],
+        "notes": [
+          "Noun forms from nn_0u_svenska",
+          "Verb forms from vb_1a_laga"
+        ]
+      }
+    },
+    {
+      "ord": "attan",
+      "substantiv": {
+        "singular": "attan",
+        "plural": null,
+        "bestämd_singular": null,
+        "bestämd_plural": null
+      },
+      "verb": null,
+      "adjektiv": null,
+      "övrigt": "interjektion (oböjligt)",
+      "_metadata": {
+        "primary_class": "substantiv",
+        "all_pos": [
+          "nn",
+          "in"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 1,
+        "classes_populated": [
+          "substantiv",
+          "övrigt"
+        ],
+        "notes": [
+          "Noun forms from nn_0u_hin",
+          "Övrigt info: interjektion (oböjligt)"
+        ]
+      }
+    },
+    {
+      "ord": "avresa",
+      "substantiv": {
+        "singular": "avresa",
+        "plural": "avresor",
+        "bestämd_singular": "avresan",
+        "bestämd_plural": "avresorna"
+      },
+      "verb": {
+        "infinitiv": "avresa",
+        "presens": "avreser",
+        "preteritum": "avreste",
+        "supinum": "avrest",
+        "particip": "avresande"
+      },
+      "adjektiv": null,
+      "övrigt": null,
+      "_metadata": {
+        "primary_class": "verb",
+        "all_pos": [
+          "vb",
+          "nn"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 9,
+        "classes_populated": [
+          "verb",
+          "substantiv"
+        ],
+        "notes": [
+          "Verb forms from vb_2a_ansöka",
+          "Noun forms from nn_1u_olja"
+        ]
+      }
+    },
+    {
+      "ord": "avsky",
+      "substantiv": {
+        "singular": "avsky",
+        "plural": null,
+        "bestämd_singular": "avskyn",
+        "bestämd_plural": null
+      },
+      "verb": {
+        "infinitiv": "avsky",
+        "presens": "avskyr",
+        "preteritum": "avskydde",
+        "supinum": "avskytt",
+        "particip": "avskyende"
+      },
+      "adjektiv": null,
+      "övrigt": null,
+      "_metadata": {
+        "primary_class": "verb",
+        "all_pos": [
+          "vb",
+          "nn"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 7,
+        "classes_populated": [
+          "verb",
+          "substantiv"
+        ],
+        "notes": [
+          "Verb forms from vb_3a_sy",
+          "Noun forms from nn_0u_radar"
+        ]
+      }
+    },
+    {
+      "ord": "babord",
+      "substantiv": {
+        "singular": "babord",
+        "plural": null,
+        "bestämd_singular": null,
+        "bestämd_plural": null
+      },
+      "verb": null,
+      "adjektiv": null,
+      "övrigt": "adverb (oböjligt)",
+      "_metadata": {
+        "primary_class": "substantiv",
+        "all_pos": [
+          "ab",
+          "nn"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 1,
+        "classes_populated": [
+          "substantiv",
+          "övrigt"
+        ],
+        "notes": [
+          "Noun forms from nn_iu_vank",
+          "Övrigt info: adverb (oböjligt)"
+        ]
+      }
+    },
+    {
+      "ord": "backa",
+      "substantiv": {
+        "singular": "backa",
+        "plural": "backor",
+        "bestämd_singular": "backan",
+        "bestämd_plural": "backorna"
+      },
+      "verb": {
+        "infinitiv": "backa",
+        "presens": "backar",
+        "preteritum": "backade",
+        "supinum": "backat",
+        "particip": "backande"
+      },
+      "adjektiv": null,
+      "övrigt": null,
+      "_metadata": {
+        "primary_class": "verb",
+        "all_pos": [
+          "vb",
+          "nn"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 9,
+        "classes_populated": [
+          "verb",
+          "substantiv"
+        ],
+        "notes": [
+          "Verb forms from vb_1a_laga",
+          "Noun forms from nn_1u_flicka"
+        ]
+      }
+    },
+    {
+      "ord": "bak",
+      "substantiv": {
+        "singular": "bak",
+        "plural": "bakar",
+        "bestämd_singular": "baken",
+        "bestämd_plural": "bakarna"
+      },
+      "verb": null,
+      "adjektiv": null,
+      "övrigt": "preposition (oböjligt)",
+      "_metadata": {
+        "primary_class": "substantiv",
+        "all_pos": [
+          "pp",
+          "nn"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 4,
+        "classes_populated": [
+          "substantiv",
+          "övrigt"
+        ],
+        "notes": [
+          "Noun forms from nn_2u_sten",
+          "Övrigt info: preposition (oböjligt)"
+        ]
+      }
+    },
+    {
+      "ord": "bang",
+      "substantiv": {
+        "singular": "bang",
+        "plural": "bangar",
+        "bestämd_singular": "bangen",
+        "bestämd_plural": "bangarna"
+      },
+      "verb": null,
+      "adjektiv": {
+        "positiv": "bang",
+        "komparativ": "bangare",
+        "superlativ": "bangast"
+      },
+      "övrigt": null,
+      "_metadata": {
+        "primary_class": "adjektiv",
+        "all_pos": [
+          "pm",
+          "nn",
+          "av"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 7,
+        "classes_populated": [
+          "substantiv",
+          "adjektiv"
+        ],
+        "notes": [
+          "Noun forms from nn_2u_stol",
+          "Adjective forms from av_1_gul"
+        ]
+      }
+    },
+    {
+      "ord": "bar",
+      "substantiv": {
+        "singular": "bar",
+        "plural": "barer",
+        "bestämd_singular": "baren",
+        "bestämd_plural": "barerna"
+      },
+      "verb": null,
+      "adjektiv": {
+        "positiv": "bar",
+        "komparativ": "barare",
+        "superlativ": "barast"
+      },
+      "övrigt": null,
+      "_metadata": {
+        "primary_class": "adjektiv",
+        "all_pos": [
+          "av",
+          "nn"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 7,
+        "classes_populated": [
+          "adjektiv",
+          "substantiv"
+        ],
+        "notes": [
+          "Adjective forms from av_1_gul",
+          "Noun forms from nn_3u_tid"
+        ]
+      }
+    },
+    {
+      "ord": "be",
+      "substantiv": {
+        "singular": "be",
+        "plural": null,
+        "bestämd_singular": null,
+        "bestämd_plural": null
+      },
+      "verb": {
+        "infinitiv": "be",
+        "presens": "ber",
+        "preteritum": "bad",
+        "supinum": "bett",
+        "particip": "beende"
+      },
+      "adjektiv": null,
+      "övrigt": null,
+      "_metadata": {
+        "primary_class": "verb",
+        "all_pos": [
+          "vb",
+          "nna"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 6,
+        "classes_populated": [
+          "verb",
+          "substantiv"
+        ],
+        "notes": [
+          "Verb forms from vb_4a_be",
+          "Noun forms from nna_0n_hk"
+        ]
+      }
+    },
+    {
+      "ord": "beige",
+      "substantiv": {
+        "singular": "beige",
+        "plural": null,
+        "bestämd_singular": null,
+        "bestämd_plural": null
+      },
+      "verb": null,
+      "adjektiv": {
+        "positiv": "beige",
+        "komparativ": "beigare",
+        "superlativ": "beigast"
+      },
+      "övrigt": null,
+      "_metadata": {
+        "primary_class": "adjektiv",
+        "all_pos": [
+          "av",
+          "nn"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 4,
+        "classes_populated": [
+          "adjektiv",
+          "substantiv"
+        ],
+        "notes": [
+          "Adjective forms from av_1_orange",
+          "Noun forms from nn_0u_hin"
+        ]
+      }
+    },
+    {
+      "ord": "bekant",
+      "substantiv": {
+        "singular": "bekant",
+        "plural": "bekanter",
+        "bestämd_singular": "bekanten",
+        "bestämd_plural": "bekanterna"
+      },
+      "verb": null,
+      "adjektiv": {
+        "positiv": "bekant",
+        "komparativ": "bekantare",
+        "superlativ": "bekantast"
+      },
+      "övrigt": null,
+      "_metadata": {
+        "primary_class": "adjektiv",
+        "all_pos": [
+          "av",
+          "nn"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 7,
+        "classes_populated": [
+          "adjektiv",
+          "substantiv"
+        ],
+        "notes": [
+          "Adjective forms from av_1_akut",
+          "Noun forms from nn_ou_bekant"
+        ]
+      }
+    },
+    {
+      "ord": "besk",
+      "substantiv": {
+        "singular": "besk",
+        "plural": "beskar",
+        "bestämd_singular": "besken",
+        "bestämd_plural": "beskarna"
+      },
+      "verb": null,
+      "adjektiv": {
+        "positiv": "besk",
+        "komparativ": "beskare",
+        "superlativ": "beskast"
+      },
+      "övrigt": null,
+      "_metadata": {
+        "primary_class": "adjektiv",
+        "all_pos": [
+          "av",
+          "nn"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 7,
+        "classes_populated": [
+          "adjektiv",
+          "substantiv"
+        ],
+        "notes": [
+          "Adjective forms from av_1_gul",
+          "Noun forms from nn_2u_sten"
+        ]
+      }
+    },
+    {
+      "ord": "beta",
+      "substantiv": {
+        "singular": "beta",
+        "plural": "betor",
+        "bestämd_singular": "betan",
+        "bestämd_plural": "betorna"
+      },
+      "verb": {
+        "infinitiv": "beta",
+        "presens": "betar",
+        "preteritum": "betade",
+        "supinum": "betat",
+        "particip": "betande"
+      },
+      "adjektiv": null,
+      "övrigt": null,
+      "_metadata": {
+        "primary_class": "verb",
+        "all_pos": [
+          "vb",
+          "nn"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 9,
+        "classes_populated": [
+          "verb",
+          "substantiv"
+        ],
+        "notes": [
+          "Verb forms from vb_1a_laga",
+          "Noun forms from nn_1u_flicka"
+        ]
+      }
+    },
+    {
+      "ord": "betjänt",
+      "substantiv": {
+        "singular": "betjänt",
+        "plural": "betjänter",
+        "bestämd_singular": "betjänten",
+        "bestämd_plural": "betjänterna"
+      },
+      "verb": null,
+      "adjektiv": {
+        "positiv": "betjänt",
+        "komparativ": "betjäntare",
+        "superlativ": "betjäntast"
+      },
+      "övrigt": null,
+      "_metadata": {
+        "primary_class": "adjektiv",
+        "all_pos": [
+          "nn",
+          "av"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 7,
+        "classes_populated": [
+          "substantiv",
+          "adjektiv"
+        ],
+        "notes": [
+          "Noun forms from nn_3u_tid",
+          "Adjective forms from av_1_akut"
+        ]
+      }
+    },
+    {
+      "ord": "bila",
+      "substantiv": {
+        "singular": "bila",
+        "plural": "bilor",
+        "bestämd_singular": "bilan",
+        "bestämd_plural": "bilorna"
+      },
+      "verb": {
+        "infinitiv": "bila",
+        "presens": "bilar",
+        "preteritum": "bilade",
+        "supinum": "bilat",
+        "particip": "bilande"
+      },
+      "adjektiv": null,
+      "övrigt": null,
+      "_metadata": {
+        "primary_class": "verb",
+        "all_pos": [
+          "nn",
+          "vb"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 9,
+        "classes_populated": [
+          "substantiv",
+          "verb"
+        ],
+        "notes": [
+          "Noun forms from nn_1u_flicka",
+          "Verb forms from vb_1a_laga"
+        ]
+      }
+    },
+    {
+      "ord": "binda",
+      "substantiv": {
+        "singular": "binda",
+        "plural": "bindor",
+        "bestämd_singular": "bindan",
+        "bestämd_plural": "bindorna"
+      },
+      "verb": {
+        "infinitiv": "binda",
+        "presens": "binder",
+        "preteritum": "band",
+        "supinum": "bundit",
+        "particip": "bindande"
+      },
+      "adjektiv": null,
+      "övrigt": null,
+      "_metadata": {
+        "primary_class": "verb",
+        "all_pos": [
+          "vb",
+          "nn"
+        ],
+        "is_placeholder": false,
+        "api_success": true,
+        "forms_extracted": 9,
+        "classes_populated": [
+          "verb",
+          "substantiv"
+        ],
+        "notes": [
+          "Verb forms from vb_4a_dricka",
+          "Noun forms from nn_1u_flicka"
+        ]
+      }
+    }
+  ]
+}

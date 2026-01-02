@@ -1,0 +1,867 @@
+{
+  "total_entries": 13872,
+  "processing_time_seconds": 13330.779171228409,
+  "lemma_api_lookups": 9141,
+  "multi_class_words": 678,
+  "placeholder_entries": 87,
+  "class_distribution": {
+    "unknown": 3725,
+    "substantiv": 7439,
+    "adjektiv": 1006,
+    "verb": 1139,
+    "övrigt": 563
+  },
+  "source_distribution": {
+    "none": 3725,
+    "saldo": 9235,
+    "gloss": 912
+  },
+  "class_count_distribution": {
+    "0": 4637,
+    "1": 8557,
+    "3": 49,
+    "2": 614,
+    "4": 12,
+    "5": 2,
+    "6": 1
+  },
+  "multi_class_examples": [
+    {
+      "ord": "absolut",
+      "pos_types": [
+        "av",
+        "pm",
+        "ab"
+      ]
+    },
+    {
+      "ord": "abstrakt",
+      "pos_types": [
+        "av",
+        "nn"
+      ]
+    },
+    {
+      "ord": "adel",
+      "pos_types": [
+        "pm",
+        "nn"
+      ]
+    },
+    {
+      "ord": "adjö",
+      "pos_types": [
+        "in",
+        "nn"
+      ]
+    },
+    {
+      "ord": "aga",
+      "pos_types": [
+        "vb",
+        "nn"
+      ]
+    },
+    {
+      "ord": "akter",
+      "pos_types": [
+        "nn",
+        "ab"
+      ]
+    },
+    {
+      "ord": "akut",
+      "pos_types": [
+        "av",
+        "ab",
+        "nn"
+      ]
+    },
+    {
+      "ord": "al",
+      "pos_types": [
+        "nn",
+        "nna"
+      ]
+    },
+    {
+      "ord": "alla",
+      "pos_types": [
+        "pm",
+        "nn"
+      ]
+    },
+    {
+      "ord": "allomorf",
+      "pos_types": [
+        "av",
+        "nn"
+      ]
+    },
+    {
+      "ord": "allt",
+      "pos_types": [
+        "ab",
+        "nn"
+      ]
+    },
+    {
+      "ord": "allting",
+      "pos_types": [
+        "pn",
+        "nn"
+      ]
+    },
+    {
+      "ord": "alternativ",
+      "pos_types": [
+        "av",
+        "nn"
+      ]
+    },
+    {
+      "ord": "amma",
+      "pos_types": [
+        "vb",
+        "nn"
+      ]
+    },
+    {
+      "ord": "ana",
+      "pos_types": [
+        "pm",
+        "vb"
+      ]
+    },
+    {
+      "ord": "andra",
+      "pos_types": [
+        "vb",
+        "av"
+      ]
+    },
+    {
+      "ord": "annorlunda",
+      "pos_types": [
+        "av",
+        "ab"
+      ]
+    },
+    {
+      "ord": "ansträngande",
+      "pos_types": [
+        "av",
+        "nn"
+      ]
+    },
+    {
+      "ord": "antal",
+      "pos_types": [
+        "pm",
+        "nn"
+      ]
+    },
+    {
+      "ord": "antik",
+      "pos_types": [
+        "av",
+        "nn"
+      ]
+    },
+    {
+      "ord": "apa",
+      "pos_types": [
+        "nn",
+        "av"
+      ]
+    },
+    {
+      "ord": "arbetssökande",
+      "pos_types": [
+        "nn",
+        "av"
+      ]
+    },
+    {
+      "ord": "arm",
+      "pos_types": [
+        "nn",
+        "av"
+      ]
+    },
+    {
+      "ord": "aska",
+      "pos_types": [
+        "nn",
+        "vb"
+      ]
+    },
+    {
+      "ord": "atlas",
+      "pos_types": [
+        "pm",
+        "nn"
+      ]
+    },
+    {
+      "ord": "attan",
+      "pos_types": [
+        "nn",
+        "in"
+      ]
+    },
+    {
+      "ord": "av",
+      "pos_types": [
+        "pp",
+        "av",
+        "ab"
+      ]
+    },
+    {
+      "ord": "avresa",
+      "pos_types": [
+        "vb",
+        "nn"
+      ]
+    },
+    {
+      "ord": "avsky",
+      "pos_types": [
+        "vb",
+        "nn"
+      ]
+    },
+    {
+      "ord": "axel",
+      "pos_types": [
+        "pm",
+        "nn"
+      ]
+    },
+    {
+      "ord": "Azerbajdzjan",
+      "pos_types": [
+        "nn",
+        "pm"
+      ]
+    },
+    {
+      "ord": "babord",
+      "pos_types": [
+        "ab",
+        "nn"
+      ]
+    },
+    {
+      "ord": "backa",
+      "pos_types": [
+        "vb",
+        "nn"
+      ]
+    },
+    {
+      "ord": "bacon",
+      "pos_types": [
+        "pm",
+        "nn"
+      ]
+    },
+    {
+      "ord": "bak",
+      "pos_types": [
+        "pp",
+        "nn"
+      ]
+    },
+    {
+      "ord": "bakom",
+      "pos_types": [
+        "pp",
+        "av"
+      ]
+    },
+    {
+      "ord": "bang",
+      "pos_types": [
+        "pm",
+        "nn",
+        "av"
+      ]
+    },
+    {
+      "ord": "bar",
+      "pos_types": [
+        "av",
+        "nn"
+      ]
+    },
+    {
+      "ord": "bara",
+      "pos_types": [
+        "ab",
+        "sn"
+      ]
+    },
+    {
+      "ord": "be",
+      "pos_types": [
+        "vb",
+        "nna"
+      ]
+    },
+    {
+      "ord": "beige",
+      "pos_types": [
+        "av",
+        "nn"
+      ]
+    },
+    {
+      "ord": "bekant",
+      "pos_types": [
+        "av",
+        "nn"
+      ]
+    },
+    {
+      "ord": "ben",
+      "pos_types": [
+        "pm",
+        "nn"
+      ]
+    },
+    {
+      "ord": "berg",
+      "pos_types": [
+        "pm",
+        "nn"
+      ]
+    },
+    {
+      "ord": "beroende",
+      "pos_types": [
+        "av",
+        "nn"
+      ]
+    },
+    {
+      "ord": "besk",
+      "pos_types": [
+        "av",
+        "nn"
+      ]
+    },
+    {
+      "ord": "beta",
+      "pos_types": [
+        "vb",
+        "nn"
+      ]
+    },
+    {
+      "ord": "betjänt",
+      "pos_types": [
+        "nn",
+        "av"
+      ]
+    },
+    {
+      "ord": "bi",
+      "pos_types": [
+        "nn",
+        "av",
+        "nna"
+      ]
+    },
+    {
+      "ord": "biff",
+      "pos_types": [
+        "nn",
+        "av"
+      ]
+    }
+  ],
+  "sample_classifications": [
+    {
+      "index": 1,
+      "ord": "(siffra)",
+      "glosa": "siffra@num",
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '(siffra)'"
+      ]
+    },
+    {
+      "index": 2,
+      "ord": "(årtal)",
+      "glosa": "siffra@tal",
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '(årtal)'"
+      ]
+    },
+    {
+      "index": 3,
+      "ord": "0 - 0",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '0 - 0'"
+      ]
+    },
+    {
+      "index": 4,
+      "ord": "1 - 1",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '1 - 1'"
+      ]
+    },
+    {
+      "index": 5,
+      "ord": "1 öppning",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '1 öppning'"
+      ]
+    },
+    {
+      "index": 6,
+      "ord": "1 över 1",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '1 över 1'"
+      ]
+    },
+    {
+      "index": 7,
+      "ord": "1-2-3 regeln",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '1-2-3 regeln'"
+      ]
+    },
+    {
+      "index": 8,
+      "ord": "10 - 12 regeln",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '10 - 12 regeln'"
+      ]
+    },
+    {
+      "index": 9,
+      "ord": "10 metersstraff",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '10 metersstraff'"
+      ]
+    },
+    {
+      "index": 10,
+      "ord": "10 öre",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '10 öre'"
+      ]
+    },
+    {
+      "index": 11,
+      "ord": "11 - regeln",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '11 - regeln'"
+      ]
+    },
+    {
+      "index": 12,
+      "ord": "11-mannalag",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '11-mannalag'"
+      ]
+    },
+    {
+      "index": 13,
+      "ord": "18 hål",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '18 hål'"
+      ]
+    },
+    {
+      "index": 14,
+      "ord": "2 + 10",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '2 + 10'"
+      ]
+    },
+    {
+      "index": 15,
+      "ord": "2 - 2",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '2 - 2'"
+      ]
+    },
+    {
+      "index": 16,
+      "ord": "2 minuters utvisning",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '2 minuters utvisning'"
+      ]
+    },
+    {
+      "index": 17,
+      "ord": "2 serier",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '2 serier'"
+      ]
+    },
+    {
+      "index": 18,
+      "ord": "2 x 20",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '2 x 20'"
+      ]
+    },
+    {
+      "index": 19,
+      "ord": "2 öppning",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '2 öppning'"
+      ]
+    },
+    {
+      "index": 20,
+      "ord": "2 över 1",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '2 över 1'"
+      ]
+    },
+    {
+      "index": 21,
+      "ord": "2-kombinationer",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '2-kombinationer'"
+      ]
+    },
+    {
+      "index": 22,
+      "ord": "2-mannalag",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '2-mannalag'"
+      ]
+    },
+    {
+      "index": 23,
+      "ord": "24/7",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '24/7'"
+      ]
+    },
+    {
+      "index": 24,
+      "ord": "25 öre",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '25 öre'"
+      ]
+    },
+    {
+      "index": 25,
+      "ord": "3 - 3",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '3 - 3'"
+      ]
+    },
+    {
+      "index": 26,
+      "ord": "3 serier",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '3 serier'"
+      ]
+    },
+    {
+      "index": 27,
+      "ord": "3 set",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '3 set'"
+      ]
+    },
+    {
+      "index": 28,
+      "ord": "3 x 20",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '3 x 20'"
+      ]
+    },
+    {
+      "index": 29,
+      "ord": "3 x 3",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '3 x 3'"
+      ]
+    },
+    {
+      "index": 30,
+      "ord": "3 x 40",
+      "glosa": null,
+      "primary_word_class": "unknown",
+      "primary_pos_tag": null,
+      "primary_paradigm": null,
+      "confidence": 0.0,
+      "source": "none",
+      "is_compound": false,
+      "is_placeholder": true,
+      "all_saldo_entries": [],
+      "notes": [
+        "Non-lexical entry detected: '3 x 40'"
+      ]
+    }
+  ]
+}

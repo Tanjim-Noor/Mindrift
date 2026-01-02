@@ -1,0 +1,16 @@
+{
+  "total_entries": 13872,
+  "e_ending_issues": 0,
+  "hyphen_issues": 0,
+  "valid_entries": 13872,
+  "invalid_entries": 0,
+  "class_distribution": {
+    "substantiv": 6122,
+    "verb": 1134,
+    "adjektiv": 913,
+    "övrigt": 739,
+    "with_any_data": 8564
+  },
+  "e_ending_issue_details": [],
+  "hyphen_issue_details": []
+}

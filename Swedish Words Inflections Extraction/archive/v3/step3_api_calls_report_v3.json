@@ -1,0 +1,111 @@
+{
+  "total_required_calls": 9996,
+  "already_cached": 9585,
+  "new_calls_made": 411,
+  "success_count": 411,
+  "error_count": 0,
+  "processing_time_seconds": 805.8373849391937,
+  "cache_size": 10023,
+  "sample_new_calls": [
+    {
+      "key": "https://spraakbanken.gu.se/ws/saldo-ws/gen/json/pm_uae_keso/absolut",
+      "paradigm": "pm_uae_keso",
+      "word": "absolut"
+    },
+    {
+      "key": "https://spraakbanken.gu.se/ws/saldo-ws/gen/json/ab_i_bort/absolut",
+      "paradigm": "ab_i_bort",
+      "word": "absolut"
+    },
+    {
+      "key": "https://spraakbanken.gu.se/ws/saldo-ws/gen/json/pm_mph_lars/adel",
+      "paradigm": "pm_mph_lars",
+      "word": "adel"
+    },
+    {
+      "key": "https://spraakbanken.gu.se/ws/saldo-ws/gen/json/in_i_aj/adj%C3%B6",
+      "paradigm": "in_i_aj",
+      "word": "adjö"
+    },
+    {
+      "key": "https://spraakbanken.gu.se/ws/saldo-ws/gen/json/ab_i_bort/akter",
+      "paradigm": "ab_i_bort",
+      "word": "akter"
+    },
+    {
+      "key": "https://spraakbanken.gu.se/ws/saldo-ws/gen/json/ab_i_aldrig/akut",
+      "paradigm": "ab_i_aldrig",
+      "word": "akut"
+    },
+    {
+      "key": "https://spraakbanken.gu.se/ws/saldo-ws/gen/json/nna_0n_hk/al",
+      "paradigm": "nna_0n_hk",
+      "word": "al"
+    },
+    {
+      "key": "https://spraakbanken.gu.se/ws/saldo-ws/gen/json/pm_fph_lisa/alla",
+      "paradigm": "pm_fph_lisa",
+      "word": "alla"
+    },
+    {
+      "key": "https://spraakbanken.gu.se/ws/saldo-ws/gen/json/ab_i_aldrig/allt",
+      "paradigm": "ab_i_aldrig",
+      "word": "allt"
+    },
+    {
+      "key": "https://spraakbanken.gu.se/ws/saldo-ws/gen/json/pn_o_vem/allting",
+      "paradigm": "pn_o_vem",
+      "word": "allting"
+    },
+    {
+      "key": "https://spraakbanken.gu.se/ws/saldo-ws/gen/json/pm_fph_lisa/ana",
+      "paradigm": "pm_fph_lisa",
+      "word": "ana"
+    },
+    {
+      "key": "https://spraakbanken.gu.se/ws/saldo-ws/gen/json/av_0d_nästa/andra",
+      "paradigm": "av_0d_nästa",
+      "word": "andra"
+    },
+    {
+      "key": "https://spraakbanken.gu.se/ws/saldo-ws/gen/json/ab_i_aldrig/annorlunda",
+      "paradigm": "ab_i_aldrig",
+      "word": "annorlunda"
+    },
+    {
+      "key": "https://spraakbanken.gu.se/ws/saldo-ws/gen/json/pm_mph_lars/antal",
+      "paradigm": "pm_mph_lars",
+      "word": "antal"
+    },
+    {
+      "key": "https://spraakbanken.gu.se/ws/saldo-ws/gen/json/pm_mpm_oden/atlas",
+      "paradigm": "pm_mpm_oden",
+      "word": "atlas"
+    },
+    {
+      "key": "https://spraakbanken.gu.se/ws/saldo-ws/gen/json/in_i_aj/attan",
+      "paradigm": "in_i_aj",
+      "word": "attan"
+    },
+    {
+      "key": "https://spraakbanken.gu.se/ws/saldo-ws/gen/json/pp_i_i/av",
+      "paradigm": "pp_i_i",
+      "word": "av"
+    },
+    {
+      "key": "https://spraakbanken.gu.se/ws/saldo-ws/gen/json/ab_i_bort/av",
+      "paradigm": "ab_i_bort",
+      "word": "av"
+    },
+    {
+      "key": "https://spraakbanken.gu.se/ws/saldo-ws/gen/json/pm_mph_bo/axel",
+      "paradigm": "pm_mph_bo",
+      "word": "axel"
+    },
+    {
+      "key": "https://spraakbanken.gu.se/ws/saldo-ws/gen/json/pm_nlp_sverige/Azerbajdzjan",
+      "paradigm": "pm_nlp_sverige",
+      "word": "Azerbajdzjan"
+    }
+  ]
+}
