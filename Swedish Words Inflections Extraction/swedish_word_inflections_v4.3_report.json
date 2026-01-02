@@ -1,0 +1,2455 @@
+{
+  "timestamp": "2026-01-02T17:18:55.924281",
+  "input_file": "swedish_word_inflections_v4.2_refined.json",
+  "output_file": "swedish_word_inflections_v4.3.json",
+  "statistics": {
+    "nullified_languages": 14,
+    "nullified_academic_fields": 67,
+    "nullified_sports": 29,
+    "nullified_mass_nouns": 71,
+    "nullified_abstract": 206,
+    "nullified_singular_compounds": 78,
+    "morphological_fixes": 14,
+    "unchanged": 5617
+  },
+  "corrections": {
+    "nullified_language": [
+      {
+        "word": "arabiska",
+        "removed_plural": "arabiskor",
+        "removed_def_plural": "arabiskorna"
+      },
+      {
+        "word": "arameiska",
+        "removed_plural": "arameiskor",
+        "removed_def_plural": "arameiskorna"
+      },
+      {
+        "word": "danska",
+        "removed_plural": "danskor",
+        "removed_def_plural": "danskorna"
+      },
+      {
+        "word": "engelska",
+        "removed_plural": "engelskor",
+        "removed_def_plural": "engelskorna"
+      },
+      {
+        "word": "finska",
+        "removed_plural": "finskor",
+        "removed_def_plural": "finskorna"
+      },
+      {
+        "word": "franska",
+        "removed_plural": "franskor",
+        "removed_def_plural": "franskorna"
+      },
+      {
+        "word": "hebreiska",
+        "removed_plural": "hebreiskor",
+        "removed_def_plural": "hebreiskorna"
+      },
+      {
+        "word": "italienska",
+        "removed_plural": "italienskor",
+        "removed_def_plural": "italienskorna"
+      },
+      {
+        "word": "norska",
+        "removed_plural": "norskor",
+        "removed_def_plural": "norskorna"
+      },
+      {
+        "word": "rikssvenska",
+        "removed_plural": "rikssvenskor",
+        "removed_def_plural": "rikssvenskorna"
+      },
+      {
+        "word": "ryska",
+        "removed_plural": "ryskor",
+        "removed_def_plural": "ryskorna"
+      },
+      {
+        "word": "spanska",
+        "removed_plural": "spanskor",
+        "removed_def_plural": "spanskorna"
+      },
+      {
+        "word": "svenska",
+        "removed_plural": "svenskor",
+        "removed_def_plural": "svenskorna"
+      },
+      {
+        "word": "tyska",
+        "removed_plural": "tyskor",
+        "removed_def_plural": "tyskorna"
+      }
+    ],
+    "nullified_academic_field": [
+      {
+        "word": "akrobatik",
+        "removed_plural": "akrobatiker",
+        "removed_def_plural": "akrobatikerna"
+      },
+      {
+        "word": "antropologi",
+        "removed_plural": "antropologier",
+        "removed_def_plural": "antropologierna"
+      },
+      {
+        "word": "arbetsterapi",
+        "removed_plural": "arbetsterapier",
+        "removed_def_plural": "arbetsterapierna"
+      },
+      {
+        "word": "aritmetik",
+        "removed_plural": "aritmetiker",
+        "removed_def_plural": "aritmetikerna"
+      },
+      {
+        "word": "astronomi",
+        "removed_plural": "astronomier",
+        "removed_def_plural": "astronomierna"
+      },
+      {
+        "word": "audiologi",
+        "removed_plural": "audiologier",
+        "removed_def_plural": "audiologierna"
+      },
+      {
+        "word": "biografi",
+        "removed_plural": "biografier",
+        "removed_def_plural": "biografierna"
+      },
+      {
+        "word": "biologi",
+        "removed_plural": "biologier",
+        "removed_def_plural": "biologierna"
+      },
+      {
+        "word": "datorlingvistik",
+        "removed_plural": "datorlingvistiker",
+        "removed_def_plural": "datorlingvistikerna"
+      },
+      {
+        "word": "datortomografi",
+        "removed_plural": "datortomografier",
+        "removed_def_plural": "datortomografierna"
+      },
+      {
+        "word": "didaktik",
+        "removed_plural": "didaktiker",
+        "removed_def_plural": "didaktikerna"
+      },
+      {
+        "word": "ekologi",
+        "removed_plural": "ekologier",
+        "removed_def_plural": "ekologierna"
+      },
+      {
+        "word": "ekonomi",
+        "removed_plural": "ekonomier",
+        "removed_def_plural": "ekonomierna"
+      },
+      {
+        "word": "elektrokardiografi",
+        "removed_plural": "elektrokardiografier",
+        "removed_def_plural": "elektrokardiografierna"
+      },
+      {
+        "word": "erotik",
+        "removed_plural": "erotiker",
+        "removed_def_plural": "erotikerna"
+      },
+      {
+        "word": "etik",
+        "removed_plural": "etiker",
+        "removed_def_plural": "etikerna"
+      },
+      {
+        "word": "etymologi",
+        "removed_plural": "etymologier",
+        "removed_def_plural": "etymologierna"
+      },
+      {
+        "word": "eugenik",
+        "removed_plural": "eugeniker",
+        "removed_def_plural": "eugenikerna"
+      },
+      {
+        "word": "filosofi",
+        "removed_plural": "filosofier",
+        "removed_def_plural": "filosofierna"
+      },
+      {
+        "word": "fonetik",
+        "removed_plural": "fonetiker",
+        "removed_def_plural": "fonetikerna"
+      },
+      {
+        "word": "fonologi",
+        "removed_plural": "fonologier",
+        "removed_def_plural": "fonologierna"
+      },
+      {
+        "word": "forskningsetik",
+        "removed_plural": "forskningsetiker",
+        "removed_def_plural": "forskningsetikerna"
+      },
+      {
+        "word": "fysik",
+        "removed_plural": "fysiker",
+        "removed_def_plural": "fysikerna"
+      },
+      {
+        "word": "fysioterapi",
+        "removed_plural": "fysioterapier",
+        "removed_def_plural": "fysioterapierna"
+      },
+      {
+        "word": "geografi",
+        "removed_plural": "geografier",
+        "removed_def_plural": "geografierna"
+      },
+      {
+        "word": "geriatrik",
+        "removed_plural": "geriatriker",
+        "removed_def_plural": "geriatrikerna"
+      },
+      {
+        "word": "grafik",
+        "removed_plural": "grafiker",
+        "removed_def_plural": "grafikerna"
+      },
+      {
+        "word": "grammatik",
+        "removed_plural": "grammatiker",
+        "removed_def_plural": "grammatikerna"
+      },
+      {
+        "word": "gymnastik",
+        "removed_plural": "gymnastiker",
+        "removed_def_plural": "gymnastikerna"
+      },
+      {
+        "word": "ideologi",
+        "removed_plural": "ideologier",
+        "removed_def_plural": "ideologierna"
+      },
+      {
+        "word": "keramik",
+        "removed_plural": "keramiker",
+        "removed_def_plural": "keramikerna"
+      },
+      {
+        "word": "kolik",
+        "removed_plural": "koliker",
+        "removed_def_plural": "kolikerna"
+      },
+      {
+        "word": "korpuslingvistik",
+        "removed_plural": "korpuslingvistiker",
+        "removed_def_plural": "korpuslingvistikerna"
+      },
+      {
+        "word": "lexikologi",
+        "removed_plural": "lexikologier",
+        "removed_def_plural": "lexikologierna"
+      },
+      {
+        "word": "lingvistik",
+        "removed_plural": "lingvistiker",
+        "removed_def_plural": "lingvistikerna"
+      },
+      {
+        "word": "logi",
+        "removed_plural": "logier",
+        "removed_def_plural": "logierna"
+      },
+      {
+        "word": "logik",
+        "removed_plural": "logiker",
+        "removed_def_plural": "logikerna"
+      },
+      {
+        "word": "mammografi",
+        "removed_plural": "mammografier",
+        "removed_def_plural": "mammografierna"
+      },
+      {
+        "word": "matematik",
+        "removed_plural": "matematiker",
+        "removed_def_plural": "matematikerna"
+      },
+      {
+        "word": "mekanik",
+        "removed_plural": "mekaniker",
+        "removed_def_plural": "mekanikerna"
+      },
+      {
+        "word": "mimik",
+        "removed_plural": "mimiker",
+        "removed_def_plural": "mimikerna"
+      },
+      {
+        "word": "morfologi",
+        "removed_plural": "morfologier",
+        "removed_def_plural": "morfologierna"
+      },
+      {
+        "word": "motorik",
+        "removed_plural": "motoriker",
+        "removed_def_plural": "motorikerna"
+      },
+      {
+        "word": "musik",
+        "removed_plural": "musiker",
+        "removed_def_plural": "musikerna"
+      },
+      {
+        "word": "mystik",
+        "removed_plural": "mystiker",
+        "removed_def_plural": "mystikerna"
+      },
+      {
+        "word": "mytologi",
+        "removed_plural": "mytologier",
+        "removed_def_plural": "mytologierna"
+      },
+      {
+        "word": "nationalekonomi",
+        "removed_plural": "nationalekonomier",
+        "removed_def_plural": "nationalekonomierna"
+      },
+      {
+        "word": "neurologi",
+        "removed_plural": "neurologier",
+        "removed_def_plural": "neurologierna"
+      },
+      {
+        "word": "panik",
+        "removed_plural": "paniker",
+        "removed_def_plural": "panikerna"
+      },
+      {
+        "word": "pedagogik",
+        "removed_plural": "pedagogiker",
+        "removed_def_plural": "pedagogikerna"
+      },
+      {
+        "word": "politik",
+        "removed_plural": "politiker",
+        "removed_def_plural": "politikerna"
+      },
+      {
+        "word": "pragmatik",
+        "removed_plural": "pragmatiker",
+        "removed_def_plural": "pragmatikerna"
+      },
+      {
+        "word": "psykiatri",
+        "removed_plural": "psykiatrier",
+        "removed_def_plural": "psykiatrierna"
+      },
+      {
+        "word": "psykolingvistik",
+        "removed_plural": "psykolingvistiker",
+        "removed_def_plural": "psykolingvistikerna"
+      },
+      {
+        "word": "psykologi",
+        "removed_plural": "psykologier",
+        "removed_def_plural": "psykologierna"
+      },
+      {
+        "word": "rasbiologi",
+        "removed_plural": "rasbiologier",
+        "removed_def_plural": "rasbiologierna"
+      },
+      {
+        "word": "retorik",
+        "removed_plural": "retoriker",
+        "removed_def_plural": "retorikerna"
+      },
+      {
+        "word": "romantik",
+        "removed_plural": "romantiker",
+        "removed_def_plural": "romantikerna"
+      },
+      {
+        "word": "rytmik",
+        "removed_plural": "rytmiker",
+        "removed_def_plural": "rytmikerna"
+      },
+      {
+        "word": "semantik",
+        "removed_plural": "semantiker",
+        "removed_def_plural": "semantikerna"
+      },
+      {
+        "word": "sociolingvistik",
+        "removed_plural": "sociolingvistiker",
+        "removed_def_plural": "sociolingvistikerna"
+      },
+      {
+        "word": "språksociologi",
+        "removed_plural": "språksociologier",
+        "removed_def_plural": "språksociologierna"
+      },
+      {
+        "word": "statistik",
+        "removed_plural": "statistiker",
+        "removed_def_plural": "statistikerna"
+      },
+      {
+        "word": "taktik",
+        "removed_plural": "taktiker",
+        "removed_def_plural": "taktikerna"
+      },
+      {
+        "word": "teknik",
+        "removed_plural": "tekniker",
+        "removed_def_plural": "teknikerna"
+      },
+      {
+        "word": "terapi",
+        "removed_plural": "terapier",
+        "removed_def_plural": "terapierna"
+      },
+      {
+        "word": "typologi",
+        "removed_plural": "typologier",
+        "removed_def_plural": "typologierna"
+      }
+    ],
+    "nullified_sport": [
+      {
+        "word": "bangolf",
+        "removed_plural": "bangolfer",
+        "removed_def_plural": "bangolferna"
+      },
+      {
+        "word": "baseboll",
+        "removed_plural": "baseboller",
+        "removed_def_plural": "basebollerna"
+      },
+      {
+        "word": "basket",
+        "removed_plural": "basketer",
+        "removed_def_plural": "basketerna"
+      },
+      {
+        "word": "basketboll",
+        "removed_plural": "basketboller",
+        "removed_def_plural": "basketbollerna"
+      },
+      {
+        "word": "biljard",
+        "removed_plural": "biljarder",
+        "removed_def_plural": "biljarderna"
+      },
+      {
+        "word": "bordtennis",
+        "removed_plural": "bordtenniser",
+        "removed_def_plural": "bordtenniserna"
+      },
+      {
+        "word": "bowling",
+        "removed_plural": "bowlinger",
+        "removed_def_plural": "bowlingerna"
+      },
+      {
+        "word": "boxning",
+        "removed_plural": "boxningar",
+        "removed_def_plural": "boxningarna"
+      },
+      {
+        "word": "brottning",
+        "removed_plural": "brottningar",
+        "removed_def_plural": "brottningarna"
+      },
+      {
+        "word": "brännboll",
+        "removed_plural": "brännboller",
+        "removed_def_plural": "brännbollerna"
+      },
+      {
+        "word": "bågskytte",
+        "removed_plural": "bågskytten",
+        "removed_def_plural": "bågskyttena"
+      },
+      {
+        "word": "curling",
+        "removed_plural": "curlinger",
+        "removed_def_plural": "curlingerna"
+      },
+      {
+        "word": "dart",
+        "removed_plural": "darter",
+        "removed_def_plural": "darterna"
+      },
+      {
+        "word": "fotboll",
+        "removed_plural": "fotboller",
+        "removed_def_plural": "fotbollerna"
+      },
+      {
+        "word": "frisbee",
+        "removed_plural": "frisbeear",
+        "removed_def_plural": "frisbeearna"
+      },
+      {
+        "word": "fäktning",
+        "removed_plural": "fäktningar",
+        "removed_def_plural": "fäktningarna"
+      },
+      {
+        "word": "handboll",
+        "removed_plural": "handboller",
+        "removed_def_plural": "handbollerna"
+      },
+      {
+        "word": "konståkning",
+        "removed_plural": "konståkningar",
+        "removed_def_plural": "konståkningarna"
+      },
+      {
+        "word": "krocket",
+        "removed_plural": "krocketer",
+        "removed_def_plural": "krocketerna"
+      },
+      {
+        "word": "kubb",
+        "removed_plural": "kubbar",
+        "removed_def_plural": "kubbarna"
+      },
+      {
+        "word": "rodd",
+        "removed_plural": "rodder",
+        "removed_def_plural": "rodderna"
+      },
+      {
+        "word": "segling",
+        "removed_plural": "seglingar",
+        "removed_def_plural": "seglingarna"
+      },
+      {
+        "word": "simning",
+        "removed_plural": "simningar",
+        "removed_def_plural": "simningarna"
+      },
+      {
+        "word": "skidskytte",
+        "removed_plural": "skidskytten",
+        "removed_def_plural": "skidskyttena"
+      },
+      {
+        "word": "skytte",
+        "removed_plural": "skytten",
+        "removed_def_plural": "skyttena"
+      },
+      {
+        "word": "slalom",
+        "removed_plural": "slalomer",
+        "removed_def_plural": "slalomerna"
+      },
+      {
+        "word": "speedway",
+        "removed_plural": "speedwayer",
+        "removed_def_plural": "speedwayerna"
+      },
+      {
+        "word": "tennis",
+        "removed_plural": "tenniser",
+        "removed_def_plural": "tenniserna"
+      },
+      {
+        "word": "volleyboll",
+        "removed_plural": "volleyboller",
+        "removed_def_plural": "volleybollerna"
+      }
+    ],
+    "nullified_mass_noun": [
+      {
+        "word": "aids",
+        "removed_plural": "aidser",
+        "removed_def_plural": "aidserna"
+      },
+      {
+        "word": "akryl",
+        "removed_plural": "akryler",
+        "removed_def_plural": "akrylerna"
+      },
+      {
+        "word": "anka",
+        "removed_plural": "ankor",
+        "removed_def_plural": "ankorna"
+      },
+      {
+        "word": "asbest",
+        "removed_plural": "asbester",
+        "removed_def_plural": "asbesterna"
+      },
+      {
+        "word": "asfalt",
+        "removed_plural": "asfalter",
+        "removed_def_plural": "asfalterna"
+      },
+      {
+        "word": "avföring",
+        "removed_plural": "avföringar",
+        "removed_def_plural": "avföringarna"
+      },
+      {
+        "word": "bensin",
+        "removed_plural": "bensiner",
+        "removed_def_plural": "bensinerna"
+      },
+      {
+        "word": "betong",
+        "removed_plural": "betonger",
+        "removed_def_plural": "betongerna"
+      },
+      {
+        "word": "blomkål",
+        "removed_plural": "blomkåler",
+        "removed_def_plural": "blomkålerna"
+      },
+      {
+        "word": "bly",
+        "removed_plural": "blyer",
+        "removed_def_plural": "blyerna"
+      },
+      {
+        "word": "bomull",
+        "removed_plural": "bomuller",
+        "removed_def_plural": "bomullerna"
+      },
+      {
+        "word": "brons",
+        "removed_plural": "bronser",
+        "removed_def_plural": "bronserna"
+      },
+      {
+        "word": "brysselkål",
+        "removed_plural": "brysselkåler",
+        "removed_def_plural": "brysselkålerna"
+      },
+      {
+        "word": "bröd",
+        "removed_plural": "bröd",
+        "removed_def_plural": "bröden"
+      },
+      {
+        "word": "bröstmjölk",
+        "removed_plural": "bröstmjölker",
+        "removed_def_plural": "bröstmjölkerna"
+      },
+      {
+        "word": "buljong",
+        "removed_plural": "buljonger",
+        "removed_def_plural": "buljongerna"
+      },
+      {
+        "word": "cancer",
+        "removed_plural": "cancrar",
+        "removed_def_plural": "cancrarna"
+      },
+      {
+        "word": "choklad",
+        "removed_plural": "choklader",
+        "removed_def_plural": "chokladerna"
+      },
+      {
+        "word": "diamant",
+        "removed_plural": "diamanter",
+        "removed_def_plural": "diamanterna"
+      },
+      {
+        "word": "diesel",
+        "removed_plural": "dieslar",
+        "removed_def_plural": "dieslarna"
+      },
+      {
+        "word": "dimma",
+        "removed_plural": "dimmor",
+        "removed_def_plural": "dimmorna"
+      },
+      {
+        "word": "eksem",
+        "removed_plural": "eksem",
+        "removed_def_plural": "eksemen"
+      },
+      {
+        "word": "ersättning",
+        "removed_plural": "ersättningar",
+        "removed_def_plural": "ersättningarna"
+      },
+      {
+        "word": "fisk",
+        "removed_plural": "fiskar",
+        "removed_def_plural": "fiskarna"
+      },
+      {
+        "word": "fågel",
+        "removed_plural": "fåglar",
+        "removed_def_plural": "fåglarna"
+      },
+      {
+        "word": "glas",
+        "removed_plural": "glas",
+        "removed_def_plural": "glasen"
+      },
+      {
+        "word": "grädde",
+        "removed_plural": "gräddeor",
+        "removed_def_plural": "gräddeorna"
+      },
+      {
+        "word": "gröt",
+        "removed_plural": "grötar",
+        "removed_def_plural": "grötarna"
+      },
+      {
+        "word": "gummi",
+        "removed_plural": "gummin",
+        "removed_def_plural": "gummina"
+      },
+      {
+        "word": "gås",
+        "removed_plural": "gäss",
+        "removed_def_plural": "gässen"
+      },
+      {
+        "word": "honung",
+        "removed_plural": "honungar",
+        "removed_def_plural": "honungarna"
+      },
+      {
+        "word": "is",
+        "removed_plural": "isar",
+        "removed_def_plural": "isarna"
+      },
+      {
+        "word": "juice",
+        "removed_plural": "juicer",
+        "removed_def_plural": "juicerna"
+      },
+      {
+        "word": "järn",
+        "removed_plural": "järn",
+        "removed_def_plural": "järnen"
+      },
+      {
+        "word": "kaffe",
+        "removed_plural": "kaffen",
+        "removed_def_plural": "kaffena"
+      },
+      {
+        "word": "kalkon",
+        "removed_plural": "kalkoner",
+        "removed_def_plural": "kalkonerna"
+      },
+      {
+        "word": "kartong",
+        "removed_plural": "kartonger",
+        "removed_def_plural": "kartongerna"
+      },
+      {
+        "word": "koppar",
+        "removed_plural": "kopparer",
+        "removed_def_plural": "kopparerna"
+      },
+      {
+        "word": "korv",
+        "removed_plural": "korvar",
+        "removed_def_plural": "korvarna"
+      },
+      {
+        "word": "krydda",
+        "removed_plural": "kryddor",
+        "removed_def_plural": "kryddorna"
+      },
+      {
+        "word": "kyckling",
+        "removed_plural": "kycklingar",
+        "removed_def_plural": "kycklingarna"
+      },
+      {
+        "word": "lera",
+        "removed_plural": "leror",
+        "removed_def_plural": "lerorna"
+      },
+      {
+        "word": "linne",
+        "removed_plural": "linnen",
+        "removed_def_plural": "linnena"
+      },
+      {
+        "word": "marmelad",
+        "removed_plural": "marmelader",
+        "removed_def_plural": "marmeladerna"
+      },
+      {
+        "word": "mjöl",
+        "removed_plural": "mjöler",
+        "removed_def_plural": "mjölerna"
+      },
+      {
+        "word": "olja",
+        "removed_plural": "oljor",
+        "removed_def_plural": "oljorna"
+      },
+      {
+        "word": "papper",
+        "removed_plural": "papper",
+        "removed_def_plural": "papperen"
+      },
+      {
+        "word": "pasta",
+        "removed_plural": "pastor",
+        "removed_def_plural": "pastorna"
+      },
+      {
+        "word": "plast",
+        "removed_plural": "plaster",
+        "removed_def_plural": "plasterna"
+      },
+      {
+        "word": "porslin",
+        "removed_plural": "porsliner",
+        "removed_def_plural": "porslinerna"
+      },
+      {
+        "word": "psoriasis",
+        "removed_plural": "psoriasiser",
+        "removed_def_plural": "psoriasiserna"
+      },
+      {
+        "word": "päls",
+        "removed_plural": "pälsar",
+        "removed_def_plural": "pälsarna"
+      },
+      {
+        "word": "ris",
+        "removed_plural": "ris",
+        "removed_def_plural": "risen"
+      },
+      {
+        "word": "rök",
+        "removed_plural": "rökar",
+        "removed_def_plural": "rökarna"
+      },
+      {
+        "word": "sallad",
+        "removed_plural": "sallader",
+        "removed_def_plural": "salladerna"
+      },
+      {
+        "word": "skinka",
+        "removed_plural": "skinkor",
+        "removed_def_plural": "skinkorna"
+      },
+      {
+        "word": "smör",
+        "removed_plural": "smörer",
+        "removed_def_plural": "smörerna"
+      },
+      {
+        "word": "soppa",
+        "removed_plural": "soppor",
+        "removed_def_plural": "sopporna"
+      },
+      {
+        "word": "spenat",
+        "removed_plural": "spenater",
+        "removed_def_plural": "spenaterna"
+      },
+      {
+        "word": "sten",
+        "removed_plural": "stenar",
+        "removed_def_plural": "stenarna"
+      },
+      {
+        "word": "stål",
+        "removed_plural": "stål",
+        "removed_def_plural": "stålen"
+      },
+      {
+        "word": "sylt",
+        "removed_plural": "sylter",
+        "removed_def_plural": "sylterna"
+      },
+      {
+        "word": "sås",
+        "removed_plural": "såser",
+        "removed_def_plural": "såserna"
+      },
+      {
+        "word": "te",
+        "removed_plural": "teer",
+        "removed_def_plural": "teerna"
+      },
+      {
+        "word": "tegel",
+        "removed_plural": "tegel",
+        "removed_def_plural": "teglen"
+      },
+      {
+        "word": "trä",
+        "removed_plural": "träer",
+        "removed_def_plural": "träerna"
+      },
+      {
+        "word": "urin",
+        "removed_plural": "uriner",
+        "removed_def_plural": "urinerna"
+      },
+      {
+        "word": "vatten",
+        "removed_plural": "vatten",
+        "removed_def_plural": "vattnen"
+      },
+      {
+        "word": "vitkål",
+        "removed_plural": "vitkåler",
+        "removed_def_plural": "vitkålerna"
+      },
+      {
+        "word": "välling",
+        "removed_plural": "vällingar",
+        "removed_def_plural": "vällingarna"
+      },
+      {
+        "word": "ånga",
+        "removed_plural": "ångor",
+        "removed_def_plural": "ångorna"
+      }
+    ],
+    "nullified_abstract": [
+      {
+        "word": "allmakt",
+        "removed_plural": "allmakter",
+        "removed_def_plural": "allmakterna"
+      },
+      {
+        "word": "allmänhet",
+        "removed_plural": "allmänheter",
+        "removed_def_plural": "allmänheterna"
+      },
+      {
+        "word": "ande",
+        "removed_plural": "andar",
+        "removed_def_plural": "andarna"
+      },
+      {
+        "word": "angivelse",
+        "removed_plural": "angivelser",
+        "removed_def_plural": "angivelserna"
+      },
+      {
+        "word": "anhållande",
+        "removed_plural": "anhållanden",
+        "removed_def_plural": "anhållandena"
+      },
+      {
+        "word": "anklagelse",
+        "removed_plural": "anklagelser",
+        "removed_def_plural": "anklagelserna"
+      },
+      {
+        "word": "ansträngande",
+        "removed_plural": "anstränganden",
+        "removed_def_plural": "ansträngandena"
+      },
+      {
+        "word": "ansvarsfrihet",
+        "removed_plural": "ansvarsfriheter",
+        "removed_def_plural": "ansvarsfriheterna"
+      },
+      {
+        "word": "antagande",
+        "removed_plural": "antaganden",
+        "removed_def_plural": "antagandena"
+      },
+      {
+        "word": "aptit",
+        "removed_plural": "aptiter",
+        "removed_def_plural": "aptiterna"
+      },
+      {
+        "word": "arbetsmarknad",
+        "removed_plural": "arbetsmarknader",
+        "removed_def_plural": "arbetsmarknaderna"
+      },
+      {
+        "word": "arbetssökande",
+        "removed_plural": "arbetssökande",
+        "removed_def_plural": "arbetssökandena"
+      },
+      {
+        "word": "avvikelse",
+        "removed_plural": "avvikelser",
+        "removed_def_plural": "avvikelserna"
+      },
+      {
+        "word": "bakelse",
+        "removed_plural": "bakelser",
+        "removed_def_plural": "bakelserna"
+      },
+      {
+        "word": "barndom",
+        "removed_plural": "barndomar",
+        "removed_def_plural": "barndomarna"
+      },
+      {
+        "word": "barnomsorg",
+        "removed_plural": "barnomsorger",
+        "removed_def_plural": "barnomsorgerna"
+      },
+      {
+        "word": "barnsjukdom",
+        "removed_plural": "barnsjukdomar",
+        "removed_def_plural": "barnsjukdomarna"
+      },
+      {
+        "word": "bebådelse",
+        "removed_plural": "bebådelser",
+        "removed_def_plural": "bebådelserna"
+      },
+      {
+        "word": "befintlighet",
+        "removed_plural": "befintligheter",
+        "removed_def_plural": "befintligheterna"
+      },
+      {
+        "word": "befogenhet",
+        "removed_plural": "befogenheter",
+        "removed_def_plural": "befogenheterna"
+      },
+      {
+        "word": "befrielse",
+        "removed_plural": "befrielser",
+        "removed_def_plural": "befrielserna"
+      },
+      {
+        "word": "begynnelse",
+        "removed_plural": "begynnelser",
+        "removed_def_plural": "begynnelserna"
+      },
+      {
+        "word": "behörighet",
+        "removed_plural": "behörigheter",
+        "removed_def_plural": "behörigheterna"
+      },
+      {
+        "word": "bekostnad",
+        "removed_plural": "bekostnader",
+        "removed_def_plural": "bekostnaderna"
+      },
+      {
+        "word": "bekännelse",
+        "removed_plural": "bekännelser",
+        "removed_def_plural": "bekännelserna"
+      },
+      {
+        "word": "bemötande",
+        "removed_plural": "bemötanden",
+        "removed_def_plural": "bemötandena"
+      },
+      {
+        "word": "benskörhet",
+        "removed_plural": "benskörheter",
+        "removed_def_plural": "benskörheterna"
+      },
+      {
+        "word": "benvävnad",
+        "removed_plural": "benvävnader",
+        "removed_def_plural": "benvävnaderna"
+      },
+      {
+        "word": "beredelse",
+        "removed_plural": "beredelser",
+        "removed_def_plural": "beredelserna"
+      },
+      {
+        "word": "beredskap",
+        "removed_plural": "beredskaper",
+        "removed_def_plural": "beredskaperna"
+      },
+      {
+        "word": "bestämmelse",
+        "removed_plural": "bestämmelser",
+        "removed_def_plural": "bestämmelserna"
+      },
+      {
+        "word": "besvikelse",
+        "removed_plural": "besvikelser",
+        "removed_def_plural": "besvikelserna"
+      },
+      {
+        "word": "betänkande",
+        "removed_plural": "betänkanden",
+        "removed_def_plural": "betänkandena"
+      },
+      {
+        "word": "biträdande",
+        "removed_plural": "biträdanden",
+        "removed_def_plural": "biträdandena"
+      },
+      {
+        "word": "bristsjukdom",
+        "removed_plural": "bristsjukdomar",
+        "removed_def_plural": "bristsjukdomarna"
+      },
+      {
+        "word": "budskap",
+        "removed_plural": "budskap",
+        "removed_def_plural": "budskapen"
+      },
+      {
+        "word": "bussförbindelse",
+        "removed_plural": "bussförbindelser",
+        "removed_def_plural": "bussförbindelserna"
+      },
+      {
+        "word": "byggnad",
+        "removed_plural": "byggnader",
+        "removed_def_plural": "byggnaderna"
+      },
+      {
+        "word": "distriktsmästerskap",
+        "removed_plural": "distriktsmästerskap",
+        "removed_def_plural": "distriktsmästerskapen"
+      },
+      {
+        "word": "dom",
+        "removed_plural": "domar",
+        "removed_def_plural": "domarna"
+      },
+      {
+        "word": "dövblindhet",
+        "removed_plural": "dövblindheter",
+        "removed_def_plural": "dövblindheterna"
+      },
+      {
+        "word": "dövhet",
+        "removed_plural": "dövheter",
+        "removed_def_plural": "dövheterna"
+      },
+      {
+        "word": "egendom",
+        "removed_plural": "egendomar",
+        "removed_def_plural": "egendomarna"
+      },
+      {
+        "word": "egenmäktighet",
+        "removed_plural": "egenmäktigheter",
+        "removed_def_plural": "egenmäktigheterna"
+      },
+      {
+        "word": "egenskap",
+        "removed_plural": "egenskaper",
+        "removed_def_plural": "egenskaperna"
+      },
+      {
+        "word": "enhet",
+        "removed_plural": "enheter",
+        "removed_def_plural": "enheterna"
+      },
+      {
+        "word": "entreprenad",
+        "removed_plural": "entreprenader",
+        "removed_def_plural": "entreprenaderna"
+      },
+      {
+        "word": "europamästerskap",
+        "removed_plural": "europamästerskap",
+        "removed_def_plural": "europamästerskapen"
+      },
+      {
+        "word": "evighet",
+        "removed_plural": "evigheter",
+        "removed_def_plural": "evigheterna"
+      },
+      {
+        "word": "fallande",
+        "removed_plural": "fallanden",
+        "removed_def_plural": "fallandena"
+      },
+      {
+        "word": "fastighet",
+        "removed_plural": "fastigheter",
+        "removed_def_plural": "fastigheterna"
+      },
+      {
+        "word": "fattigdom",
+        "removed_plural": "fattigdomar",
+        "removed_def_plural": "fattigdomarna"
+      },
+      {
+        "word": "flerspråkighet",
+        "removed_plural": "flerspråkigheter",
+        "removed_def_plural": "flerspråkigheterna"
+      },
+      {
+        "word": "flytande",
+        "removed_plural": "flytanden",
+        "removed_def_plural": "flytandena"
+      },
+      {
+        "word": "folkrörelse",
+        "removed_plural": "folkrörelser",
+        "removed_def_plural": "folkrörelserna"
+      },
+      {
+        "word": "fred",
+        "removed_plural": "fredar",
+        "removed_def_plural": "fredarna"
+      },
+      {
+        "word": "friande",
+        "removed_plural": "frianden",
+        "removed_def_plural": "friandena"
+      },
+      {
+        "word": "frihet",
+        "removed_plural": "friheter",
+        "removed_def_plural": "friheterna"
+      },
+      {
+        "word": "frihetsberövande",
+        "removed_plural": "frihetsberövanden",
+        "removed_def_plural": "frihetsberövandena"
+      },
+      {
+        "word": "fyrkantighet",
+        "removed_plural": "fyrkantigheter",
+        "removed_def_plural": "fyrkantigheterna"
+      },
+      {
+        "word": "fängelse",
+        "removed_plural": "fängelser",
+        "removed_def_plural": "fängelserna"
+      },
+      {
+        "word": "följdsjukdom",
+        "removed_plural": "följdsjukdomar",
+        "removed_def_plural": "följdsjukdomarna"
+      },
+      {
+        "word": "förbindelse",
+        "removed_plural": "förbindelser",
+        "removed_def_plural": "förbindelserna"
+      },
+      {
+        "word": "fördom",
+        "removed_plural": "fördomar",
+        "removed_def_plural": "fördomarna"
+      },
+      {
+        "word": "förhållande",
+        "removed_plural": "förhållanden",
+        "removed_def_plural": "förhållandena"
+      },
+      {
+        "word": "förnedrande",
+        "removed_plural": "förnedranden",
+        "removed_def_plural": "förnedrandena"
+      },
+      {
+        "word": "förälskelse",
+        "removed_plural": "förälskelser",
+        "removed_def_plural": "förälskelserna"
+      },
+      {
+        "word": "hastighet",
+        "removed_plural": "hastigheter",
+        "removed_def_plural": "hastigheterna"
+      },
+      {
+        "word": "havandeskap",
+        "removed_plural": "havandeskap",
+        "removed_def_plural": "havandeskapen"
+      },
+      {
+        "word": "helhet",
+        "removed_plural": "helheter",
+        "removed_def_plural": "helheterna"
+      },
+      {
+        "word": "hemkunskap",
+        "removed_plural": "hemkunskaper",
+        "removed_def_plural": "hemkunskaperna"
+      },
+      {
+        "word": "hemlighet",
+        "removed_plural": "hemligheter",
+        "removed_def_plural": "hemligheterna"
+      },
+      {
+        "word": "hjärtsjukdom",
+        "removed_plural": "hjärtsjukdomar",
+        "removed_def_plural": "hjärtsjukdomarna"
+      },
+      {
+        "word": "händelse",
+        "removed_plural": "händelser",
+        "removed_def_plural": "händelserna"
+      },
+      {
+        "word": "hörande",
+        "removed_plural": "höranden",
+        "removed_def_plural": "hörandena"
+      },
+      {
+        "word": "inflytande",
+        "removed_plural": "inflytanden",
+        "removed_def_plural": "inflytandena"
+      },
+      {
+        "word": "irriterande",
+        "removed_plural": "irriteranden",
+        "removed_def_plural": "irriterandena"
+      },
+      {
+        "word": "istadighet",
+        "removed_plural": "istadigheter",
+        "removed_def_plural": "istadigheterna"
+      },
+      {
+        "word": "judendom",
+        "removed_plural": "judendomar",
+        "removed_def_plural": "judendomarna"
+      },
+      {
+        "word": "julmarknad",
+        "removed_plural": "julmarknader",
+        "removed_def_plural": "julmarknaderna"
+      },
+      {
+        "word": "kallelse",
+        "removed_plural": "kallelser",
+        "removed_def_plural": "kallelserna"
+      },
+      {
+        "word": "kompledighet",
+        "removed_plural": "kompledigheter",
+        "removed_def_plural": "kompledigheterna"
+      },
+      {
+        "word": "kondom",
+        "removed_plural": "kondomer",
+        "removed_def_plural": "kondomerna"
+      },
+      {
+        "word": "korsfästelse",
+        "removed_plural": "korsfästelser",
+        "removed_def_plural": "korsfästelserna"
+      },
+      {
+        "word": "krig",
+        "removed_plural": "krig",
+        "removed_def_plural": "krigen"
+      },
+      {
+        "word": "kristendom",
+        "removed_plural": "kristendomar",
+        "removed_def_plural": "kristendomarna"
+      },
+      {
+        "word": "kunskap",
+        "removed_plural": "kunskaper",
+        "removed_def_plural": "kunskaperna"
+      },
+      {
+        "word": "kvinnofängelse",
+        "removed_plural": "kvinnofängelser",
+        "removed_def_plural": "kvinnofängelserna"
+      },
+      {
+        "word": "kärlek",
+        "removed_plural": "kärlekar",
+        "removed_def_plural": "kärlekarna"
+      },
+      {
+        "word": "könssjukdom",
+        "removed_plural": "könssjukdomar",
+        "removed_def_plural": "könssjukdomarna"
+      },
+      {
+        "word": "landskap",
+        "removed_plural": "landskap",
+        "removed_def_plural": "landskapen"
+      },
+      {
+        "word": "ledighet",
+        "removed_plural": "ledigheter",
+        "removed_def_plural": "ledigheterna"
+      },
+      {
+        "word": "liggande",
+        "removed_plural": "ligganden",
+        "removed_def_plural": "liggandena"
+      },
+      {
+        "word": "likhet",
+        "removed_plural": "likheter",
+        "removed_def_plural": "likheterna"
+      },
+      {
+        "word": "liv",
+        "removed_plural": "liv",
+        "removed_def_plural": "liven"
+      },
+      {
+        "word": "loppmarknad",
+        "removed_plural": "loppmarknader",
+        "removed_def_plural": "loppmarknaderna"
+      },
+      {
+        "word": "lungsjukdom",
+        "removed_plural": "lungsjukdomar",
+        "removed_def_plural": "lungsjukdomarna"
+      },
+      {
+        "word": "lycka",
+        "removed_plural": "lyckor",
+        "removed_def_plural": "lyckorna"
+      },
+      {
+        "word": "lägenhet",
+        "removed_plural": "lägenheter",
+        "removed_def_plural": "lägenheterna"
+      },
+      {
+        "word": "lättnad",
+        "removed_plural": "lättnader",
+        "removed_def_plural": "lättnaderna"
+      },
+      {
+        "word": "långpromenad",
+        "removed_plural": "långpromenader",
+        "removed_def_plural": "långpromenaderna"
+      },
+      {
+        "word": "löpande",
+        "removed_plural": "löpanden",
+        "removed_def_plural": "löpandena"
+      },
+      {
+        "word": "marinad",
+        "removed_plural": "marinader",
+        "removed_def_plural": "marinaderna"
+      },
+      {
+        "word": "marknad",
+        "removed_plural": "marknader",
+        "removed_def_plural": "marknaderna"
+      },
+      {
+        "word": "meddelande",
+        "removed_plural": "meddelanden",
+        "removed_def_plural": "meddelandena"
+      },
+      {
+        "word": "medlemskap",
+        "removed_plural": "medlemskap",
+        "removed_def_plural": "medlemskapen"
+      },
+      {
+        "word": "motsägelse",
+        "removed_plural": "motsägelser",
+        "removed_def_plural": "motsägelserna"
+      },
+      {
+        "word": "myndighet",
+        "removed_plural": "myndigheter",
+        "removed_def_plural": "myndigheterna"
+      },
+      {
+        "word": "mästerskap",
+        "removed_plural": "mästerskap",
+        "removed_def_plural": "mästerskapen"
+      },
+      {
+        "word": "målsägande",
+        "removed_plural": "målsägande",
+        "removed_def_plural": "målsägandena"
+      },
+      {
+        "word": "månad",
+        "removed_plural": "månader",
+        "removed_def_plural": "månaderna"
+      },
+      {
+        "word": "möjlighet",
+        "removed_plural": "möjligheter",
+        "removed_def_plural": "möjligheterna"
+      },
+      {
+        "word": "mötesordförande",
+        "removed_plural": "mötesordförande",
+        "removed_def_plural": "mötesordförandena"
+      },
+      {
+        "word": "naturkunskap",
+        "removed_plural": "naturkunskaper",
+        "removed_def_plural": "naturkunskaperna"
+      },
+      {
+        "word": "naturvetenskap",
+        "removed_plural": "naturvetenskaper",
+        "removed_def_plural": "naturvetenskaperna"
+      },
+      {
+        "word": "njursjukdom",
+        "removed_plural": "njursjukdomar",
+        "removed_def_plural": "njursjukdomarna"
+      },
+      {
+        "word": "nyhet",
+        "removed_plural": "nyheter",
+        "removed_def_plural": "nyheterna"
+      },
+      {
+        "word": "näringsfrihet",
+        "removed_plural": "näringsfriheter",
+        "removed_def_plural": "näringsfriheterna"
+      },
+      {
+        "word": "näringsverksamhet",
+        "removed_plural": "näringsverksamheter",
+        "removed_def_plural": "näringsverksamheterna"
+      },
+      {
+        "word": "oaktsamhet",
+        "removed_plural": "oaktsamheter",
+        "removed_def_plural": "oaktsamheterna"
+      },
+      {
+        "word": "ofredande",
+        "removed_plural": "ofredanden",
+        "removed_def_plural": "ofredandena"
+      },
+      {
+        "word": "ohörsamhet",
+        "removed_plural": "ohörsamheter",
+        "removed_def_plural": "ohörsamheterna"
+      },
+      {
+        "word": "ojämlikhet",
+        "removed_plural": "ojämlikheter",
+        "removed_def_plural": "ojämlikheterna"
+      },
+      {
+        "word": "olycka",
+        "removed_plural": "olyckor",
+        "removed_def_plural": "olyckorna"
+      },
+      {
+        "word": "omskärelse",
+        "removed_plural": "omskärelser",
+        "removed_def_plural": "omskärelserna"
+      },
+      {
+        "word": "omsorg",
+        "removed_plural": "omsorger",
+        "removed_def_plural": "omsorgerna"
+      },
+      {
+        "word": "omtänksamhet",
+        "removed_plural": "omtänksamheter",
+        "removed_def_plural": "omtänksamheterna"
+      },
+      {
+        "word": "omvändelse",
+        "removed_plural": "omvändelser",
+        "removed_def_plural": "omvändelserna"
+      },
+      {
+        "word": "ordförande",
+        "removed_plural": "ordförande",
+        "removed_def_plural": "ordförandena"
+      },
+      {
+        "word": "oredlighet",
+        "removed_plural": "oredligheter",
+        "removed_def_plural": "oredligheterna"
+      },
+      {
+        "word": "panikångest",
+        "removed_plural": "panikångester",
+        "removed_def_plural": "panikångesterna"
+      },
+      {
+        "word": "parförhållande",
+        "removed_plural": "parförhållanden",
+        "removed_def_plural": "parförhållandena"
+      },
+      {
+        "word": "personlighet",
+        "removed_plural": "personligheter",
+        "removed_def_plural": "personligheterna"
+      },
+      {
+        "word": "påminnelse",
+        "removed_plural": "påminnelser",
+        "removed_def_plural": "påminnelserna"
+      },
+      {
+        "word": "redskap",
+        "removed_plural": "redskap",
+        "removed_def_plural": "redskapen"
+      },
+      {
+        "word": "religionskunskap",
+        "removed_plural": "religionskunskaper",
+        "removed_def_plural": "religionskunskaperna"
+      },
+      {
+        "word": "revisionsberättelse",
+        "removed_plural": "revisionsberättelser",
+        "removed_def_plural": "revisionsberättelserna"
+      },
+      {
+        "word": "rikedom",
+        "removed_plural": "rikedomar",
+        "removed_def_plural": "rikedomarna"
+      },
+      {
+        "word": "rättighet",
+        "removed_plural": "rättigheter",
+        "removed_def_plural": "rättigheterna"
+      },
+      {
+        "word": "rörelse",
+        "removed_plural": "rörelser",
+        "removed_def_plural": "rörelserna"
+      },
+      {
+        "word": "samboförhållande",
+        "removed_plural": "samboförhållanden",
+        "removed_def_plural": "samboförhållandena"
+      },
+      {
+        "word": "samhällskunskap",
+        "removed_plural": "samhällskunskaper",
+        "removed_def_plural": "samhällskunskaperna"
+      },
+      {
+        "word": "samhörighet",
+        "removed_plural": "samhörigheter",
+        "removed_def_plural": "samhörigheterna"
+      },
+      {
+        "word": "samlevnad",
+        "removed_plural": "samlevnader",
+        "removed_def_plural": "samlevnaderna"
+      },
+      {
+        "word": "sammankallande",
+        "removed_plural": "sammankallanden",
+        "removed_def_plural": "sammankallandena"
+      },
+      {
+        "word": "sjukdom",
+        "removed_plural": "sjukdomar",
+        "removed_def_plural": "sjukdomarna"
+      },
+      {
+        "word": "skadegörelse",
+        "removed_plural": "skadegörelser",
+        "removed_def_plural": "skadegörelserna"
+      },
+      {
+        "word": "skadeståndsyrkande",
+        "removed_plural": "skadeståndsyrkanden",
+        "removed_def_plural": "skadeståndsyrkandena"
+      },
+      {
+        "word": "skapelseberättelse",
+        "removed_plural": "skapelseberättelser",
+        "removed_def_plural": "skapelseberättelserna"
+      },
+      {
+        "word": "skattemyndighet",
+        "removed_plural": "skattemyndigheter",
+        "removed_def_plural": "skattemyndigheterna"
+      },
+      {
+        "word": "skyldighet",
+        "removed_plural": "skyldigheter",
+        "removed_def_plural": "skyldigheterna"
+      },
+      {
+        "word": "skönhet",
+        "removed_plural": "skönheter",
+        "removed_def_plural": "skönheterna"
+      },
+      {
+        "word": "smekmånad",
+        "removed_plural": "smekmånader",
+        "removed_def_plural": "smekmånaderna"
+      },
+      {
+        "word": "sorg",
+        "removed_plural": "sorger",
+        "removed_def_plural": "sorgerna"
+      },
+      {
+        "word": "språkfärdighet",
+        "removed_plural": "språkfärdigheter",
+        "removed_def_plural": "språkfärdigheterna"
+      },
+      {
+        "word": "språkvetenskap",
+        "removed_plural": "språkvetenskaper",
+        "removed_def_plural": "språkvetenskaperna"
+      },
+      {
+        "word": "standardavvikelse",
+        "removed_plural": "standardavvikelser",
+        "removed_def_plural": "standardavvikelserna"
+      },
+      {
+        "word": "stavelse",
+        "removed_plural": "stavelser",
+        "removed_def_plural": "stavelserna"
+      },
+      {
+        "word": "stiftelse",
+        "removed_plural": "stiftelser",
+        "removed_def_plural": "stiftelserna"
+      },
+      {
+        "word": "stigande",
+        "removed_plural": "stiganden",
+        "removed_def_plural": "stigandena"
+      },
+      {
+        "word": "stormarknad",
+        "removed_plural": "stormarknader",
+        "removed_def_plural": "stormarknaderna"
+      },
+      {
+        "word": "styrelse",
+        "removed_plural": "styrelser",
+        "removed_def_plural": "styrelserna"
+      },
+      {
+        "word": "säkerhet",
+        "removed_plural": "säkerheter",
+        "removed_def_plural": "säkerheterna"
+      },
+      {
+        "word": "sällskap",
+        "removed_plural": "sällskap",
+        "removed_def_plural": "sällskapen"
+      },
+      {
+        "word": "sökande",
+        "removed_plural": "sökande",
+        "removed_def_plural": "sökandena"
+      },
+      {
+        "word": "tacksägelse",
+        "removed_plural": "tacksägelser",
+        "removed_def_plural": "tacksägelserna"
+      },
+      {
+        "word": "tillgänglighet",
+        "removed_plural": "tillgängligheter",
+        "removed_def_plural": "tillgängligheterna"
+      },
+      {
+        "word": "tillvitelse",
+        "removed_plural": "tillvitelser",
+        "removed_def_plural": "tillvitelserna"
+      },
+      {
+        "word": "tipspromenad",
+        "removed_plural": "tipspromenader",
+        "removed_def_plural": "tipspromenaderna"
+      },
+      {
+        "word": "trafikförseelse",
+        "removed_plural": "trafikförseelser",
+        "removed_def_plural": "trafikförseelserna"
+      },
+      {
+        "word": "treenighet",
+        "removed_plural": "treenigheter",
+        "removed_def_plural": "treenigheterna"
+      },
+      {
+        "word": "trolöshet",
+        "removed_plural": "trolösheter",
+        "removed_def_plural": "trolösheterna"
+      },
+      {
+        "word": "tvärvetenskap",
+        "removed_plural": "tvärvetenskaper",
+        "removed_def_plural": "tvärvetenskaperna"
+      },
+      {
+        "word": "tvåspråkighet",
+        "removed_plural": "tvåspråkigheter",
+        "removed_def_plural": "tvåspråkigheterna"
+      },
+      {
+        "word": "underlåtenhet",
+        "removed_plural": "underlåtenheter",
+        "removed_def_plural": "underlåtenheterna"
+      },
+      {
+        "word": "undertryckande",
+        "removed_plural": "undertryckanden",
+        "removed_def_plural": "undertryckandena"
+      },
+      {
+        "word": "ungdom",
+        "removed_plural": "ungdomar",
+        "removed_def_plural": "ungdomarna"
+      },
+      {
+        "word": "ungdomsfängelse",
+        "removed_plural": "ungdomsfängelser",
+        "removed_def_plural": "ungdomsfängelserna"
+      },
+      {
+        "word": "ungdomsverksamhet",
+        "removed_plural": "ungdomsverksamheter",
+        "removed_def_plural": "ungdomsverksamheterna"
+      },
+      {
+        "word": "uppenbarelse",
+        "removed_plural": "uppenbarelser",
+        "removed_def_plural": "uppenbarelserna"
+      },
+      {
+        "word": "uppförande",
+        "removed_plural": "uppföranden",
+        "removed_def_plural": "uppförandena"
+      },
+      {
+        "word": "uppmärksamhet",
+        "removed_plural": "uppmärksamheter",
+        "removed_def_plural": "uppmärksamheterna"
+      },
+      {
+        "word": "utmärkelse",
+        "removed_plural": "utmärkelser",
+        "removed_def_plural": "utmärkelserna"
+      },
+      {
+        "word": "utpekande",
+        "removed_plural": "utpekanden",
+        "removed_def_plural": "utpekandena"
+      },
+      {
+        "word": "uttalande",
+        "removed_plural": "uttalanden",
+        "removed_def_plural": "uttalandena"
+      },
+      {
+        "word": "varelse",
+        "removed_plural": "varelser",
+        "removed_def_plural": "varelserna"
+      },
+      {
+        "word": "verklighet",
+        "removed_plural": "verkligheter",
+        "removed_def_plural": "verkligheterna"
+      },
+      {
+        "word": "verksamhet",
+        "removed_plural": "verksamheter",
+        "removed_def_plural": "verksamheterna"
+      },
+      {
+        "word": "verksamhetsberättelse",
+        "removed_plural": "verksamhetsberättelser",
+        "removed_def_plural": "verksamhetsberättelserna"
+      },
+      {
+        "word": "vetenskap",
+        "removed_plural": "vetenskaper",
+        "removed_def_plural": "vetenskaperna"
+      },
+      {
+        "word": "vilande",
+        "removed_plural": "vilanden",
+        "removed_def_plural": "vilandena"
+      },
+      {
+        "word": "villfarelse",
+        "removed_plural": "villfarelser",
+        "removed_def_plural": "villfarelserna"
+      },
+      {
+        "word": "välgörenhet",
+        "removed_plural": "välgörenheter",
+        "removed_def_plural": "välgörenheterna"
+      },
+      {
+        "word": "världsmästerskap",
+        "removed_plural": "världsmästerskap",
+        "removed_def_plural": "världsmästerskapen"
+      },
+      {
+        "word": "vårdnad",
+        "removed_plural": "vårdnader",
+        "removed_def_plural": "vårdnaderna"
+      },
+      {
+        "word": "vårdslöshet",
+        "removed_plural": "vårdslösheter",
+        "removed_def_plural": "vårdslösheterna"
+      },
+      {
+        "word": "yrkande",
+        "removed_plural": "yrkanden",
+        "removed_def_plural": "yrkandena"
+      },
+      {
+        "word": "yttrande",
+        "removed_plural": "yttranden",
+        "removed_def_plural": "yttrandena"
+      },
+      {
+        "word": "yttrandefrihet",
+        "removed_plural": "yttrandefriheter",
+        "removed_def_plural": "yttrandefriheterna"
+      },
+      {
+        "word": "äktenskap",
+        "removed_plural": "äktenskap",
+        "removed_def_plural": "äktenskapen"
+      },
+      {
+        "word": "äldreomsorg",
+        "removed_plural": "äldreomsorger",
+        "removed_def_plural": "äldreomsorgerna"
+      },
+      {
+        "word": "ändelse",
+        "removed_plural": "ändelser",
+        "removed_def_plural": "ändelserna"
+      },
+      {
+        "word": "ångest",
+        "removed_plural": "ångester",
+        "removed_def_plural": "ångesterna"
+      },
+      {
+        "word": "årsberättelse",
+        "removed_plural": "årsberättelser",
+        "removed_def_plural": "årsberättelserna"
+      },
+      {
+        "word": "återbetalningsskyldighet",
+        "removed_plural": "återbetalningsskyldigheter",
+        "removed_def_plural": "återbetalningsskyldigheterna"
+      },
+      {
+        "word": "överenskommelse",
+        "removed_plural": "överenskommelser",
+        "removed_def_plural": "överenskommelserna"
+      }
+    ],
+    "nullified_singular_compound": [
+      {
+        "word": "aktiekapital",
+        "removed_plural": "aktiekapital",
+        "removed_def_plural": "aktiekapitalen"
+      },
+      {
+        "word": "ansiktsskydd",
+        "removed_plural": "ansiktsskydd",
+        "removed_def_plural": "ansiktsskydden"
+      },
+      {
+        "word": "anställningsavtal",
+        "removed_plural": "anställningsavtal",
+        "removed_def_plural": "anställningsavtalen"
+      },
+      {
+        "word": "antal",
+        "removed_plural": "antalar",
+        "removed_def_plural": "antalarna"
+      },
+      {
+        "word": "armbågsskydd",
+        "removed_plural": "armbågsskydd",
+        "removed_def_plural": "armbågsskydden"
+      },
+      {
+        "word": "avtal",
+        "removed_plural": "avtal",
+        "removed_def_plural": "avtalen"
+      },
+      {
+        "word": "barnbidrag",
+        "removed_plural": "barnbidrag",
+        "removed_def_plural": "barnbidragen"
+      },
+      {
+        "word": "barnspråk",
+        "removed_plural": "barnspråk",
+        "removed_def_plural": "barnspråken"
+      },
+      {
+        "word": "benskydd",
+        "removed_plural": "benskydd",
+        "removed_def_plural": "benskydden"
+      },
+      {
+        "word": "bidrag",
+        "removed_plural": "bidrag",
+        "removed_def_plural": "bidragen"
+      },
+      {
+        "word": "bildspel",
+        "removed_plural": "bildspel",
+        "removed_def_plural": "bildspelen"
+      },
+      {
+        "word": "bollspel",
+        "removed_plural": "bollspel",
+        "removed_def_plural": "bollspelen"
+      },
+      {
+        "word": "bostadsbidrag",
+        "removed_plural": "bostadsbidrag",
+        "removed_def_plural": "bostadsbidragen"
+      },
+      {
+        "word": "dataspel",
+        "removed_plural": "dataspel",
+        "removed_def_plural": "dataspelen"
+      },
+      {
+        "word": "decimaltal",
+        "removed_plural": "decimaltal",
+        "removed_def_plural": "decimaltalen"
+      },
+      {
+        "word": "dragspel",
+        "removed_plural": "dragspel",
+        "removed_def_plural": "dragspelen"
+      },
+      {
+        "word": "ental",
+        "removed_plural": "ental",
+        "removed_def_plural": "entalen"
+      },
+      {
+        "word": "familjebidrag",
+        "removed_plural": "familjebidrag",
+        "removed_def_plural": "familjebidragen"
+      },
+      {
+        "word": "fiskedrag",
+        "removed_plural": "fiskedrag",
+        "removed_def_plural": "fiskedragen"
+      },
+      {
+        "word": "flipperspel",
+        "removed_plural": "flipperspel",
+        "removed_def_plural": "flipperspelen"
+      },
+      {
+        "word": "fosterland",
+        "removed_plural": "fosterländer",
+        "removed_def_plural": "fosterländerna"
+      },
+      {
+        "word": "fyrtal",
+        "removed_plural": "fyrtal",
+        "removed_def_plural": "fyrtalen"
+      },
+      {
+        "word": "förspel",
+        "removed_plural": "förspel",
+        "removed_def_plural": "förspelen"
+      },
+      {
+        "word": "försvarsspel",
+        "removed_plural": "försvarsspel",
+        "removed_def_plural": "försvarsspelen"
+      },
+      {
+        "word": "hemland",
+        "removed_plural": "hemländer",
+        "removed_def_plural": "hemländerna"
+      },
+      {
+        "word": "hemspråk",
+        "removed_plural": "hemspråk",
+        "removed_def_plural": "hemspråken"
+      },
+      {
+        "word": "hundratal",
+        "removed_plural": "hundratal",
+        "removed_def_plural": "hundratalen"
+      },
+      {
+        "word": "hörselskydd",
+        "removed_plural": "hörselskydd",
+        "removed_def_plural": "hörselskydden"
+      },
+      {
+        "word": "I-land",
+        "removed_plural": "I-länder",
+        "removed_def_plural": "I-länderna"
+      },
+      {
+        "word": "jordbruk",
+        "removed_plural": "jordbruk",
+        "removed_def_plural": "jordbruken"
+      },
+      {
+        "word": "knäskydd",
+        "removed_plural": "knäskydd",
+        "removed_def_plural": "knäskydden"
+      },
+      {
+        "word": "kollektivavtal",
+        "removed_plural": "kollektivavtal",
+        "removed_def_plural": "kollektivavtalen"
+      },
+      {
+        "word": "kreolspråk",
+        "removed_plural": "kreolspråk",
+        "removed_def_plural": "kreolspråken"
+      },
+      {
+        "word": "kvartal",
+        "removed_plural": "kvartal",
+        "removed_def_plural": "kvartalen"
+      },
+      {
+        "word": "lantbruk",
+        "removed_plural": "lantbruk",
+        "removed_def_plural": "lantbruken"
+      },
+      {
+        "word": "lönebidrag",
+        "removed_plural": "lönebidrag",
+        "removed_def_plural": "lönebidragen"
+      },
+      {
+        "word": "mensskydd",
+        "removed_plural": "mensskydd",
+        "removed_def_plural": "mensskydden"
+      },
+      {
+        "word": "metaspråk",
+        "removed_plural": "metaspråk",
+        "removed_def_plural": "metaspråken"
+      },
+      {
+        "word": "minoritetsspråk",
+        "removed_plural": "minoritetsspråk",
+        "removed_def_plural": "minoritetsspråken"
+      },
+      {
+        "word": "missbruk",
+        "removed_plural": "missbruk",
+        "removed_def_plural": "missbruken"
+      },
+      {
+        "word": "munskydd",
+        "removed_plural": "munskydd",
+        "removed_def_plural": "munskydden"
+      },
+      {
+        "word": "munspel",
+        "removed_plural": "munspel",
+        "removed_def_plural": "munspelen"
+      },
+      {
+        "word": "målspråk",
+        "removed_plural": "målspråk",
+        "removed_def_plural": "målspråken"
+      },
+      {
+        "word": "ordningstal",
+        "removed_plural": "ordningstal",
+        "removed_def_plural": "ordningstalen"
+      },
+      {
+        "word": "portal",
+        "removed_plural": "portaler",
+        "removed_def_plural": "portalerna"
+      },
+      {
+        "word": "primtal",
+        "removed_plural": "primtal",
+        "removed_def_plural": "primtalen"
+      },
+      {
+        "word": "rollspel",
+        "removed_plural": "rollspel",
+        "removed_def_plural": "rollspelen"
+      },
+      {
+        "word": "samtal",
+        "removed_plural": "samtal",
+        "removed_def_plural": "samtalen"
+      },
+      {
+        "word": "slutspel",
+        "removed_plural": "slutspel",
+        "removed_def_plural": "slutspelen"
+      },
+      {
+        "word": "socialbidrag",
+        "removed_plural": "socialbidrag",
+        "removed_def_plural": "socialbidragen"
+      },
+      {
+        "word": "solskydd",
+        "removed_plural": "solskydd",
+        "removed_def_plural": "solskydden"
+      },
+      {
+        "word": "statsbidrag",
+        "removed_plural": "statsbidrag",
+        "removed_def_plural": "statsbidragen"
+      },
+      {
+        "word": "studiebidrag",
+        "removed_plural": "studiebidrag",
+        "removed_def_plural": "studiebidragen"
+      },
+      {
+        "word": "sällskapsspel",
+        "removed_plural": "sällskapsspel",
+        "removed_def_plural": "sällskapsspelen"
+      },
+      {
+        "word": "särdrag",
+        "removed_plural": "särdrag",
+        "removed_def_plural": "särdragen"
+      },
+      {
+        "word": "tandvårdsbidrag",
+        "removed_plural": "tandvårdsbidrag",
+        "removed_def_plural": "tandvårdsbidragen"
+      },
+      {
+        "word": "teckenspråk",
+        "removed_plural": "teckenspråk",
+        "removed_def_plural": "teckenspråken"
+      },
+      {
+        "word": "telefonsamtal",
+        "removed_plural": "telefonsamtal",
+        "removed_def_plural": "telefonsamtalen"
+      },
+      {
+        "word": "tiotal",
+        "removed_plural": "tiotal",
+        "removed_def_plural": "tiotalen"
+      },
+      {
+        "word": "tusental",
+        "removed_plural": "tusental",
+        "removed_def_plural": "tusentalen"
+      },
+      {
+        "word": "U-land",
+        "removed_plural": "U-länder",
+        "removed_def_plural": "U-länderna"
+      },
+      {
+        "word": "underhållsbidrag",
+        "removed_plural": "underhållsbidrag",
+        "removed_def_plural": "underhållsbidragen"
+      },
+      {
+        "word": "underliv",
+        "removed_plural": "underliv",
+        "removed_def_plural": "underliven"
+      },
+      {
+        "word": "uppdrag",
+        "removed_plural": "uppdrag",
+        "removed_def_plural": "uppdragen"
+      },
+      {
+        "word": "Uppland",
+        "removed_plural": "Uppland",
+        "removed_def_plural": "Upplanden"
+      },
+      {
+        "word": "uppspel",
+        "removed_plural": "uppspel",
+        "removed_def_plural": "uppspelen"
+      },
+      {
+        "word": "utbildningsbidrag",
+        "removed_plural": "utbildningsbidrag",
+        "removed_def_plural": "utbildningsbidragen"
+      },
+      {
+        "word": "utdrag",
+        "removed_plural": "utdrag",
+        "removed_def_plural": "utdragen"
+      },
+      {
+        "word": "utspel",
+        "removed_plural": "utspel",
+        "removed_def_plural": "utspelen"
+      },
+      {
+        "word": "uttal",
+        "removed_plural": "uttal",
+        "removed_def_plural": "uttalen"
+      },
+      {
+        "word": "utvecklingssamtal",
+        "removed_plural": "utvecklingssamtal",
+        "removed_def_plural": "utvecklingssamtalen"
+      },
+      {
+        "word": "vardagsliv",
+        "removed_plural": "vardagsliv",
+        "removed_def_plural": "vardagsliven"
+      },
+      {
+        "word": "vindskydd",
+        "removed_plural": "vindskydd",
+        "removed_def_plural": "vindskydden"
+      },
+      {
+        "word": "vänskap",
+        "removed_plural": "vänskaper",
+        "removed_def_plural": "vänskaperna"
+      },
+      {
+        "word": "vårdbidrag",
+        "removed_plural": "vårdbidrag",
+        "removed_def_plural": "vårdbidragen"
+      },
+      {
+        "word": "vårdnadsbidrag",
+        "removed_plural": "vårdnadsbidrag",
+        "removed_def_plural": "vårdnadsbidragen"
+      },
+      {
+        "word": "yrkesliv",
+        "removed_plural": "yrkesliv",
+        "removed_def_plural": "yrkesliven"
+      },
+      {
+        "word": "åtal",
+        "removed_plural": "åtal",
+        "removed_def_plural": "åtalen"
+      }
+    ],
+    "morphological_fixes": [
+      {
+        "word": "banderoll",
+        "old_plural": "banderoller",
+        "new_plural": "banderollar",
+        "old_def_plural": "banderollerna",
+        "new_def_plural": "banderollarna"
+      },
+      {
+        "word": "efterkontroll",
+        "old_plural": "efterkontroller",
+        "new_plural": "efterkontrollar",
+        "old_def_plural": "efterkontrollerna",
+        "new_def_plural": "efterkontrollarna"
+      },
+      {
+        "word": "fjärrkontroll",
+        "old_plural": "fjärrkontroller",
+        "new_plural": "fjärrkontrollar",
+        "old_def_plural": "fjärrkontrollerna",
+        "new_def_plural": "fjärrkontrollarna"
+      },
+      {
+        "word": "huvudroll",
+        "old_plural": "huvudroller",
+        "new_plural": "huvudrollar",
+        "old_def_plural": "huvudrollerna",
+        "new_def_plural": "huvudrollarna"
+      },
+      {
+        "word": "hälsokontroll",
+        "old_plural": "hälsokontroller",
+        "new_plural": "hälsokontrollar",
+        "old_def_plural": "hälsokontrollerna",
+        "new_def_plural": "hälsokontrollarna"
+      },
+      {
+        "word": "intervall",
+        "old_plural": "intervaller",
+        "new_plural": "intervallar",
+        "old_def_plural": "intervallerna",
+        "new_def_plural": "intervallarna"
+      },
+      {
+        "word": "kontroll",
+        "old_plural": "kontroller",
+        "new_plural": "kontrollar",
+        "old_def_plural": "kontrollerna",
+        "new_def_plural": "kontrollarna"
+      },
+      {
+        "word": "korall",
+        "old_plural": "koraller",
+        "new_plural": "korallar",
+        "old_def_plural": "korallerna",
+        "new_def_plural": "korallarna"
+      },
+      {
+        "word": "lättmetall",
+        "old_plural": "lättmetaller",
+        "new_plural": "lättmetallar",
+        "old_def_plural": "lättmetallerna",
+        "new_def_plural": "lättmetallarna"
+      },
+      {
+        "word": "metall",
+        "old_plural": "metaller",
+        "new_plural": "metallar",
+        "old_def_plural": "metallerna",
+        "new_def_plural": "metallarna"
+      },
+      {
+        "word": "overall",
+        "old_plural": "overaller",
+        "new_plural": "overallar",
+        "old_def_plural": "overallerna",
+        "new_def_plural": "overallarna"
+      },
+      {
+        "word": "roll",
+        "old_plural": "roller",
+        "new_plural": "rollar",
+        "old_def_plural": "rollerna",
+        "new_def_plural": "rollarna"
+      },
+      {
+        "word": "träningsoverall",
+        "old_plural": "träningsoveraller",
+        "new_plural": "träningsoverallar",
+        "old_def_plural": "träningsoverallerna",
+        "new_def_plural": "träningsoverallarna"
+      },
+      {
+        "word": "vätskekontroll",
+        "old_plural": "vätskekontroller",
+        "new_plural": "vätskekontrollar",
+        "old_def_plural": "vätskekontrollerna",
+        "new_def_plural": "vätskekontrollarna"
+      }
+    ],
+    "unchanged": 5617
+  }
+}
